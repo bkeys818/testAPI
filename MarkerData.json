@@ -7,7 +7,6 @@
     "desc" : "The Frank A. Bracken Administration Building, also known as the Ad Building, houses administrative offices that include the president, provost, and vice presidents.",
     "url" : "https://bsu.edu/map/buildings/campus/frank-a-bracken-administration-building",
     "term" : "AD",
-    "id" : "4271317D-99F8-4CF7-9771-7769D0F1E090",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -21,11 +20,9 @@
     "lat" : 40.2147179,
     "lng" : -85.4184,
     "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp012_053.jpg",
-    "type" : "",
     "desc" : "The Alumni Center houses the offices of Alumni Programs and is fully equipped to hold conferences, receptions, and events.",
     "url" : "https://bsu.edu/map/buildings/campus/alumni-center",
     "term" : "AL",
-    "id" : "5BD3FA2D-8007-4D76-ACDB-3C922EE5BEA9",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -39,11 +36,9 @@
     "lat" : 40.2108727,
     "lng" : -85.41243,
     "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_390.jpg",
-    "type" : "",
     "desc" : "A community of University Apartments, Anthony Apartments is one of two apartment complexes maintained by Ball State.",
     "url" : "https://bsu.edu/map/buildings/campus/anthony-apartments",
     "term" : "AN",
-    "id" : "109292A0-81EE-4E3D-BF44-FFF42AC57118",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -61,7 +56,6 @@
     "desc" : "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located southwest of Bethel and McKinley avenues, along Bowman Street.",
     "url" : "https://bsu.edu/map/athletics/anthony-recreation-fields",
     "term" : "",
-    "id" : "AC01E9F8-F732-439C-95BB-D67214C0D158",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -78,7 +72,6 @@
     "desc" : "The Applied Technology Building houses the Department of Applied Business Studies, the Department of Construction Management and Interior Design, and the student-run Allegre Restaurant.",
     "url" : "https://bsu.edu/map/buildings/campus/applied-technology-building",
     "term" : "AT",
-    "id" : "AC7F5E42-6530-4015-9C44-9E5ABD9A55DF",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -95,7 +88,6 @@
     "desc" : "The Architecture Building houses the R. Wayne Estopinal College of Architecture and Planning (CAP) and its departments.",
     "url" : "https://bsu.edu/map/buildings/campus/architecture-building",
     "term" : "AB",
-    "id" : "1FE8F0D1-2B3F-47A4-A542-8293B607F963",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -112,7 +104,6 @@
     "desc" : "The Art and Journalism Building houses degree programs in our Department of Journalism and School of Art along with the popular Atrium Food Court.",
     "url" : "https://bsu.edu/map/buildings/campus/art-and-journalism-building",
     "term" : "AJ",
-    "id" : "07EE82EA-6889-493A-889C-14A0B9F9E58F",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -129,7 +120,6 @@
     "desc" : "The Arts and Communications Building houses the office of the College of Fine Arts, its Departments of Theatre and Dance, the Department of Speech Pathology and Audiology, the Department of Family and Consumer Sciences and advising offices as well as Strother and Cave theatres.",
     "url" : "https://bsu.edu/map/buildings/campus/arts-and-communications-building",
     "term" : "AC",
-    "id" : "62ACF26E-722A-4810-8335-35315AD27788",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -147,7 +137,6 @@
     "desc" : "The grand stone staircase and terrace that lead to the front doors of the David Owsley Museum of Art at Ball State University also serve as the setting for Ball State’s May Commencement.",
     "url" : "https://bsu.edu/map/landmarks/arts-terrace",
     "term" : "",
-    "id" : "0C5E1C3B-C3AE-4978-B342-2FA9A155C497",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -164,7 +153,6 @@
     "desc" : "The Ball Communication Building houses offices and classrooms for our Department of Telecommunications and Center for Information and Communication Sciences (CICS}, along with our iLearn and Emerging Technologies initiatives. ",
     "url" : "https://bsu.edu/map/buildings/campus/ball-communication-building",
     "term" : "BC",
-    "id" : "4674FE2A-D2EA-4297-A5DB-6BFD0D448519",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -181,7 +169,6 @@
     "desc" : "Ball Gymnasium is a historic athletic and recreational complex.",
     "url" : "https://bsu.edu/map/buildings/campus/ball-gymnasium",
     "term" : "BG",
-    "id" : "30AF1452-9D70-4AD7-9803-4982C812CC77",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -198,7 +185,6 @@
     "desc" : "The Ball Honors House is the home of the Honors College.",
     "url" : "https://bsu.edu/map/buildings/campus/ball-honors-house",
     "term" : "BA",
-    "id" : "E1E0F5D4-95D3-4418-B4E9-07F6B8997E40",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -215,7 +201,6 @@
     "desc" : "A picnic shelter and open field for Ball State student and employee events located near the Briner Sports Complex.",
     "url" : "https://bsu.edu/map/buildings/campus/benadum-woods-picnic-shelter",
     "term" : "A3",
-    "id" : "AB40B535-A7EF-46ED-8E49-2C7CFA3080A1",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -232,7 +217,6 @@
     "desc" : "Beneficence, affectionately called “Benny,” is Ball State's institutional icon.",
     "url" : "https://bsu.edu/map/landmarks/beneficence",
     "term" : "landmark",
-    "id" : "095730B9-D4E8-4BD8-A96D-B4A0AD08FB39",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -250,7 +234,6 @@
     "desc" : "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located along Bethel Avenue, west of Tillotson Avenue.",
     "url" : "https://bsu.edu/map/athletics/bethel-recreation-fields",
     "term" : "",
-    "id" : "ACA07A71-2B0E-43F8-9B85-030566472F73",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -268,7 +251,6 @@
     "desc" : "Located on the first floor of Bracken Library, Bookmark Café offers a selection of coffees, snacks, and quick meal options.",
     "url" : "https://bsu.edu/map/dining/bookmark-cafe",
     "term" : "BL",
-    "id" : "6BF97D0C-F5F5-48FE-848F-4D16C8566E93",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -285,7 +267,6 @@
     "desc" : "Bracken House is the home of the university's president and is the location for many receptions, dinners, and other Ball State events.",
     "url" : "https://bsu.edu/map/buildings/campus/bracken-house",
     "term" : "PR",
-    "id" : "46FF65AC-BE85-4D18-BBF1-4AE97D174A8A",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -302,7 +283,6 @@
     "desc" : "Bracken Library is the main library for the university.",
     "url" : "https://bsu.edu/map/buildings/campus/bracken-library",
     "term" : "BL",
-    "id" : "75594977-9228-4A2A-B8C5-1CCC7240DEBC",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -320,7 +300,6 @@
     "desc" : "The Briner Sports Complex includes a soccer turf field, a field hockey field, two operations booths, two scoreboards, an arched entrance, and throw and field events areas for track.",
     "url" : "https://bsu.edu/map/athletics/briner-sports-complex",
     "term" : "",
-    "id" : "887A8653-67EB-49C2-A288-AE09361D8E01",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -337,7 +316,6 @@
     "desc" : "The Burkhardt Building houses the Departments of History, Anthropology, and Women's and Gender Studies.",
     "url" : "https://bsu.edu/map/buildings/campus/burkhardt-building",
     "term" : "BB",
-    "id" : "017627B4-1DB8-4FA5-B4BB-1A37960A14E8",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -354,7 +332,6 @@
     "desc" : "Established by Teachers College, Burris Laboratory School is a K-12 school consistently ranked as one of Indiana's best.  ",
     "url" : "https://bsu.edu/map/buildings/campus/burris-laboratory-school",
     "term" : "BU",
-    "id" : "2DC1BF2E-8712-46E4-A807-427529E6849E",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -372,7 +349,6 @@
     "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Commuter",
-    "id" : "4918947C-1432-4339-A871-01F1921C28FD",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -390,7 +366,6 @@
     "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Commuter",
-    "id" : "8EC60F23-0C74-4CC9-B178-F007E5EAA1A3",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -408,7 +383,6 @@
     "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Commuter",
-    "id" : "20FAE23E-11E0-410E-8EB7-E6248B70B595",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -426,7 +400,6 @@
     "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Commuter",
-    "id" : "9180AE8E-46DC-4A58-8313-93AD3A431062",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -444,7 +417,6 @@
     "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Commuter",
-    "id" : "5733C34C-1F14-4809-B026-C0011629E99C",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -462,7 +434,6 @@
     "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Commuter",
-    "id" : "30B836AB-63AA-424E-A35C-2AA2A5A0EB71",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -480,7 +451,6 @@
     "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Commuter",
-    "id" : "2B0CF01A-2A2C-41E1-BCF6-4EA7706A226D",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -497,7 +467,6 @@
     "desc" : "The CAP Design-Build Facility is a large workshop where students from the College of Architecture and Planning can build building and design models.",
     "url" : "https://bsu.edu/map/buildings/campus/cap-design-build-lab",
     "term" : "",
-    "id" : "5D14A7C0-557C-4659-996B-8CAB973B16CD",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -515,7 +484,6 @@
     "desc" : "The Tennis Center features twelve tennis courts and is used by our men's and women's tennis teams. ",
     "url" : "https://bsu.edu/map/athletics/tennis-courts",
     "term" : "",
-    "id" : "92237F0A-D7DD-4315-AB5B-2DD636471E36",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -532,7 +500,6 @@
     "desc" : "This property houses the Center for Peace and Conflict Studies.",
     "url" : "https://bsu.edu/map/buildings/campus/center-for-peace-and-conflict-studies",
     "term" : "PE",
-    "id" : "8DB94699-5854-4AB6-B049-0298A9C0020C",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -549,7 +516,6 @@
     "desc" : "The five cooling towers located at the Central Chill Plant provide air conditioning and dehumidification for a portion of the buildings on campus.",
     "url" : "https://bsu.edu/map/buildings/campus/central-chilling-plant",
     "term" : "CC",
-    "id" : "2613657C-9067-43B0-AD20-248333AC0FA3",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -566,7 +532,6 @@
     "desc" : "Part of the Cooper Science Complex the Charles W. Brown Planetarium is the largest in Indiana.",
     "url" : "https://bsu.edu/map/buildings/campus/charles-brown-planetarium",
     "term" : "",
-    "id" : "16C36AD4-3486-4A17-9EDD-BBB4AE0D891C",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -583,7 +548,6 @@
     "desc" : "These properties house the Child Study Centers.",
     "url" : "https://bsu.edu/map/buildings/campus/child-study-center",
     "term" : "CS and CX",
-    "id" : "BB69F1B7-AE5C-4309-8F40-7981F3155538",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -600,7 +564,6 @@
     "desc" : "Christy Woods is a 17-acre outdoor classroom and laboratory that provides opportunities for hands-on learning and observation of nature and natural processes for students.",
     "url" : "https://bsu.edu/map/landmarks/christy-woods",
     "term" : "",
-    "id" : "C51F0450-5622-4CD5-9E20-0D2B74E17131",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -617,7 +580,6 @@
     "desc" : "Located on the southwest side of campus this building houses the Christy Woods offices and the South Service building.",
     "url" : "https://bsu.edu/map/buildings/campus/south-shopschristy-woods-office-west-campus",
     "term" : "SS",
-    "id" : "B8E997D4-C782-4524-8C5A-6A05066486F7",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -634,7 +596,6 @@
     "desc" : "Part of the Cooper Science Complex, the Cooper Life Science Building houses the Departments of Biology, Geography, and Health Science. ",
     "url" : "https://bsu.edu/map/buildings/campus/cooper-life-science-building",
     "term" : "CL",
-    "id" : "9EB04D80-8ED0-4CFE-AB0C-7D496FD077F6",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -651,7 +612,6 @@
     "desc" : "Part of the Cooper Science Complex, the Cooper Nursing Building houses the School of Nursing. ",
     "url" : "https://bsu.edu/map/buildings/campus/cooper-nursing-building",
     "term" : "CN",
-    "id" : "0881C203-11E0-42AC-83D0-F90A49FFF99D",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -668,7 +628,6 @@
     "desc" : "Part of the Cooper Science Complex, the Cooper Physical Science Building houses an observatory, weather station, and the Departments of Chemistry and Physics and Astronomy.",
     "url" : "https://bsu.edu/map/buildings/campus/cooper-physical-science-building",
     "term" : "CP",
-    "id" : "410E43AB-10E8-4317-85F3-DD24D8527EE6",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -686,7 +645,6 @@
     "desc" : "Once a dirt path, the Cow Path is a long sidewalk that extends from Riverside Avenue northward behind the Art and Journalism Building, Ball Communication Building, David Letterman Communication and Media Building, and Robert Bell Building to Petty Road.",
     "url" : "https://bsu.edu/map/landmarks/cow-path",
     "term" : "",
-    "id" : "D52F38AB-6D05-4758-A984-6D1921039BC8",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -704,7 +662,6 @@
     "desc" : "Orange permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Commuter Restricted",
-    "id" : "7288C4BB-40D9-4E16-BC65-0800C526D230",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -721,7 +678,6 @@
     "desc" : "The David Letterman Communication and Media Building houses the office of our College of Communication, Information, and Media and its Departments of Telecommunications and Communication Studies. In addition, it is home to Indiana Public Radio and WCRD-FM.",
     "url" : "https://bsu.edu/map/buildings/campus/david-letterman-communication-and-media-building",
     "term" : "LB",
-    "id" : "5EE07DB6-2931-4865-8A2D-B496F633C59B",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -738,7 +694,6 @@
     "desc" : "DeHority Complex is one of the university's residence halls and home to Honors College students. ",
     "url" : "https://bsu.edu/map/buildings/campus/dehority-complex",
     "term" : "DH",
-    "id" : "C417C3EF-331B-431C-9EE8-A44C3332F5D0",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -755,7 +710,6 @@
     "desc" : "The energy station contains equipment that operates Ball State's geothermal system.",
     "url" : "https://bsu.edu/map/buildings/campus/district-energy-station-north",
     "term" : "EN",
-    "id" : "2A07D432-C460-4691-B8D3-C5D295E87FC9",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -773,7 +727,6 @@
     "desc" : "This popular hangout for sunbathers north of Johnson Halls is a serene home for fish, ducks, and geese.",
     "url" : "https://bsu.edu/map/landmarks/duck-pond",
     "term" : "",
-    "id" : "1EA27A17-3D3E-4670-A86A-1BADE07CB6CE",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -790,7 +743,6 @@
     "desc" : "This historic residential property once belonged to members of the Ball family and is now home to the university's E.B. and Bertha C. Ball Center.",
     "url" : "https://bsu.edu/map/buildings/campus/e-b-and-bertha-c-ball-center",
     "term" : "EB",
-    "id" : "824AEA60-755F-4683-9432-C293428208B5",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -807,7 +759,6 @@
     "desc" : "This building is home to the Center for Medical Education.",
     "url" : "https://bsu.edu/map/buildings/campus/e-f-ball-medical-education-building",
     "term" : "MT",
-    "id" : "5B3BF24F-C115-4F85-AAF3-2CED2E442BD2",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -825,7 +776,6 @@
     "desc" : "An all-you-can eat, buffet-style dining facility located behind Elliott Hall. Open to the public.",
     "url" : "https://bsu.edu/map/dining/elliottwagoner-dining",
     "term" : "EW",
-    "id" : "228A2885-B538-49E0-8C09-D12B1B10A4A5",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -842,7 +792,6 @@
     "desc" : "Elliott Hall is one of the university's oldest residence halls.",
     "url" : "https://bsu.edu/map/buildings/campus/elliott-hall",
     "term" : "EL",
-    "id" : "73725079-5285-4F07-9C19-C73CFCD4CBBA",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -859,7 +808,6 @@
     "desc" : "Emens Auditorium is Ball State's premier venue for arts and entertainment events. ",
     "url" : "https://bsu.edu/map/buildings/campus/emens-auditorium",
     "term" : "AU",
-    "id" : "1AA405C3-C0B4-4382-89D7-DD03F81FCE41",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -877,7 +825,6 @@
     "desc" : "This parking garage is located east of Emens Auditorium and the adjacent Arts and Communications Building. Metered parking for visitors is located on the top floor with a pay station located in each of the three stairwells and one at the bottom of the up and down ramp on the top floor. The remainder of the garage is restricted (red) parking and requires a permit.<br/><br/>Red permit required<br/>3:30 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "E300991F-EEE5-4C51-8C5B-7F5D807177EA",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -895,7 +842,6 @@
     "desc" : "The Field Sports Building features facilities for indoor track and field events. ",
     "url" : "https://bsu.edu/map/athletics/field-sports",
     "term" : "RC",
-    "id" : "4EF2A672-CC84-4C77-8DD9-79488078E5A1",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -912,7 +858,6 @@
     "desc" : "The Fine Arts Building is home to the David Owsley Museum of Art and Department of Geological Sciences. ",
     "url" : "https://bsu.edu/map/buildings/campus/fine-arts-building-and-museum-of-art",
     "term" : "AR",
-    "id" : "EA179E9A-B7A2-4910-AD8C-0D8E6D369F18",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -930,7 +875,6 @@
     "desc" : "This year-round football training facility features advanced strength-training equipment, meeting spaces and locker rooms for the football team, and a sports medicine facility.",
     "url" : "https://bsu.edu/map/athletics/fisher-football-training-complex",
     "term" : "FT",
-    "id" : "4739285B-8885-4D4A-9416-DA78C4E8547F",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -948,7 +892,6 @@
     "desc" : "Frog Baby is a sculpture of a joyous little girl playfully holding a frog in each hand.",
     "url" : "https://bsu.edu/map/landmarks/frog-baby-pond",
     "term" : "",
-    "id" : "AD894EA0-46F3-42D0-935F-E0385033B21D",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -966,7 +909,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "AC4CD64D-1E92-4118-BB99-36710D26121C",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -984,7 +926,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "DDA53B60-0961-4AE0-8B40-EBB8A5FCF192",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1002,7 +943,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "706C3059-CB72-4307-B85D-DDAD5546D1F0",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1020,7 +960,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "B8365921-78BD-4714-9DB4-7C1B8F6D20C0",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1038,7 +977,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "AC263603-81FA-4A05-ADF5-DFF9EE405F14",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1056,7 +994,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "BCD61553-A58B-4A3E-8C0F-03F5EE87F8B8",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1074,7 +1011,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "7098A26F-9776-411C-86DD-8A6E5C924D56",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1092,7 +1028,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "151F1182-8135-4AA7-A661-F53BEA7A0C14",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1110,7 +1045,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "D0E79502-0640-4DB5-B335-A039FE492E85",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1128,7 +1062,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "93117CB1-18C4-4423-B513-01B6230BEE09",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1146,7 +1079,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "1C16D536-8624-4881-9613-3696C89B4E16",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1164,7 +1096,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "8E9CBCD0-32D3-4B42-B54D-12B3CAA1B09A",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1182,7 +1113,6 @@
     "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "General",
-    "id" : "157FF3B0-5251-4690-9E50-2389DB7C2D51",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1199,7 +1129,6 @@
     "desc" : "Greek Row refers to the area of Greek fraternity and sorority houses along Riverside Avenue. ",
     "url" : "https://bsu.edu/map/landmarks/greek-row",
     "term" : "",
-    "id" : "4E0E4B0C-C9D3-4EFB-B810-9BD7FD9F8903",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1217,7 +1146,6 @@
     "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Residence",
-    "id" : "8AADCB28-07A7-475C-A2D9-01B9E6AE640D",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1235,7 +1163,6 @@
     "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Residence",
-    "id" : "295C052B-D8D0-4456-82B3-363EE0D035D2",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1253,7 +1180,6 @@
     "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Residence",
-    "id" : "E5469560-97E2-42BC-B782-45D7F7EBF65C",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1271,7 +1197,6 @@
     "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Residence",
-    "id" : "08D29E31-4B0D-4C76-B085-080E54C90448",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1289,7 +1214,6 @@
     "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Residence",
-    "id" : "351F1542-9E83-49EB-9F12-8256D3FA95F7",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1307,7 +1231,6 @@
     "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Residence",
-    "id" : "FF00E944-37FF-4FFF-9923-84A05F371A51",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1325,7 +1248,6 @@
     "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Residence",
-    "id" : "E827428D-8B00-4120-BC26-B88600DCEDD9",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1342,7 +1264,6 @@
     "desc" : "Located in the Music Instruction Building, Hahn Recital Hall is an intimate 150-seat rehearsal and recital hall with excellent acoustical tuning capabilities.",
     "url" : "https://bsu.edu/map/buildings/campus/hahn-recital-hall",
     "term" : "MI",
-    "id" : "63CBF50C-5845-4391-906B-B859FAD81CBB",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1359,7 +1280,6 @@
     "desc" : "The Hargreaves Music Building houses a portion of the School of Music.",
     "url" : "https://bsu.edu/map/buildings/campus/hargreaves-music-building",
     "term" : "MU",
-    "id" : "E84A39D1-7FEF-4825-A10B-FA4556C42ED7",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1376,7 +1296,6 @@
     "desc" : "The Health and Physical Activity Building houses offices and classrooms for the School of Kinesiology, Fisher Institute of Health and Well-Being, Intercollegiate Athletics, and the Human Performance Laboratory. ",
     "url" : "https://bsu.edu/map/buildings/campus/health-and-physical-activity-building",
     "term" : "HP",
-    "id" : "A0250699-3D00-495F-A40D-E7AADC4AAF21",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1393,7 +1312,6 @@
     "desc" : "This building houses the Health Center, which provides ambulatory health care for sick and injured students. ",
     "url" : "https://bsu.edu/map/buildings/campus/health-center-amelia-t-wood",
     "term" : "HC",
-    "id" : "A3C97BAC-4782-41A8-B216-6EABB5443CDB",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1410,7 +1328,6 @@
     "desc" : "The Health Professions Building houses office for the College of Health and its departments.",
     "url" : "https://bsu.edu/map/buildings/campus/health-professions-building",
     "term" : "HB",
-    "id" : "289DAEC2-E805-4B59-985E-18410164E927",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1427,7 +1344,6 @@
     "desc" : "The seven boilers located at the Heat Plant provide steam for heating, domestic hot water, cooking, laundry, and sterilization of surgical instruments for a portion of buildings at Ball State and nearby IU Health Ball Memorial Hospital. ",
     "url" : "https://bsu.edu/map/buildings/campus/heat-plant",
     "term" : "BH",
-    "id" : "D2D7DB45-021F-470A-BEEA-99A60B72025C",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1445,7 +1361,6 @@
     "desc" : "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located on the north side of West Bethel Avenue, between County Roads 300 W and 400 W. (4313 N. Everett Road).",
     "url" : "https://bsu.edu/map/athletics/heath-farm-recreation-fields",
     "term" : "",
-    "id" : "59261F5C-6C3B-42A4-B1E1-743A71FA9CBD",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1462,7 +1377,6 @@
     "desc" : "",
     "url" : "https://bsu.edu/map/buildings/campus/indiana-academy-house",
     "term" : "AY",
-    "id" : "4E8D82D6-4895-4FA5-AD3B-BC6E992358AF",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1479,7 +1393,6 @@
     "desc" : "The Jo Ann Gora Student Recreation and Wellness Center is a state-of-the-art athletic and recreational complex.",
     "url" : "https://bsu.edu/map/buildings/campus/student-recreation--wellness-center",
     "term" : "RC",
-    "id" : "0BA6FFE6-F074-4D89-956A-F40FD5BA29A9",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1496,7 +1409,6 @@
     "desc" : "Johnson Complex provides on-campus housing to students.",
     "url" : "https://bsu.edu/map/buildings/campus/johnson-halls-a-botsford-swinford",
     "term" : "JE",
-    "id" : "EAD024E3-69C5-4C67-BD7E-6B99EE5C8C7B",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1513,7 +1425,6 @@
     "desc" : "Johnson Complex provides on-campus housing to students.",
     "url" : "https://bsu.edu/map/buildings/campus/johnson-halls-b-schmidt-wilson",
     "term" : "JW",
-    "id" : "27573807-B582-4A32-B56F-F8F524B301DB",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1530,7 +1441,6 @@
     "desc" : "This historic residential property is home to the university's Virginia B. Ball Center for Creative Inquiry. ",
     "url" : "https://bsu.edu/map/buildings/campus/kitselman-center",
     "term" : "KC",
-    "id" : "92BB8F59-1FD6-4843-9E3E-ABDCAD35401A",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1548,7 +1458,6 @@
     "desc" : "Any color permit required<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Stadium",
-    "id" : "2D38A78D-99B7-425F-9193-987D8D7BF342",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1565,7 +1474,6 @@
     "desc" : "The L.A. Pittenger Student Center serves as a hub for many on-campus student organizations, programs, and services. The center also contains the Tally food court, barbershop, bowling alley, post office, and 24-room hotel.",
     "url" : "https://bsu.edu/map/buildings/campus/student-center-l-a-pittenger",
     "term" : "SC",
-    "id" : "BF4974E3-5755-43F2-A568-026FF66A8AD4",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1582,7 +1490,6 @@
     "desc" : "Housing approximately 1,900 students, LaFollette Complex is the largest residence hall complex on campus. ",
     "url" : "https://bsu.edu/map/buildings/campus/lafollette-complex",
     "term" : "LA",
-    "id" : "A6AAC790-63ED-47CE-B457-D203D9D0AEBD",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1600,7 +1507,6 @@
     "desc" : "Across McKinley Avenue from LaFollette Complex, this large grassy area in front of Worthen Arena is a popular place for students to play Frisbee and tag football.",
     "url" : "https://bsu.edu/map/athletics/lafollette-field",
     "term" : "",
-    "id" : "5D6E04B8-D6CD-422E-9CF1-9BB8C6B75191",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1618,7 +1524,6 @@
     "desc" : "Located in the center of the LaFollette Complex with dining options on the first floor and mezzanine.",
     "url" : "https://bsu.edu/map/dining/lafollette-square",
     "term" : "LA",
-    "id" : "F8A08E37-21B0-49E0-A633-EF6334CE02C6",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1635,7 +1540,6 @@
     "desc" : "The Lewellen Pool Aquatic Center provides aquatic facilities for classes, athletics, and recreation. ",
     "url" : "https://bsu.edu/map/buildings/campus/lewellen-pool-aquatic-center",
     "term" : "LP",
-    "id" : "DAB733E6-F096-42BA-B508-974D41901141",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1652,7 +1556,6 @@
     "desc" : "Lucina Hall is a first-stop location for many new students seeking undergraduate degrees. It houses the Welcome Center, as well as the Offices of Admissions and Scholarships and Financial Aid.",
     "url" : "https://bsu.edu/map/buildings/campus/lucina-hall",
     "term" : "LU",
-    "id" : "BCAA344C-63FC-439B-B78A-34A779F80352",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1670,7 +1573,6 @@
     "desc" : "Recreational tennis courts.  Located between Lucina Hall and West Quad Building.  It is accessible by vehicle off of University Avenue.",
     "url" : "https://bsu.edu/map/athletics/lucina-tennis-courts",
     "term" : "",
-    "id" : "44035405-CC32-4457-AA17-0CDE7DADF3E4",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1687,7 +1589,6 @@
     "desc" : "This property houses research facilities for faculty and students affiliated with the Center for Medical Education, also known as the Indiana University School of Medicine-Muncie.",
     "url" : "https://bsu.edu/map/buildings/campus/maria-bingham-hall-medical-education-building",
     "term" : "MB",
-    "id" : "A7BFEA82-3B9B-4387-A275-1DFA5E9457C1",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1704,7 +1605,6 @@
     "desc" : "The Marilyn K. Glick Center for Glass is a glass arts studio that supports the practice of contemporary glass arts. ",
     "url" : "https://bsu.edu/map/buildings/campus/marilyn-k-glick-center-for-glass",
     "term" : "GL",
-    "id" : "763D2B45-9B61-422C-A2C8-4727AC711408",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1722,7 +1622,6 @@
     "desc" : "An eatery with quick meals in mind, offering a bountiful selection of carryout items, including sandwiches, salads, and drinks. Located on the first floor in the Studebaker West Complex.",
     "url" : "https://bsu.edu/map/dining/micro-cafe",
     "term" : "SW",
-    "id" : "5150530F-5624-4B65-A039-46FCE12D43E2",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1739,7 +1638,6 @@
     "desc" : "The Multicultural Center brings together students of different genders, races, and ethnicities to discuss social and racial issues. ",
     "url" : "https://bsu.edu/map/buildings/campus/multicultural-center",
     "term" : "MA",
-    "id" : "016BDCA8-D2AC-45DD-B031-2A9C1D95781C",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1756,7 +1654,6 @@
     "desc" : "The Music Instruction Building, also known as MIB, provides a state-of-the-art home for the School of Music's music performance and music technology programs.",
     "url" : "https://bsu.edu/map/buildings/campus/music-instruction-building",
     "term" : "MI",
-    "id" : "F17BD8B5-2C80-4AD7-A594-F6A7B120233C",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1774,7 +1671,6 @@
     "desc" : "Forest Idyll, referred to by students as “the naked lady,” is a bronze statue located in the central lobby of Bracken Library.",
     "url" : "https://bsu.edu/map/landmarks/naked-lady",
     "term" : "",
-    "id" : "6DFB50F1-6018-4D6D-9DFB-8C0CF5F65763",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1791,7 +1687,6 @@
     "desc" : "The North Quandrangle Building—better known as North Quad—houses a tutoring center, offices for academic advising and academic systems, and departments affiliated with our College of Sciences and Humanities.",
     "url" : "https://bsu.edu/map/buildings/campus/north-quadrangle-building",
     "term" : "NQ",
-    "id" : "D9A0366F-20D8-464E-8D44-3F5099A255C9",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1809,7 +1704,6 @@
     "desc" : "Noyer Center offers an array of dining options, from carryout items to The Retreat, a restaurant catering to lunches crafted for faculty and staff.",
     "url" : "https://bsu.edu/map/dining/noyer-center",
     "term" : "NO",
-    "id" : "7ECFE110-21D7-4DC1-880B-0E981C0C573F",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1826,7 +1720,6 @@
     "desc" : "Noyer Complex provides on-campus housing to students. ",
     "url" : "https://bsu.edu/map/buildings/campus/noyer-complex",
     "term" : "NO",
-    "id" : "F1E2D0C7-4E7C-4756-B7A7-659ED866CEE2",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1843,7 +1736,6 @@
     "desc" : "Oakwood Building houses the Office of Community Engagement and Institute for Entrepreneurship and Free Enterprise.",
     "url" : "https://bsu.edu/map/buildings/campus/oakwood-building",
     "term" : "",
-    "id" : "2DF8A32A-65AB-4831-B8EE-C709EEF9C262",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1861,7 +1753,6 @@
     "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Visitor",
-    "id" : "CEED71B5-34C9-43C3-884B-9F748CB311D7",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1879,7 +1770,6 @@
     "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Visitors",
-    "id" : "95B2DCBC-21AF-4532-B4A8-80A49847CE07",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1897,7 +1787,6 @@
     "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Visitor",
-    "id" : "C4DB8E4C-5005-46D4-A38E-AC3C665D7832",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1915,7 +1804,6 @@
     "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Visitor",
-    "id" : "A3764704-812A-4765-B560-47F3110A5356",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1933,7 +1821,6 @@
     "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Visitor",
-    "id" : "CBC12862-0A40-41AA-B2A2-BC5CE16D6646",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1951,7 +1838,6 @@
     "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Visitor",
-    "id" : "DD2B42C7-3BF6-4AC9-84CD-A46C77546642",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1969,7 +1855,6 @@
     "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Visitor",
-    "id" : "6BA74ACC-62F6-46AC-B9D3-02D38E7497A0",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -1986,7 +1871,6 @@
     "desc" : "Park Hall is one of the university's residence halls. ",
     "url" : "https://bsu.edu/map/buildings/campus/park-hall",
     "term" : "PK",
-    "id" : "F44D274F-A826-49E6-9236-A9C9AE5C26F9",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2004,7 +1888,6 @@
     "desc" : "This parking garage is located immediately south of Sursa Hall and the Music Instruction Building. Metered parking for visitors is located on the bottom floor with a pay station located at each pedestrian exit. The remainder of the garage is restricted (red) parking and requires a permit.<br/><br/>Red permit required<br/>3:30 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "06621E82-F56A-4F2C-8498-B0357A5F6898",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2021,7 +1904,6 @@
     "desc" : "John J. Pruis Hall is a 690-seat venue used for a variety of Ball State functions, including classes, convocations, orientation, conferences, speakers, and the performing arts.",
     "url" : "https://bsu.edu/map/buildings/campus/pruis-hall",
     "term" : "PH",
-    "id" : "64F185EC-042A-4763-973E-A97E1DD9ACBA",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2038,7 +1920,6 @@
     "desc" : "This property houses the offices of University Police.",
     "url" : "https://bsu.edu/map/buildings/campus/department-of-public-safety",
     "term" : "PD",
-    "id" : "A2C36DD5-3CBA-437F-97EF-7C4DD1B33842",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2056,7 +1937,6 @@
     "desc" : "Located in the Student Recreation and Wellness Center, Quiznos (a national chain) serves toasted sub sandwiches.",
     "url" : "https://bsu.edu/map/dining/quiznos",
     "term" : "",
-    "id" : "EBE15B45-AE75-40B1-97A8-0BE67E6D4A4A",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2074,7 +1954,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "BB66FDFE-C029-4003-8FC0-560BF63A88C0",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2092,7 +1971,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "D6097F8A-7658-4325-B1B2-16DD0FAA7D79",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2110,7 +1988,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "92618E04-FC3A-44CC-B07A-8F77EA81B866",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2128,7 +2005,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "AA8E99D4-C352-4054-BC77-81704F336361",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2146,7 +2022,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "3B77FE61-34CD-4D7B-BA5C-5CAB45B3F9AD",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2164,7 +2039,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "BD69D681-68F4-4271-A1CF-DCE5415F083A",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2182,7 +2056,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.\t<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "D476524A-7B84-4A78-A56B-E1134FE4F469",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2200,7 +2073,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "FDE21CCA-8F54-4370-BC91-34F13F07FB4F",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2218,7 +2090,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "2FD906F5-09E3-471D-8AB2-52824971AEA1",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2236,7 +2107,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "FFC775BA-85AA-4ADB-8FB6-5F7DAC2BAE06",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2254,7 +2124,6 @@
     "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "E50B36EE-3D4B-46CF-9C6F-9ED0B3358B45",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2271,7 +2140,6 @@
     "desc" : "The Orchid Greenhouse houses the Wheeler-Thanhauser Orchid Collection and Species Bank. ",
     "url" : "https://bsu.edu/map/buildings/campus/greenhouse",
     "term" : "GH",
-    "id" : "DD1A8F3D-14B4-4C45-899C-69CF278AE34D",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2288,7 +2156,6 @@
     "desc" : "The Robert Bell Building houses the Departments of English, Computer Science, and Mathematical Sciences. ",
     "url" : "https://bsu.edu/map/buildings/campus/robert-bell-building",
     "term" : "RB",
-    "id" : "EAEACFE1-F49F-44FC-BD0F-BEA10A514B32",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2305,7 +2172,6 @@
     "desc" : "A community of University Apartments, Scheidler Apartments is one of two apartment complexes maintained by Ball State.",
     "url" : "https://bsu.edu/map/buildings/campus/scheidler-apartments",
     "term" : "SR",
-    "id" : "A64341B1-C366-4F11-93A5-914FCF06372C",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2323,7 +2189,6 @@
     "desc" : "Located North of campus, Scheumann Stadium is the home for the Cardinal football team, seating 22,500 fans. ",
     "url" : "https://bsu.edu/map/athletics/scheumann-stadium",
     "term" : "ST",
-    "id" : "BC18C0FB-A51E-44CB-8661-0C063C5E4EFE",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2341,7 +2206,6 @@
     "desc" : "Located at McKinley and Riverside avenues, the Scramble Light is a popular place for people to meet.",
     "url" : "https://bsu.edu/map/landmarks/scramble-light",
     "term" : "",
-    "id" : "7826EC05-A843-4494-B272-A22586FC1FD4",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2358,7 +2222,6 @@
     "desc" : "This property houses offices related to vital services and operations at Ball State, including central mailing and receiving, printing services, purchasing, trade shops, and transportation. ",
     "url" : "https://bsu.edu/map/buildings/campus/service-and-stores-building",
     "term" : "SV",
-    "id" : "CBD9C04C-BF98-41C5-9594-93517588DAFC",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2375,7 +2238,6 @@
     "desc" : "Shafer Tower is a prominent landmark located in the center of campus and features a carillon tower housing 48 custom-made bells.",
     "url" : "https://bsu.edu/map/landmarks/shafer-tower",
     "term" : "SH",
-    "id" : "7F79BE23-D750-4F8F-AFCB-3463833263EA",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2392,7 +2254,6 @@
     "desc" : "This property houses offices related to Facilities Planning and Management.",
     "url" : "https://bsu.edu/map/buildings/campus/showalter-building",
     "term" : "SO",
-    "id" : "60B40157-690A-416A-96DE-55E5F7453921",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2410,7 +2271,6 @@
     "desc" : "South Campus Recreation Field 1 is used for intramural recreational activities. Located at University and Tillotson avenues, near the heat plant.",
     "url" : "https://bsu.edu/map/athletics/south-campus-recreation-field-1",
     "term" : "",
-    "id" : "A8C3C4B8-45B4-44F0-91BA-13406B96D0BE",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2428,7 +2288,6 @@
     "desc" : "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located at University and Tillotson Avenues, near The Marilyn K. Glick Center for Glass.",
     "url" : "https://bsu.edu/map/athletics/south-campus-recreation-field-2",
     "term" : "",
-    "id" : "3C59EB91-E689-42CB-8689-36D3E5EB43A3",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2445,7 +2304,6 @@
     "desc" : "This property houses the Sponsored Projects Administration which plays a key in the administration of the university's many grants and copyrights.",
     "url" : "https://bsu.edu/map/buildings/campus/sponsored-projects-administration",
     "term" : "RH",
-    "id" : "E85EDC70-648A-4B27-AE68-711575FFBF7D",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2463,7 +2321,6 @@
     "desc" : "Any color permit required<br/>24 hour parking<br/>Overflow for all lots<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Stadium",
-    "id" : "CA2C3E7A-B5CA-4ED9-B5C2-8EE199F45DF3",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2481,7 +2338,6 @@
     "desc" : "Any color permit required<br/>24 hour parking<br/>Overflow for all lots<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Stadium",
-    "id" : "86E0F5FD-72D3-41CC-A59D-3AFE6F9D3ABF",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2498,7 +2354,6 @@
     "desc" : "Studebaker Hall East, better known as Stu East, is one of the university's residence halls.",
     "url" : "https://bsu.edu/map/buildings/campus/studebaker-east-complex",
     "term" : "SE",
-    "id" : "537BD3BF-1E85-41A9-9D8C-A841CC8E10E9",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2515,7 +2370,6 @@
     "desc" : "Studebaker Hall West, better known as Stu West, is one of the university's residence halls.",
     "url" : "https://bsu.edu/map/buildings/campus/studebaker-west-complex",
     "term" : "SW",
-    "id" : "FAE5CFE6-18D0-4D80-B74D-5CF2B5C1A8CE",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2533,7 +2387,6 @@
     "desc" : "This parking garage is located immediately south of the Student Center. Metered parking for visitors is located on the bottom floor with a pay station located at each pedestrian exit. The remainder of the garage is restricted (red) parking and requires a permit.<br/><br/>Red permit required<br/>3:30 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
     "url" : "null",
     "term" : "Restricted",
-    "id" : "24CA1A6B-083A-4CD0-8B49-80C1D9D4C694",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2550,7 +2403,6 @@
     "desc" : "Located in the Music Instruction Building, Sursa Performance Hall is a rehearsal, performance, and recital hall that features the latest in acoustic advancements.",
     "url" : "https://bsu.edu/map/buildings/campus/sursa-performance-hall",
     "term" : "MI",
-    "id" : "7930C569-05DD-4E3E-BF1B-C2F769286EBE",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2568,7 +2420,6 @@
     "desc" : "The Tally Food Court, located in the L.A. Pittenger Student Center, features a Taco Bell, Starbucks, salad bar, grill menu, soups, and comfort foods.",
     "url" : "https://bsu.edu/map/dining/student-center-tally-food-court",
     "term" : "",
-    "id" : "583F6CEF-2260-495C-A1C1-8145E5FCE72D",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2585,7 +2436,6 @@
     "desc" : "This building, also known as TC, houses the office for our Teachers College and its departments.",
     "url" : "https://bsu.edu/map/buildings/campus/teachers-college-building",
     "term" : "TC",
-    "id" : "86DEFCDA-6F45-465C-80E0-B57F85B45218",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2602,7 +2452,6 @@
     "desc" : "The Teaching and Research Greenhouse provides a place for students to work on research projects and contains plants from around the world for them to examine.",
     "url" : "https://bsu.edu/map/buildings/campus/teaching-and-research-greenhouse",
     "term" : "",
-    "id" : "EFDC0CAB-F7B2-4F91-839C-2E96375D69CA",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2620,7 +2469,6 @@
     "desc" : "The Atrium in the Art and Journalism Building (AJ) is a food court that includes an outdoor courtyard and food establishments ranging from Italian, Asian, and Mexican to burgers, chicken, subs, and salads. Also in AJ is Jamba Juice.",
     "url" : "https://bsu.edu/map/dining/atrium-food-court",
     "term" : "AJ",
-    "id" : "D81E752D-441E-4B1C-9553-01E8033E7EE9",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2637,7 +2485,6 @@
     "desc" : "This large grass area and historic part of campus is bordered by North Quad, the Fine Arts Building, Cooper Science Complex, Ball Gym, West Quad, Lucina Hall, the Administration Building, and the Burkhart Building.",
     "url" : "https://bsu.edu/map/landmarks/the-quad",
     "term" : "landmark",
-    "id" : "C91E9892-3913-4147-9F57-2A96134BE861",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2655,7 +2502,6 @@
     "desc" : "Students enjoy hanging out in the Village, a business district along University Avenue.",
     "url" : "https://bsu.edu/map/landmarks/the-village",
     "term" : "",
-    "id" : "7D0157E2-5289-490D-B65F-178F77359427",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2672,7 +2518,6 @@
     "desc" : "Kinghorn Hall is one of the university's residence halls. ",
     "url" : "https://bsu.edu/map/buildings/campus/thomas-j-kinghorn-hall",
     "term" : "KI",
-    "id" : "B7CB52BA-2F5C-4D89-B2D4-3CEC9F11C9A6",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2690,7 +2535,6 @@
     "desc" : "Located in Kinghorn Hall, the Tom John Food Shop serves custom-made sandwich options with breakfast, lunch, and dinner in mind. An adjacent grocery area offers grab-and-go items from snacks and frozen entrees to fruit cups and salads.",
     "url" : "https://bsu.edu/map/dining/tom-john-food-shop",
     "term" : "",
-    "id" : "AE777E20-FC80-45E0-BC04-BA7F11C2484E",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2707,7 +2551,6 @@
     "desc" : "This property houses the Transfer Indiana Central Office whose staff is responsible for working with incoming transfer students to determine how courses taken at other colleges and universities would transfer to Ball State.",
     "url" : "https://bsu.edu/map/buildings/campus/400-north-mckinley",
     "term" : "AS",
-    "id" : "C8221DB5-DBBF-4D03-AA47-ECFE5ED323C8",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2725,7 +2568,6 @@
     "desc" : "Located between Bracken Library and the Architecture Building, University Green is a popular spot for outdoor concerts and other special events.",
     "url" : "https://bsu.edu/map/landmarks/university-green",
     "term" : "",
-    "id" : "56F6DAF2-22BC-41BD-A791-EB0A0D692E15",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2742,7 +2584,6 @@
     "desc" : "University Theatre is a 400-seat arts venue used primarily for the Department of Theatre and Dance's Mainstage Subscription Series. ",
     "url" : "https://bsu.edu/map/buildings/campus/university-theatre",
     "term" : "TH",
-    "id" : "B75972D1-983F-4237-8FBC-2F064E23C06E",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2760,7 +2601,6 @@
     "desc" : "The baseball diamond is used by our baseball team and is across Tillotson Avenue from Scheumann Stadium. ",
     "url" : "https://bsu.edu/map/athletics/baseball-diamond",
     "term" : "",
-    "id" : "54C8282C-BACD-43F6-93E7-E63C5A5B38B6",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2778,7 +2618,6 @@
     "desc" : "The softball diamond is used by our softball team. ",
     "url" : "https://bsu.edu/map/athletics/softball-diamond",
     "term" : "",
-    "id" : "6AAF1559-EFB9-452A-A836-F2869ED4FEA2",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2795,7 +2634,6 @@
     "desc" : "Wagoner Complex is a residence hall used by high school students attending the Indiana Academy for Science, Mathematics, and Humanities. ",
     "url" : "https://bsu.edu/map/buildings/campus/wagoner-complex",
     "term" : "WA",
-    "id" : "BB24DA77-EFDB-4BF0-A246-CF020C5C8D92",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2812,7 +2650,6 @@
     "desc" : "The West Campus Field and Shelter is located on the corner of Tillotson and University avenues. The fields are used for Sports Club activities. The shelter is available to be reserved through a Sports Facilities Space Request.",
     "url" : "https://bsu.edu/map/buildings/campus/west-campus-field-and-shelter",
     "term" : "WC",
-    "id" : "BB182B2F-7E58-4DB8-862A-853CE055FCB2",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2829,7 +2666,6 @@
     "desc" : "The West Quadrangle Building, better known as West Quad, houses offices of the Graduate School, Department of Natural Resources and Environmental Management, the Office of Institutional Effectiveness, and Marketing and Communications.",
     "url" : "https://bsu.edu/map/buildings/campus/west-quad-building",
     "term" : "WQ",
-    "id" : "F97948B6-5F92-4B57-8651-752438461DD9",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2846,7 +2682,6 @@
     "desc" : "The Whitinger Business Building houses offices and departments affiliated with our Miller College of Business (MCOB).",
     "url" : "https://bsu.edu/map/buildings/campus/whitinger-business-building",
     "term" : "WB",
-    "id" : "3D07D62A-C9E9-456F-ABE3-29A2032678BD",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2864,7 +2699,6 @@
     "desc" : "Located inside Woodworth Complex on the ground level, just south of the Emens Parking Garage, Woodworth Commons has a wide variety of dining options, from pizza and burgers to panini, salads, and much more.",
     "url" : "https://bsu.edu/map/dining/woodworth-commons",
     "term" : "WO",
-    "id" : "43A0CA66-51B8-45F1-BE65-13D4012ED876",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2881,7 +2715,6 @@
     "desc" : "Woodworth Complex provides on-campus housing for students. ",
     "url" : "https://bsu.edu/map/buildings/campus/woodworth-complex",
     "term" : "WO",
-    "id" : "FCFADFA5-0E0A-4CAC-95A9-C3D1695F7D8B",
     "address" : {
       "street" : "",
       "city" : "Muncie",
@@ -2899,7 +2732,6 @@
     "desc" : "Worthen Arena is the home of the Cardinal men's and women's basketball and volleyball teams.",
     "url" : "https://bsu.edu/map/athletics/worthen-arena",
     "term" : "WR",
-    "id" : "FDE53D02-ED36-4B97-83E6-53EFADA8EB2D",
     "address" : {
       "street" : "",
       "city" : "Muncie",
