@@ -1577,5 +1577,15 @@
     "desc" : "Worthen Arena is the home of the Cardinal men's and women's basketball and volleyball teams.",
     "url" : "https://bsu.edu/map/athletics/worthen-arena",
     "term" : "WR"
+  },
+  {
+    "title" : "North Dining",
+    "lat" : 40.207339,
+    "lng" : -85.410988,
+    "thumb" : "NorthDining",
+    "type" : "dining",
+    "desc" : "From down-home, authentic barbeque to hip, artisanal treats and pastries, this state-of-the-art dining hall offers a bevy of culinary experiences aimed to exceed the nutritional needs and culinary expectations of our diverse community.",
+    "url" : "https://www.bsu.edu/campuslife/dining/locations/northdining",
+    "term" : ""
   }
 ]
