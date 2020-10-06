@@ -1743,5 +1743,16 @@
     "url": "https://bsu.edu/map/athletics/worthen-arena",
     "term": "WR",
     "id": "14162993-003a-4147-9ba4-bcf6bde6a2fb"
+  },
+  {
+    "title" : "North Dining",
+    "lat" : 40.207339,
+    "lng" : -85.410988,
+    "thumb" : "NorthDining",
+    "type" : "dining",
+    "desc" : "From down-home, authentic barbeque to hip, artisanal treats and pastries, this state-of-the-art dining hall offers a bevy of culinary experiences aimed to exceed the nutritional needs and culinary expectations of our diverse community.",
+    "url" : "https://www.bsu.edu/campuslife/dining/locations/northdining",
+    "term" : "",
+    "id": "4c71f5c9-14d1-4144-88a3-880c759e311c"
   }
 ]
