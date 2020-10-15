@@ -21,16 +21,18 @@
   },
   "offices": [
     {
-      "roomNumber": "",
+	  "name": ""
+      "roomNumber": 0,
       "phone": 0,
+	  "email": "",
       "url": ""
     }
   ],
   "restrooms": [
     {
+	  "roomNumber": 0,
       "location": "",
-      "sex": "",
-      "roomNumber": ""
+      "sex": ""
     }
   ]
 }
