@@ -43,8 +43,8 @@
 ```json
 {
   "day": "",
-  "openTime": "",
-  "closeTime": "",
+  "open": "",
+  "close": "",
   "notes": ""
 }
 ```

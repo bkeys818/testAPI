@@ -65,8 +65,8 @@
         "hours": [
           {
             "day": "all",
-            "openTime": "8:00am",
-            "closeTime": "5:00pm",
+            "open": "8:00am",
+            "close": "5:00pm",
             "notes": "7:30 a.m. – 4 p.m. Summer Hours"
           }
         ],
@@ -100,8 +100,8 @@
         "hours": [
           {
             "day": "all",
-            "openTime": "7:00am",
-            "closeTime": "8:30pm"
+            "open": "7:00am",
+            "close": "8:30pm"
           }
         ]
       },
@@ -113,13 +113,13 @@
         "hours": [
           {
             "day": "sunday-thursday",
-            "openTime": "7:00am",
-            "closeTime": "9:30pm"
+            "open": "7:00am",
+            "close": "9:30pm"
           },
           {
             "day": "friday-saturday",
-            "openTime": "7:00am",
-            "closeTime": "8:30pm"
+            "open": "7:00am",
+            "close": "8:30pm"
           }
         ]
       },
@@ -132,13 +132,13 @@
         "hours": [
           {
             "day": "sunday-thursday",
-            "openTime": "11:00am",
-            "closeTime": "9:30pm"
+            "open": "11:00am",
+            "close": "9:30pm"
           },
           {
             "day": "friday-saturday",
-            "openTime": "11:00am",
-            "closeTime": "8:30pm"
+            "open": "11:00am",
+            "close": "8:30pm"
           }
         ]
       },
@@ -149,8 +149,8 @@
         "hours": [
           {
             "day": "all",
-            "openTime": "7:00am",
-            "closeTime": "2:00am"
+            "open": "7:00am",
+            "close": "2:00am"
           }
         ]
       },
@@ -161,23 +161,23 @@
         "hours": [
           {
             "day": "sunday",
-            "openTime": "7:00am",
-            "closeTime": "12:00am"
+            "open": "7:00am",
+            "close": "12:00am"
           },
           {
             "day": "monday-thursay",
-            "openTime": "7:00am",
-            "closeTime": "12:00am"
+            "open": "7:00am",
+            "close": "12:00am"
           },
           {
             "day": "friday",
-            "openTime": "7:00am",
-            "closeTime": "12:00am"
+            "open": "7:00am",
+            "close": "12:00am"
           },
           {
             "day": "saturday",
-            "openTime": "7:00am",
-            "closeTime": "12:00am"
+            "open": "7:00am",
+            "close": "12:00am"
           }
         ]
       }
