@@ -62,8 +62,17 @@
       {
         "name": "University Dining Services",
         "roomNumber": 201,
+        "hours": [
+          {
+            "day": "all",
+            "openTime": "8:00am",
+            "closeTime": "5:00pm",
+            "notes": "7:30 a.m. – 4 p.m. Summer Hours"
+          }
+        ],
         "phone": 7652851967,
-        "email": "dining@bsu.edu"
+        "email": "dining@bsu.edu",
+        "url": "https://www.bsu.edu/campuslife/dining"
       }
     ],
     "restrooms": [
@@ -88,7 +97,7 @@
         "name": [
           "Allergen-Free"
         ],
-        "schedule": [
+        "hours": [
           {
             "day": "all",
             "openTime": "7:00am",
@@ -101,7 +110,7 @@
           "Bakery",
           "Boar's Head Deli"
         ],
-        "schedule": [
+        "hours": [
           {
             "day": "sunday-thursday",
             "openTime": "7:00am",
@@ -120,7 +129,7 @@
           "Grill",
           "Italian"
         ],
-        "schedule": [
+        "hours": [
           {
             "day": "sunday-thursday",
             "openTime": "11:00am",
@@ -137,7 +146,7 @@
         "name": [
           "Breakfast"
         ],
-        "schedule": [
+        "hours": [
           {
             "day": "all",
             "openTime": "7:00am",
@@ -149,7 +158,7 @@
         "name": [
           "Starbucks"
         ],
-        "schedule": [
+        "hours": [
           {
             "day": "sunday",
             "openTime": "7:00am",

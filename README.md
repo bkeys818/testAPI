@@ -21,10 +21,11 @@
   },
   "offices": [
     {
-	  "name": ""
+      "name": "",
       "roomNumber": 0,
+      "hours": [/*hours*/],
       "phone": 0,
-	  "email": "",
+      "email": "",
       "url": ""
     }
   ],
@@ -38,22 +39,24 @@
 }
 ```
 
+## Hours
+```json
+{
+  "day": "",
+  "openTime": "",
+  "closeTime": "",
+  "notes": ""
+}
+```
+
 ## Additional objects for specific building types
 
 ### Dining Hall
 ```json
 "restaurants": [
   {
-    "names": [
-      ""
-    ],
-    "schedule": [
-      {
-        "day": "",
-        "openTime": "",
-        "closeTime": ""
-      }
-    ]
+    "names": [""],
+    "hours": [/*hours*/]
   }
 ]
 ```
