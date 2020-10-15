@@ -1,26 +1,28 @@
 # Used as a Fake API for Testing
-### Building Format
+
+## Place format
 ```json
 {
-  "title": "",
+  "title": "",  *required
   "desc": "",
-  "term": "",
+  "id": "",  *required
+  "lat": 0,  *required
+  "lng": 0,  *required
   "type": "",
-  "lat": 0,
-  "lng": 0,
-  "thumb": "",
+  "term": "",
   "url": "",
+  "thumb": "",
   "address ": {
     "street": "",
     "city": "",
     "state": "",
-    "country": "",
-    "zip": 0
+    "zip": 0,
+    "country": ""
   },
   "offices": [
     {
       "roomNumber": "",
-      "phone": "",
+      "phone": 0,
       "url": ""
     }
   ],
@@ -30,8 +32,26 @@
       "sex": "",
       "roomNumber": ""
     }
-  ],
-  "schedule": "",
-  "id": ""
+  ]
 }
+```
+
+## Additional objects for specific building types
+
+### Dining Hall
+```json
+"restaurants": [
+  {
+    "names": [
+      ""
+    ],
+    "schedule": [
+      {
+        "day": "",
+        "openTime": "",
+        "closeTime": ""
+      }
+    ]
+  }
+]
 ```
