@@ -11,7 +11,6 @@
   "type": "",
   "term": "",
   "url": "",
-  "thumb": "",
   "address ": {
     "street": "",
     "city": "",
