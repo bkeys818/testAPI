@@ -1,1582 +1,1748 @@
 [
   {
-    "title" : "Administration Building, Frank A. Bracken",
-    "lat" : 40.1983223,
-    "lng" : -85.40894,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/10_camp008_140.jpg",
-    "desc" : "The Frank A. Bracken Administration Building, also known as the Ad Building, houses administrative offices that include the president, provost, and vice presidents.",
-    "url" : "https://bsu.edu/map/buildings/campus/frank-a-bracken-administration-building",
-    "term" : "AD"
-  },
-  {
-    "title" : "Alumni Center",
-    "lat" : 40.2147179,
-    "lng" : -85.4184,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp012_053.jpg",
-    "desc" : "The Alumni Center houses the offices of Alumni Programs and is fully equipped to hold conferences, receptions, and events.",
-    "url" : "https://bsu.edu/map/buildings/campus/alumni-center",
-    "term" : "AL"
-  },
-  {
-    "title" : "Anthony Apartments",
-    "lat" : 40.2108727,
-    "lng" : -85.41243,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_390.jpg",
-    "desc" : "A community of University Apartments, Anthony Apartments is one of two apartment complexes maintained by Ball State.",
-    "url" : "https://bsu.edu/map/buildings/campus/anthony-apartments",
-    "term" : "AN"
-  },
-  {
-    "title" : "Anthony Recreation Fields",
-    "lat" : 40.21,
-    "lng" : -85.414,
-    "thumb" : "",
-    "type" : "athletics",
-    "desc" : "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located southwest of Bethel and McKinley avenues, along Bowman Street.",
-    "url" : "https://bsu.edu/map/athletics/anthony-recreation-fields",
-    "term" : ""
-  },
-  {
-    "title" : "Applied Technology Building",
-    "lat" : 40.200943,
-    "lng" : -85.40922,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp011_28.jpg",
-    "desc" : "The Applied Technology Building houses the Department of Applied Business Studies, the Department of Construction Management and Interior Design, and the student-run Allegre Restaurant.",
-    "url" : "https://bsu.edu/map/buildings/campus/applied-technology-building",
-    "term" : "AT"
-  },
-  {
-    "title" : "Architecture Building",
-    "lat" : 40.20442,
-    "lng" : -85.40718,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp019_022.jpg",
-    "desc" : "The Architecture Building houses the R. Wayne Estopinal College of Architecture and Planning (CAP) and its departments.",
-    "url" : "https://bsu.edu/map/buildings/campus/architecture-building",
-    "term" : "AB"
-  },
-  {
-    "title" : "Art and Journalism Building",
-    "lat" : 40.2021942,
-    "lng" : -85.40876,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp024_215.jpg",
-    "desc" : "The Art and Journalism Building houses degree programs in our Department of Journalism and School of Art along with the popular Atrium Food Court.",
-    "url" : "https://bsu.edu/map/buildings/campus/art-and-journalism-building",
-    "term" : "AJ"
-  },
-  {
-    "title" : "Arts and Communications Building",
-    "lat" : 40.2010078,
-    "lng" : -85.40659,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_011.jpg",
-    "desc" : "The Arts and Communications Building houses the office of the College of Fine Arts, its Departments of Theatre and Dance, the Department of Speech Pathology and Audiology, the Department of Family and Consumer Sciences and advising offices as well as Strother and Cave theatres.",
-    "url" : "https://bsu.edu/map/buildings/campus/arts-and-communications-building",
-    "term" : "AC"
-  },
-  {
-    "title" : "Arts Terrace",
-    "lat" : 40.19965,
-    "lng" : -85.41028,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp014_117.jpg",
-    "type" : "landmark",
-    "desc" : "The grand stone staircase and terrace that lead to the front doors of the David Owsley Museum of Art at Ball State University also serve as the setting for Ball State’s May Commencement.",
-    "url" : "https://bsu.edu/map/landmarks/arts-terrace",
-    "term" : ""
-  },
-  {
-    "title" : "Ball Communication Building",
-    "lat" : 40.20327,
-    "lng" : -85.40896,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_024.jpg",
-    "desc" : "The Ball Communication Building houses offices and classrooms for our Department of Telecommunications and Center for Information and Communication Sciences (CICS}, along with our iLearn and Emerging Technologies initiatives. ",
-    "url" : "https://bsu.edu/map/buildings/campus/ball-communication-building",
-    "term" : "BC"
-  },
-  {
-    "title" : "Ball Gymnasium",
-    "lat" : 40.1993,
-    "lng" : -85.41206,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/map13_camp014_128.jpg",
-    "desc" : "Ball Gymnasium is a historic athletic and recreational complex.",
-    "url" : "https://bsu.edu/map/buildings/campus/ball-gymnasium",
-    "term" : "BG"
-  },
-  {
-    "title" : "Ball Honors House",
-    "lat" : 40.2,
-    "lng" : -85.40599,
-    "thumb" : "/-/media/www/images/map/media/103428/ballhonors_300.gif",
-    "desc" : "The Ball Honors House is the home of the Honors College.",
-    "url" : "https://bsu.edu/map/buildings/campus/ball-honors-house",
-    "term" : "BA"
-  },
-  {
-    "title" : "Benadum Woods Picnic Shelter",
-    "lat" : 40.21745,
-    "lng" : -85.4179459,
-    "thumb" : "",
-    "desc" : "A picnic shelter and open field for Ball State student and employee events located near the Briner Sports Complex.",
-    "url" : "https://bsu.edu/map/buildings/campus/benadum-woods-picnic-shelter",
-    "term" : "A3"
-  },
-  {
-    "title" : "Beneficence",
-    "lat" : 40.1983,
-    "lng" : -85.41027,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/206108_bsu_1698.jpg",
-    "desc" : "Beneficence, affectionately called “Benny,” is Ball State's institutional icon.",
-    "url" : "https://bsu.edu/map/landmarks/beneficence",
-    "term" : "landmark"
-  },
-  {
-    "title" : "Bethel Recreation Fields",
-    "lat" : 40.2164,
-    "lng" : -85.4225,
-    "thumb" : "",
-    "type" : "athletics",
-    "desc" : "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located along Bethel Avenue, west of Tillotson Avenue.",
-    "url" : "https://bsu.edu/map/athletics/bethel-recreation-fields",
-    "term" : ""
-  },
-  {
-    "title" : "Bookmark Caf&#233;",
-    "lat" : 40.2025,
-    "lng" : -85.4069,
-    "thumb" : "",
-    "type" : "dining",
-    "desc" : "Located on the first floor of Bracken Library, Bookmark Café offers a selection of coffees, snacks, and quick meal options.",
-    "url" : "https://bsu.edu/map/dining/bookmark-cafe",
-    "term" : "BL"
-  },
-  {
-    "title" : "Bracken House",
-    "lat" : 40.2034035,
-    "lng" : -85.41209,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/10_camp010_50.jpg",
-    "desc" : "Bracken House is the home of the university's president and is the location for many receptions, dinners, and other Ball State events.",
-    "url" : "https://bsu.edu/map/buildings/campus/bracken-house",
-    "term" : "PR"
-  },
-  {
-    "title" : "Bracken Library",
-    "lat" : 40.20241,
-    "lng" : -85.4072342,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_212.jpg",
-    "desc" : "Bracken Library is the main library for the university.",
-    "url" : "https://bsu.edu/map/buildings/campus/bracken-library",
-    "term" : "BL"
-  },
-  {
-    "title" : "Briner Sports Complex",
-    "lat" : 40.21805,
-    "lng" : -85.41875,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp021_089.jpg",
-    "type" : "athletics",
-    "desc" : "The Briner Sports Complex includes a soccer turf field, a field hockey field, two operations booths, two scoreboards, an arched entrance, and throw and field events areas for track.",
-    "url" : "https://bsu.edu/map/athletics/briner-sports-complex",
-    "term" : ""
-  },
-  {
-    "title" : "Burkhardt Building",
-    "lat" : 40.1989174,
-    "lng" : -85.408165,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp014_002.jpg",
-    "desc" : "The Burkhardt Building houses the Departments of History, Anthropology, and Women's and Gender Studies.",
-    "url" : "https://bsu.edu/map/buildings/campus/burkhardt-building",
-    "term" : "BB"
-  },
-  {
-    "title" : "Burris Laboratory School",
-    "lat" : 40.1968727,
-    "lng" : -85.41233,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_430.jpg",
-    "desc" : "Established by Teachers College, Burris Laboratory School is a K-12 school consistently ranked as one of Indiana's best.  ",
-    "url" : "https://bsu.edu/map/buildings/campus/burris-laboratory-school",
-    "term" : "BU"
-  },
-  {
-    "title" : "C1",
-    "lat" : 40.209,
-    "lng" : -85.4077,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Commuter"
-  },
-  {
-    "title" : "C3",
-    "lat" : 40.19842,
-    "lng" : -85.41845,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Commuter"
-  },
-  {
-    "title" : "C4",
-    "lat" : 40.19624,
-    "lng" : -85.40807,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Commuter"
-  },
-  {
-    "title" : "C5",
-    "lat" : 40.19536,
-    "lng" : -85.40845,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Commuter"
-  },
-  {
-    "title" : "C6",
-    "lat" : 40.19532,
-    "lng" : -85.40972,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Commuter"
-  },
-  {
-    "title" : "C7-G",
-    "lat" : 40.2155,
-    "lng" : -85.41839,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Commuter"
-  },
-  {
-    "title" : "C9",
-    "lat" : 40.19898,
-    "lng" : -85.40526,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Commuter"
-  },
-  {
-    "title" : "CAP Design Build Lab",
-    "lat" : 40.20515,
-    "lng" : -85.40839,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_137.jpg",
-    "desc" : "The CAP Design-Build Facility is a large workshop where students from the College of Architecture and Planning can build building and design models.",
-    "url" : "https://bsu.edu/map/buildings/campus/cap-design-build-lab",
-    "term" : ""
-  },
-  {
-    "title" : "Cardinal Creek Tennis Center",
-    "lat" : 40.21023,
-    "lng" : -85.411,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/cctennis13_camp020_094.jpg",
-    "type" : "athletics",
-    "desc" : "The Tennis Center features twelve tennis courts and is used by our men's and women's tennis teams. ",
-    "url" : "https://bsu.edu/map/athletics/tennis-courts",
-    "term" : ""
-  },
-  {
-    "title" : "Center for Peace and Conflict Studies",
-    "lat" : 40.19619,
-    "lng" : -85.4075241,
-    "thumb" : "/-/media/www/images/map/media/40776/peacestudies05_200.jpg",
-    "desc" : "This property houses the Center for Peace and Conflict Studies.",
-    "url" : "https://bsu.edu/map/buildings/campus/center-for-peace-and-conflict-studies",
-    "term" : "PE"
-  },
-  {
-    "title" : "Central Chilling Plant",
-    "lat" : 40.1991,
-    "lng" : -85.4135,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_198.jpg",
-    "desc" : "The five cooling towers located at the Central Chill Plant provide air conditioning and dehumidification for a portion of the buildings on campus.",
-    "url" : "https://bsu.edu/map/buildings/campus/central-chilling-plant",
-    "term" : "CC"
-  },
-  {
-    "title" : "Charles W. Brown Planetarium",
-    "lat" : 40.2,
-    "lng" : -85.4126,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/brownplanetarium150.jpg",
-    "desc" : "Part of the Cooper Science Complex the Charles W. Brown Planetarium is the largest in Indiana.",
-    "url" : "https://bsu.edu/map/buildings/campus/charles-brown-planetarium",
-    "term" : ""
-  },
-  {
-    "title" : "Child Study Center",
-    "lat" : 40.20769,
-    "lng" : -85.4032,
-    "thumb" : "/-/media/www/images/map/media/43206/05childstudycenter_200.jpg",
-    "desc" : "These properties house the Child Study Centers.",
-    "url" : "https://bsu.edu/map/buildings/campus/child-study-center",
-    "term" : "CS and CX"
-  },
-  {
-    "title" : "Christy Woods",
-    "lat" : 40.1995,
-    "lng" : -85.4143,
-    "thumb" : "/-/media/www/images/map/media/buildings/300/christywoods13_camp020_008.jpg",
-    "desc" : "Christy Woods is a 17-acre outdoor classroom and laboratory that provides opportunities for hands-on learning and observation of nature and natural processes for students.",
-    "url" : "https://bsu.edu/map/landmarks/christy-woods",
-    "term" : ""
-  },
-  {
-    "title" : "Christy Woods Office",
-    "lat" : 40.19875,
-    "lng" : -85.4143143,
-    "thumb" : "",
-    "desc" : "Located on the southwest side of campus this building houses the Christy Woods offices and the South Service building.",
-    "url" : "https://bsu.edu/map/buildings/campus/south-shopschristy-woods-office-west-campus",
-    "term" : "SS"
-  },
-  {
-    "title" : "Cooper Life Science Building",
-    "lat" : 40.2,
-    "lng" : -85.41213,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp009_013.jpg",
-    "desc" : "Part of the Cooper Science Complex, the Cooper Life Science Building houses the Departments of Biology, Geography, and Health Science. ",
-    "url" : "https://bsu.edu/map/buildings/campus/cooper-life-science-building",
-    "term" : "CL"
-  },
-  {
-    "title" : "Cooper Nursing Building",
-    "lat" : 40.2,
-    "lng" : -85.41171,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp009_013.jpg",
-    "desc" : "Part of the Cooper Science Complex, the Cooper Nursing Building houses the School of Nursing. ",
-    "url" : "https://bsu.edu/map/buildings/campus/cooper-nursing-building",
-    "term" : "CN"
-  },
-  {
-    "title" : "Cooper Physical Science Building",
-    "lat" : 40.1999626,
-    "lng" : -85.41128,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp009_013.jpg",
-    "desc" : "Part of the Cooper Science Complex, the Cooper Physical Science Building houses an observatory, weather station, and the Departments of Chemistry and Physics and Astronomy.",
-    "url" : "https://bsu.edu/map/buildings/campus/cooper-physical-science-building",
-    "term" : "CP"
-  },
-  {
-    "title" : "Cow Path",
-    "lat" : 40.20477,
-    "lng" : -85.40962,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/cowpath13_camp020_124.jpg",
-    "type" : "landmark",
-    "desc" : "Once a dirt path, the Cow Path is a long sidewalk that extends from Riverside Avenue northward behind the Art and Journalism Building, Ball Communication Building, David Letterman Communication and Media Building, and Robert Bell Building to Petty Road.",
-    "url" : "https://bsu.edu/map/landmarks/cow-path",
-    "term" : ""
-  },
-  {
-    "title" : "CR8",
-    "lat" : 40.19603,
-    "lng" : -85.40857,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Orange permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Commuter Restricted"
-  },
-  {
-    "title" : "David Letterman Communication and Media Building",
-    "lat" : 40.20389,
-    "lng" : -85.40888,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/11_camp005_164.jpg",
-    "desc" : "The David Letterman Communication and Media Building houses the office of our College of Communication, Information, and Media and its Departments of Telecommunications and Communication Studies. In addition, it is home to Indiana Public Radio and WCRD-FM.",
-    "url" : "https://bsu.edu/map/buildings/campus/david-letterman-communication-and-media-building",
-    "term" : "LB"
-  },
-  {
-    "title" : "Dehority Complex",
-    "lat" : 40.20114,
-    "lng" : -85.40369,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_287.jpg",
-    "desc" : "DeHority Complex is one of the university's residence halls and home to Honors College students. ",
-    "url" : "https://bsu.edu/map/buildings/campus/dehority-complex",
-    "term" : "DH"
-  },
-  {
-    "title" : "District Energy Station North",
-    "lat" : 40.2079,
-    "lng" : -85.414,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp029_110.jpg",
-    "desc" : "The energy station contains equipment that operates Ball State's geothermal system.",
-    "url" : "https://bsu.edu/map/buildings/campus/district-energy-station-north",
-    "term" : "EN"
-  },
-  {
-    "title" : "Duck Pond",
-    "lat" : 40.2092,
-    "lng" : -85.41115,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_028.jpg",
-    "type" : "landmark",
-    "desc" : "This popular hangout for sunbathers north of Johnson Halls is a serene home for fish, ducks, and geese.",
-    "url" : "https://bsu.edu/map/landmarks/duck-pond",
-    "term" : ""
-  },
-  {
-    "title" : "E. B. and Bertha C. Ball Center",
-    "lat" : 40.2045021,
-    "lng" : -85.39097,
-    "thumb" : "/-/media/www/images/map/media/42014/05ebballcenter_200.jpg",
-    "desc" : "This historic residential property once belonged to members of the Ball family and is now home to the university's E.B. and Bertha C. Ball Center.",
-    "url" : "https://bsu.edu/map/buildings/campus/e-b-and-bertha-c-ball-center",
-    "term" : "EB"
-  },
-  {
-    "title" : "E. F. Ball Medical Education Building",
-    "lat" : 40.1952553,
-    "lng" : -85.416,
-    "thumb" : "/-/media/www/images/map/media/43220/05medicaleducation_200.jpg",
-    "desc" : "This building is home to the Center for Medical Education.",
-    "url" : "https://bsu.edu/map/buildings/campus/e-f-ball-medical-education-building",
-    "term" : "MT"
-  },
-  {
-    "title" : "Elliott Dining",
-    "lat" : 40.1960373,
-    "lng" : -85.41124,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_427.jpg",
-    "type" : "dining",
-    "desc" : "An all-you-can eat, buffet-style dining facility located behind Elliott Hall. Open to the public.",
-    "url" : "https://bsu.edu/map/dining/elliottwagoner-dining",
-    "term" : "EW"
-  },
-  {
-    "title" : "Elliott Hall",
-    "lat" : 40.19706,
-    "lng" : -85.4108,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_139.jpg",
-    "desc" : "Elliott Hall is one of the university's oldest residence halls.",
-    "url" : "https://bsu.edu/map/buildings/campus/elliott-hall",
-    "term" : "EL"
-  },
-  {
-    "title" : "Emens Auditorium",
-    "lat" : 40.20092,
-    "lng" : -85.40696,
-    "thumb" : "/-/media/www/images/map/common/media/23115/emense_200.jpg",
-    "desc" : "Emens Auditorium is Ball State's premier venue for arts and entertainment events. ",
-    "url" : "https://bsu.edu/map/buildings/campus/emens-auditorium",
-    "term" : "AU"
-  },
-  {
-    "title" : "Emens Parking Garage (R6)",
-    "lat" : 40.20228,
-    "lng" : -85.40494,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "This parking garage is located east of Emens Auditorium and the adjacent Arts and Communications Building. Metered parking for visitors is located on the top floor with a pay station located in each of the three stairwells and one at the bottom of the up and down ramp on the top floor. The remainder of the garage is restricted (red) parking and requires a permit.<br/><br/>Red permit required<br/>3:30 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "Field Sports Building",
-    "lat" : 40.2062531,
-    "lng" : -85.4061356,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/fieldsports.jpg",
-    "type" : "athletics",
-    "desc" : "The Field Sports Building features facilities for indoor track and field events. ",
-    "url" : "https://bsu.edu/map/athletics/field-sports",
-    "term" : "RC"
-  },
-  {
-    "title" : "Fine Arts Building and Museum of Art",
-    "lat" : 40.19991,
-    "lng" : -85.4102249,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp014_117.jpg",
-    "desc" : "The Fine Arts Building is home to the David Owsley Museum of Art and Department of Geological Sciences. ",
-    "url" : "https://bsu.edu/map/buildings/campus/fine-arts-building-and-museum-of-art",
-    "term" : "AR"
-  },
-  {
-    "title" : "Fisher Football Training Complex",
-    "lat" : 40.21518,
-    "lng" : -85.4168,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/11_s155_003fishertraining.jpg",
-    "type" : "athletics",
-    "desc" : "This year-round football training facility features advanced strength-training equipment, meeting spaces and locker rooms for the football team, and a sports medicine facility.",
-    "url" : "https://bsu.edu/map/athletics/fisher-football-training-complex",
-    "term" : "FT"
-  },
-  {
-    "title" : "Frog Baby",
-    "lat" : 40.20325,
-    "lng" : -85.40729,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp025_303.jpg",
-    "type" : "landmark",
-    "desc" : "Frog Baby is a sculpture of a joyous little girl playfully holding a frog in each hand.",
-    "url" : "https://bsu.edu/map/landmarks/frog-baby-pond",
-    "term" : ""
-  },
-  {
-    "title" : "G1",
-    "lat" : 40.2079,
-    "lng" : -85.41151,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G10",
-    "lat" : 40.19533,
-    "lng" : -85.4107,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G13",
-    "lat" : 40.1987,
-    "lng" : -85.41562,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G14-Y",
-    "lat" : 40.21604,
-    "lng" : -85.41839,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G15",
-    "lat" : 40.19787,
-    "lng" : -85.4129,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G2",
-    "lat" : 40.2072,
-    "lng" : -85.40491,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G20",
-    "lat" : 40.196,
-    "lng" : -85.40972,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G25",
-    "lat" : 40.19532,
-    "lng" : -85.40797,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G2N",
-    "lat" : 40.20872,
-    "lng" : -85.40575,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G2W",
-    "lat" : 40.2066,
-    "lng" : -85.40591,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G7",
-    "lat" : 40.19738,
-    "lng" : -85.40746,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G8",
-    "lat" : 40.19696,
-    "lng" : -85.40996,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "G9",
-    "lat" : 40.19699,
-    "lng" : -85.40796,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "General"
-  },
-  {
-    "title" : "Greek Row",
-    "lat" : 40.2002,
-    "lng" : -85.39672,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/fratrow13_camp020_142.jpg",
-    "desc" : "Greek Row refers to the area of Greek fraternity and sorority houses along Riverside Avenue. ",
-    "url" : "https://bsu.edu/map/landmarks/greek-row",
-    "term" : ""
-  },
-  {
-    "title" : "H1",
-    "lat" : 40.209,
-    "lng" : -85.409,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Residence"
-  },
-  {
-    "title" : "H2",
-    "lat" : 40.20816,
-    "lng" : -85.41289,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Residence"
-  },
-  {
-    "title" : "H4",
-    "lat" : 40.2012,
-    "lng" : -85.4031,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Residence"
-  },
-  {
-    "title" : "H6",
-    "lat" : 40.19528,
-    "lng" : -85.41123,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Residence"
-  },
-  {
-    "title" : "H7",
-    "lat" : 40.20616,
-    "lng" : -85.40474,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Residence"
-  },
-  {
-    "title" : "H8",
-    "lat" : 40.203,
-    "lng" : -85.4025,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Residence"
-  },
-  {
-    "title" : "H9",
-    "lat" : 40.20527,
-    "lng" : -85.40201,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Residence"
-  },
-  {
-    "title" : "Hahn Recital Hall",
-    "lat" : 40.1998558,
-    "lng" : -85.40721,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/musicinstruction05b_150.jpg",
-    "desc" : "Located in the Music Instruction Building, Hahn Recital Hall is an intimate 150-seat rehearsal and recital hall with excellent acoustical tuning capabilities.",
-    "url" : "https://bsu.edu/map/buildings/campus/hahn-recital-hall",
-    "term" : "MI"
-  },
-  {
-    "title" : "Hargreaves Music Building",
-    "lat" : 40.2009735,
-    "lng" : -85.40737,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/harmusic2.jpg",
-    "desc" : "The Hargreaves Music Building houses a portion of the School of Music.",
-    "url" : "https://bsu.edu/map/buildings/campus/hargreaves-music-building",
-    "term" : "MU"
-  },
-  {
-    "title" : "Health and Physical Activity Building",
-    "lat" : 40.2055054,
-    "lng" : -85.40696,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_117.jpg",
-    "desc" : "The Health and Physical Activity Building houses offices and classrooms for the School of Kinesiology, Fisher Institute of Health and Well-Being, Intercollegiate Athletics, and the Human Performance Laboratory. ",
-    "url" : "https://bsu.edu/map/buildings/campus/health-and-physical-activity-building",
-    "term" : "HP"
-  },
-  {
-    "title" : "Health Center, Amelia T. Wood",
-    "lat" : 40.2045822,
-    "lng" : -85.40376,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camphealth028_091.jpg",
-    "desc" : "This building houses the Health Center, which provides ambulatory health care for sick and injured students. ",
-    "url" : "https://bsu.edu/map/buildings/campus/health-center-amelia-t-wood",
-    "term" : "HC"
-  },
-  {
-    "title" : "Health Professions Building",
-    "lat" : 40.2002258,
-    "lng" : -85.40509,
-    "thumb" : "/-/media/www/images/map/media/buildings/health professions building 2019.jpg",
-    "desc" : "The Health Professions Building houses office for the College of Health and its departments.",
-    "url" : "https://bsu.edu/map/buildings/campus/health-professions-building",
-    "term" : "HB"
-  },
-  {
-    "title" : "Heat Plant",
-    "lat" : 40.19865,
-    "lng" : -85.4135,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_091.jpg",
-    "desc" : "The seven boilers located at the Heat Plant provide steam for heating, domestic hot water, cooking, laundry, and sterilization of surgical instruments for a portion of buildings at Ball State and nearby IU Health Ball Memorial Hospital. ",
-    "url" : "https://bsu.edu/map/buildings/campus/heat-plant",
-    "term" : "BH"
-  },
-  {
-    "title" : "Heath Farm Recreational Fields",
-    "lat" : 40.2275,
-    "lng" : -85.4316,
-    "thumb" : "",
-    "type" : "athletics",
-    "desc" : "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located on the north side of West Bethel Avenue, between County Roads 300 W and 400 W. (4313 N. Everett Road).",
-    "url" : "https://bsu.edu/map/athletics/heath-farm-recreation-fields",
-    "term" : ""
-  },
-  {
-    "title" : "Indiana Academy House",
-    "lat" : 40.1973763,
-    "lng" : -85.4115753,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_181.jpg",
-    "desc" : "",
-    "url" : "https://bsu.edu/map/buildings/campus/indiana-academy-house",
-    "term" : "AY"
-  },
-  {
-    "title" : "Jo Ann Gora Student Recreation and Wellness Center",
-    "lat" : 40.2051735,
-    "lng" : -85.40605,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/10_camp022_226.jpg",
-    "desc" : "The Jo Ann Gora Student Recreation and Wellness Center is a state-of-the-art athletic and recreational complex.",
-    "url" : "https://bsu.edu/map/buildings/campus/student-recreation--wellness-center",
-    "term" : "RC"
-  },
-  {
-    "title" : "Johnson Halls East: Botsford, Swinford",
-    "lat" : 40.208,
-    "lng" : -85.4097748,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/botswinexterior.jpg",
-    "desc" : "Johnson Complex provides on-campus housing to students.",
-    "url" : "https://bsu.edu/map/buildings/campus/johnson-halls-a-botsford-swinford",
-    "term" : "JE"
-  },
-  {
-    "title" : "Johnson Halls West: Schmidt/Wilson",
-    "lat" : 40.2078667,
-    "lng" : -85.41092,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_110.jpg",
-    "desc" : "Johnson Complex provides on-campus housing to students.",
-    "url" : "https://bsu.edu/map/buildings/campus/johnson-halls-b-schmidt-wilson",
-    "term" : "JW"
-  },
-  {
-    "title" : "Kitselman Center",
-    "lat" : 40.1974869,
-    "lng" : -85.42595,
-    "thumb" : "/-/media/www/images/map/media/43219/05kitselman_200.jpg",
-    "desc" : "This historic residential property is home to the university's Virginia B. Ball Center for Creative Inquiry. ",
-    "url" : "https://bsu.edu/map/buildings/campus/kitselman-center",
-    "term" : "KC"
-  },
-  {
-    "title" : "Kitselman Center",
-    "lat" : 40.19724,
-    "lng" : -85.42596,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Any color permit required<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Stadium"
-  },
-  {
-    "title" : "L. A. Pittenger Student Center",
-    "lat" : 40.1972351,
-    "lng" : -85.40902,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp024_002.jpg",
-    "desc" : "The L.A. Pittenger Student Center serves as a hub for many on-campus student organizations, programs, and services. The center also contains the Tally food court, barbershop, bowling alley, post office, and 24-room hotel.",
-    "url" : "https://bsu.edu/map/buildings/campus/student-center-l-a-pittenger",
-    "term" : "SC"
-  },
-  {
-    "title" : "LaFollette Complex",
-    "lat" : 40.2068024,
-    "lng" : -85.40895,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_324.jpg",
-    "desc" : "Housing approximately 1,900 students, LaFollette Complex is the largest residence hall complex on campus. ",
-    "url" : "https://bsu.edu/map/buildings/campus/lafollette-complex",
-    "term" : "LA"
-  },
-  {
-    "title" : "LaFollette Field",
-    "lat" : 40.20728,
-    "lng" : -85.4076,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp019_001laffield.jpg",
-    "type" : "athletics",
-    "desc" : "Across McKinley Avenue from LaFollette Complex, this large grassy area in front of Worthen Arena is a popular place for students to play Frisbee and tag football.",
-    "url" : "https://bsu.edu/map/athletics/lafollette-field",
-    "term" : ""
-  },
-  {
-    "title" : "LaFollette Square",
-    "lat" : 40.2068024,
-    "lng" : -85.4092,
-    "thumb" : "",
-    "type" : "dinging",
-    "desc" : "Located in the center of the LaFollette Complex with dining options on the first floor and mezzanine.",
-    "url" : "https://bsu.edu/map/dining/lafollette-square",
-    "term" : "LA"
-  },
-  {
-    "title" : "Lewellen Aquatic Center",
-    "lat" : 40.2059479,
-    "lng" : -85.40744,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_338.jpg",
-    "desc" : "The Lewellen Pool Aquatic Center provides aquatic facilities for classes, athletics, and recreation. ",
-    "url" : "https://bsu.edu/map/buildings/campus/lewellen-pool-aquatic-center",
-    "term" : "LP"
-  },
-  {
-    "title" : "Lucina Hall",
-    "lat" : 40.198185,
-    "lng" : -85.41129,
-    "thumb" : "/-/media/www/images/map/media/40687/lucina05_200.jpg",
-    "desc" : "Lucina Hall is a first-stop location for many new students seeking undergraduate degrees. It houses the Welcome Center, as well as the Offices of Admissions and Scholarships and Financial Aid.",
-    "url" : "https://bsu.edu/map/buildings/campus/lucina-hall",
-    "term" : "LU"
-  },
-  {
-    "title" : "Lucina Tennis Courts",
-    "lat" : 40.1983,
-    "lng" : -85.41198,
-    "thumb" : "",
-    "type" : "athletics",
-    "desc" : "Recreational tennis courts.  Located between Lucina Hall and West Quad Building.  It is accessible by vehicle off of University Avenue.",
-    "url" : "https://bsu.edu/map/athletics/lucina-tennis-courts",
-    "term" : ""
-  },
-  {
-    "title" : "Maria Bingham Hall",
-    "lat" : 40.196,
-    "lng" : -85.4135,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_001.jpg",
-    "desc" : "This property houses research facilities for faculty and students affiliated with the Center for Medical Education, also known as the Indiana University School of Medicine-Muncie.",
-    "url" : "https://bsu.edu/map/buildings/campus/maria-bingham-hall-medical-education-building",
-    "term" : "MB"
-  },
-  {
-    "title" : "Marilyn K. Glick Center for Glass",
-    "lat" : 40.1987,
-    "lng" : -85.4167,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_148.jpg",
-    "desc" : "The Marilyn K. Glick Center for Glass is a glass arts studio that supports the practice of contemporary glass arts. ",
-    "url" : "https://bsu.edu/map/buildings/campus/marilyn-k-glick-center-for-glass",
-    "term" : "GL"
-  },
-  {
-    "title" : "Micro Caf&#233; ",
-    "lat" : 40.2034,
-    "lng" : -85.4026947,
-    "thumb" : "",
-    "type" : "dinging",
-    "desc" : "An eatery with quick meals in mind, offering a bountiful selection of carryout items, including sandwiches, salads, and drinks. Located on the first floor in the Studebaker West Complex.",
-    "url" : "https://bsu.edu/map/dining/micro-cafe",
-    "term" : "SW"
-  },
-  {
-    "title" : "Multicultural Center",
-    "lat" : 40.1965675,
-    "lng" : -85.408,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_175.jpg",
-    "desc" : "The Multicultural Center brings together students of different genders, races, and ethnicities to discuss social and racial issues. ",
-    "url" : "https://bsu.edu/map/buildings/campus/multicultural-center",
-    "term" : "MA"
-  },
-  {
-    "title" : "Music Instruction Building",
-    "lat" : 40.19983,
-    "lng" : -85.4069748,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/musicinstruction05b_150.jpg",
-    "desc" : "The Music Instruction Building, also known as MIB, provides a state-of-the-art home for the School of Music's music performance and music technology programs.",
-    "url" : "https://bsu.edu/map/buildings/campus/music-instruction-building",
-    "term" : "MI"
-  },
-  {
-    "title" : "Naked Lady",
-    "lat" : 40.2025,
-    "lng" : -85.40703,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/nakedlady13_camp020_181.jpg",
-    "type" : "landmark",
-    "desc" : "Forest Idyll, referred to by students as “the naked lady,” is a bronze statue located in the central lobby of Bracken Library.",
-    "url" : "https://bsu.edu/map/landmarks/naked-lady",
-    "term" : ""
-  },
-  {
-    "title" : "North Quadrangle Building",
-    "lat" : 40.1999931,
-    "lng" : -85.40855,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/10_camp008_206.jpg",
-    "desc" : "The North Quandrangle Building—better known as North Quad—houses a tutoring center, offices for academic advising and academic systems, and departments affiliated with our College of Sciences and Humanities.",
-    "url" : "https://bsu.edu/map/buildings/campus/north-quadrangle-building",
-    "term" : "NQ"
-  },
-  {
-    "title" : "Noyer Center",
-    "lat" : 40.20343,
-    "lng" : -85.40514,
-    "thumb" : "",
-    "type" : "dinging",
-    "desc" : "Noyer Center offers an array of dining options, from carryout items to The Retreat, a restaurant catering to lunches crafted for faculty and staff.",
-    "url" : "https://bsu.edu/map/dining/noyer-center",
-    "term" : "NO"
-  },
-  {
-    "title" : "Noyer Complex",
-    "lat" : 40.2033,
-    "lng" : -85.40514,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/10_camp009_047.jpg",
-    "desc" : "Noyer Complex provides on-campus housing to students. ",
-    "url" : "https://bsu.edu/map/buildings/campus/noyer-complex",
-    "term" : "NO"
-  },
-  {
-    "title" : "Oakwood Building",
-    "lat" : 40.21431,
-    "lng" : -85.41104,
-    "thumb" : "",
-    "desc" : "Oakwood Building houses the Office of Community Engagement and Institute for Entrepreneurship and Free Enterprise.",
-    "url" : "https://bsu.edu/map/buildings/campus/oakwood-building",
-    "term" : ""
-  },
-  {
-    "title" : "P11",
-    "lat" : 40.19865,
-    "lng" : -85.41122,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Visitor"
-  },
-  {
-    "title" : "P14",
-    "lat" : 40.1977539,
-    "lng" : -85.41198,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Visitors"
-  },
-  {
-    "title" : "P2",
-    "lat" : 40.2082,
-    "lng" : -85.4119,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Visitor"
-  },
-  {
-    "title" : "P3",
-    "lat" : 40.20763,
-    "lng" : -85.40845,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Visitor"
-  },
-  {
-    "title" : "P4",
-    "lat" : 40.20594,
-    "lng" : -85.40869,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Visitor"
-  },
-  {
-    "title" : "P7",
-    "lat" : 40.2015,
-    "lng" : -85.40915,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Visitor"
-  },
-  {
-    "title" : "P9",
-    "lat" : 40.20159,
-    "lng" : -85.4058,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Visitor"
-  },
-  {
-    "title" : "Park Hall",
-    "lat" : 40.20212,
-    "lng" : -85.4033051,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp024_141.jpg",
-    "desc" : "Park Hall is one of the university's residence halls. ",
-    "url" : "https://bsu.edu/map/buildings/campus/park-hall",
-    "term" : "PK"
-  },
-  {
-    "title" : "Parking Garage, McKinley Avenue (R7)",
-    "lat" : 40.19897,
-    "lng" : -85.40695,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "This parking garage is located immediately south of Sursa Hall and the Music Instruction Building. Metered parking for visitors is located on the bottom floor with a pay station located at each pedestrian exit. The remainder of the garage is restricted (red) parking and requires a permit.<br/><br/>Red permit required<br/>3:30 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "Pruis Hall",
-    "lat" : 40.2019653,
-    "lng" : -85.40636,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp024_076.jpg",
-    "desc" : "John J. Pruis Hall is a 690-seat venue used for a variety of Ball State functions, including classes, convocations, orientation, conferences, speakers, and the performing arts.",
-    "url" : "https://bsu.edu/map/buildings/campus/pruis-hall",
-    "term" : "PH"
-  },
-  {
-    "title" : "Public Safety Department",
-    "lat" : 40.1950874,
-    "lng" : -85.4075241,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_162.jpg",
-    "desc" : "This property houses the offices of University Police.",
-    "url" : "https://bsu.edu/map/buildings/campus/department-of-public-safety",
-    "term" : "PD"
-  },
-  {
-    "title" : "Quiznos",
-    "lat" : 40.2055,
-    "lng" : -85.406,
-    "thumb" : "",
-    "type" : "dinging",
-    "desc" : "Located in the Student Recreation and Wellness Center, Quiznos (a national chain) serves toasted sub sandwiches.",
-    "url" : "https://bsu.edu/map/dining/quiznos",
-    "term" : ""
-  },
-  {
-    "title" : "R1",
-    "lat" : 40.20855,
-    "lng" : -85.4123,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "R10",
-    "lat" : 40.20112,
-    "lng" : -85.40601,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "R11",
-    "lat" : 40.1995,
-    "lng" : -85.41302,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "R2",
-    "lat" : 40.20573,
-    "lng" : -85.40901,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "R20",
-    "lat" : 40.1959763,
-    "lng" : -85.41275,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "R21",
-    "lat" : 40.1965,
-    "lng" : -85.411,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "R23",
-    "lat" : 40.19831,
-    "lng" : -85.40812,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.\t<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "R25",
-    "lat" : 40.20081,
-    "lng" : -85.4107,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "R27",
-    "lat" : 40.201,
-    "lng" : -85.4099,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "R4",
-    "lat" : 40.20558,
-    "lng" : -85.40471,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "R5",
-    "lat" : 40.20437,
-    "lng" : -85.406,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "Rinard Orchid Greenhouse",
-    "lat" : 40.1987419,
-    "lng" : -85.4158,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/rinardgreenhous150.jpg",
-    "desc" : "The Orchid Greenhouse houses the Wheeler-Thanhauser Orchid Collection and Species Bank. ",
-    "url" : "https://bsu.edu/map/buildings/campus/greenhouse",
-    "term" : "GH"
-  },
-  {
-    "title" : "Robert Bell Building",
-    "lat" : 40.2043381,
-    "lng" : -85.40882,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/11_camp005_194.jpg",
-    "desc" : "The Robert Bell Building houses the Departments of English, Computer Science, and Mathematical Sciences. ",
-    "url" : "https://bsu.edu/map/buildings/campus/robert-bell-building",
-    "term" : "RB"
-  },
-  {
-    "title" : "Scheidler Apartments",
-    "lat" : 40.2205,
-    "lng" : -85.419,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_373.jpg",
-    "desc" : "A community of University Apartments, Scheidler Apartments is one of two apartment complexes maintained by Ball State.",
-    "url" : "https://bsu.edu/map/buildings/campus/scheidler-apartments",
-    "term" : "SR"
-  },
-  {
-    "title" : "Scheumann Stadium",
-    "lat" : 40.2160149,
-    "lng" : -85.4167938,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/stadium13_camp020_065.jpg",
-    "type" : "athletics",
-    "desc" : "Located North of campus, Scheumann Stadium is the home for the Cardinal football team, seating 22,500 fans. ",
-    "url" : "https://bsu.edu/map/athletics/scheumann-stadium",
-    "term" : "ST"
-  },
-  {
-    "title" : "Scramble Light",
-    "lat" : 40.2003,
-    "lng" : -85.4078,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp009_274.jpg",
-    "type" : "landmark",
-    "desc" : "Located at McKinley and Riverside avenues, the Scramble Light is a popular place for people to meet.",
-    "url" : "https://bsu.edu/map/landmarks/scramble-light",
-    "term" : ""
-  },
-  {
-    "title" : "Service and Stores",
-    "lat" : 40.22027,
-    "lng" : -85.42391,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_388.jpg",
-    "desc" : "This property houses offices related to vital services and operations at Ball State, including central mailing and receiving, printing services, purchasing, trade shops, and transportation. ",
-    "url" : "https://bsu.edu/map/buildings/campus/service-and-stores-building",
-    "term" : "SV"
-  },
-  {
-    "title" : "Shafer Tower",
-    "lat" : 40.2038078,
-    "lng" : -85.4080048,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp009_095.jpg",
-    "desc" : "Shafer Tower is a prominent landmark located in the center of campus and features a carillon tower housing 48 custom-made bells.",
-    "url" : "https://bsu.edu/map/landmarks/shafer-tower",
-    "term" : "SH"
-  },
-  {
-    "title" : "Showalter Building",
-    "lat" : 40.2198029,
-    "lng" : -85.4232,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_384.jpg",
-    "desc" : "This property houses offices related to Facilities Planning and Management.",
-    "url" : "https://bsu.edu/map/buildings/campus/showalter-building",
-    "term" : "SO"
-  },
-  {
-    "title" : "South Campus Recreation Field 1",
-    "lat" : 40.198,
-    "lng" : -85.4179,
-    "thumb" : "",
-    "type" : "athletics",
-    "desc" : "South Campus Recreation Field 1 is used for intramural recreational activities. Located at University and Tillotson avenues, near the heat plant.",
-    "url" : "https://bsu.edu/map/athletics/south-campus-recreation-field-1",
-    "term" : ""
-  },
-  {
-    "title" : "South Campus Recreation Field 2",
-    "lat" : 40.198,
-    "lng" : -85.4152,
-    "thumb" : "",
-    "type" : "athletics",
-    "desc" : "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located at University and Tillotson Avenues, near The Marilyn K. Glick Center for Glass.",
-    "url" : "https://bsu.edu/map/athletics/south-campus-recreation-field-2",
-    "term" : ""
-  },
-  {
-    "title" : "Sponsored Projects Administration",
-    "lat" : 40.20059,
-    "lng" : -85.41077,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_062.jpg",
-    "desc" : "This property houses the Sponsored Projects Administration which plays a key in the administration of the university's many grants and copyrights.",
-    "url" : "https://bsu.edu/map/buildings/campus/sponsored-projects-administration",
-    "term" : "RH"
-  },
-  {
-    "title" : "Stadium",
-    "lat" : 40.21666,
-    "lng" : -85.41941,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Any color permit required<br/>24 hour parking<br/>Overflow for all lots<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Stadium"
-  },
-  {
-    "title" : "Stadium Overflow",
-    "lat" : 40.21525,
-    "lng" : -85.42086,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "Any color permit required<br/>24 hour parking<br/>Overflow for all lots<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Stadium"
-  },
-  {
-    "title" : "Studebaker Hall East",
-    "lat" : 40.20341,
-    "lng" : -85.40157,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_102.jpg",
-    "desc" : "Studebaker Hall East, better known as Stu East, is one of the university's residence halls.",
-    "url" : "https://bsu.edu/map/buildings/campus/studebaker-east-complex",
-    "term" : "SE"
-  },
-  {
-    "title" : "Studebaker Hall West",
-    "lat" : 40.2032738,
-    "lng" : -85.4026947,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_101.jpg",
-    "desc" : "Studebaker Hall West, better known as Stu West, is one of the university's residence halls.",
-    "url" : "https://bsu.edu/map/buildings/campus/studebaker-west-complex",
-    "term" : "SW"
-  },
-  {
-    "title" : "Student Center Parking Garage (R8)",
-    "lat" : 40.19643,
-    "lng" : -85.40857,
-    "thumb" : "",
-    "type" : "parking",
-    "desc" : "This parking garage is located immediately south of the Student Center. Metered parking for visitors is located on the bottom floor with a pay station located at each pedestrian exit. The remainder of the garage is restricted (red) parking and requires a permit.<br/><br/>Red permit required<br/>3:30 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
-    "url" : "null",
-    "term" : "Restricted"
-  },
-  {
-    "title" : "Sursa Performance Hall",
-    "lat" : 40.19983,
-    "lng" : -85.4073,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/musicinstruction05b_150.jpg",
-    "desc" : "Located in the Music Instruction Building, Sursa Performance Hall is a rehearsal, performance, and recital hall that features the latest in acoustic advancements.",
-    "url" : "https://bsu.edu/map/buildings/campus/sursa-performance-hall",
-    "term" : "MI"
-  },
-  {
-    "title" : "Tally Food Court",
-    "lat" : 40.1972351,
-    "lng" : -85.4088,
-    "thumb" : "",
-    "type" : "dinging",
-    "desc" : "The Tally Food Court, located in the L.A. Pittenger Student Center, features a Taco Bell, Starbucks, salad bar, grill menu, soups, and comfort foods.",
-    "url" : "https://bsu.edu/map/dining/student-center-tally-food-court",
-    "term" : ""
-  },
-  {
-    "title" : "Teachers College Building",
-    "lat" : 40.2008171,
-    "lng" : -85.4084854,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/10_camp008_030.jpg",
-    "desc" : "This building, also known as TC, houses the office for our Teachers College and its departments.",
-    "url" : "https://bsu.edu/map/buildings/campus/teachers-college-building",
-    "term" : "TC"
-  },
-  {
-    "title" : "Teaching and Research Greenhouse",
-    "lat" : 40.1987572,
-    "lng" : -85.41461,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/trainnigandresearchgreenhouse150.jpg",
-    "desc" : "The Teaching and Research Greenhouse provides a place for students to work on research projects and contains plants from around the world for them to examine.",
-    "url" : "https://bsu.edu/map/buildings/campus/teaching-and-research-greenhouse",
-    "term" : ""
-  },
-  {
-    "title" : "The Atrium and Jamba Juice",
-    "lat" : 40.2023,
-    "lng" : -85.4087,
-    "thumb" : "",
-    "type" : "dinging",
-    "desc" : "The Atrium in the Art and Journalism Building (AJ) is a food court that includes an outdoor courtyard and food establishments ranging from Italian, Asian, and Mexican to burgers, chicken, subs, and salads. Also in AJ is Jamba Juice.",
-    "url" : "https://bsu.edu/map/dining/atrium-food-court",
-    "term" : "AJ"
-  },
-  {
-    "title" : "The Quad",
-    "lat" : 40.1991,
-    "lng" : -85.4102,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/11_camp023_26.jpg",
-    "desc" : "This large grass area and historic part of campus is bordered by North Quad, the Fine Arts Building, Cooper Science Complex, Ball Gym, West Quad, Lucina Hall, the Administration Building, and the Burkhart Building.",
-    "url" : "https://bsu.edu/map/landmarks/the-quad",
-    "term" : "landmark"
-  },
-  {
-    "title" : "The Village",
-    "lat" : 40.19766,
-    "lng" : -85.40571,
-    "thumb" : "",
-    "type" : "landmark",
-    "desc" : "Students enjoy hanging out in the Village, a business district along University Avenue.",
-    "url" : "https://bsu.edu/map/landmarks/the-village",
-    "term" : ""
-  },
-  {
-    "title" : "Thomas J. Kinghorn Hall",
-    "lat" : 40.2046,
-    "lng" : -85.4024,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp024_112.jpg",
-    "desc" : "Kinghorn Hall is one of the university's residence halls. ",
-    "url" : "https://bsu.edu/map/buildings/campus/thomas-j-kinghorn-hall",
-    "term" : "KI"
-  },
-  {
-    "title" : "Tom John Food Shop",
-    "lat" : 40.20448,
-    "lng" : -85.40225,
-    "thumb" : "",
-    "type" : "dinging",
-    "desc" : "Located in Kinghorn Hall, the Tom John Food Shop serves custom-made sandwich options with breakfast, lunch, and dinner in mind. An adjacent grocery area offers grab-and-go items from snacks and frozen entrees to fruit cups and salads.",
-    "url" : "https://bsu.edu/map/dining/tom-john-food-shop",
-    "term" : ""
-  },
-  {
-    "title" : "Transfer Indiana Group",
-    "lat" : 40.19682,
-    "lng" : -85.4076,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_179.jpg",
-    "desc" : "This property houses the Transfer Indiana Central Office whose staff is responsible for working with incoming transfer students to determine how courses taken at other colleges and universities would transfer to Ball State.",
-    "url" : "https://bsu.edu/map/buildings/campus/400-north-mckinley",
-    "term" : "AS"
-  },
-  {
-    "title" : "University Green",
-    "lat" : 40.20388,
-    "lng" : -85.40741,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/12_camp019_022.jpg",
-    "type" : "landmark",
-    "desc" : "Located between Bracken Library and the Architecture Building, University Green is a popular spot for outdoor concerts and other special events.",
-    "url" : "https://bsu.edu/map/landmarks/university-green",
-    "term" : ""
-  },
-  {
-    "title" : "University Theatre",
-    "lat" : 40.2017174,
-    "lng" : -85.40702,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp016_218.jpg",
-    "desc" : "University Theatre is a 400-seat arts venue used primarily for the Department of Theatre and Dance's Mainstage Subscription Series. ",
-    "url" : "https://bsu.edu/map/buildings/campus/university-theatre",
-    "term" : "TH"
-  },
-  {
-    "title" : "Varsity Baseball Complex",
-    "lat" : 40.2174,
-    "lng" : -85.4219,
-    "thumb" : "/-/media/www/images/map/media/buildings/300/baseball13_camp020_036.jpg",
-    "type" : "athletics",
-    "desc" : "The baseball diamond is used by our baseball team and is across Tillotson Avenue from Scheumann Stadium. ",
-    "url" : "https://bsu.edu/map/athletics/baseball-diamond",
-    "term" : ""
-  },
-  {
-    "title" : "Varsity Softball Complex",
-    "lat" : 40.21755,
-    "lng" : -85.4239,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/softball13_camp020_054.jpg",
-    "type" : "athletics",
-    "desc" : "The softball diamond is used by our softball team. ",
-    "url" : "https://bsu.edu/map/athletics/softball-diamond",
-    "term" : ""
-  },
-  {
-    "title" : "Wagoner Complex",
-    "lat" : 40.19627,
-    "lng" : -85.4106445,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp013_409.jpg",
-    "desc" : "Wagoner Complex is a residence hall used by high school students attending the Indiana Academy for Science, Mathematics, and Humanities. ",
-    "url" : "https://bsu.edu/map/buildings/campus/wagoner-complex",
-    "term" : "WA"
-  },
-  {
-    "title" : "West Campus Field and Shelter",
-    "lat" : 40.1984749,
-    "lng" : -85.41771,
-    "thumb" : "",
-    "desc" : "The West Campus Field and Shelter is located on the corner of Tillotson and University avenues. The fields are used for Sports Club activities. The shelter is available to be reserved through a Sports Facilities Space Request.",
-    "url" : "https://bsu.edu/map/buildings/campus/west-campus-field-and-shelter",
-    "term" : "WC"
-  },
-  {
-    "title" : "West Quad Building",
-    "lat" : 40.19887,
-    "lng" : -85.4128,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/13_camp009_020.jpg",
-    "desc" : "The West Quadrangle Building, better known as West Quad, houses offices of the Graduate School, Department of Natural Resources and Environmental Management, the Office of Institutional Effectiveness, and Marketing and Communications.",
-    "url" : "https://bsu.edu/map/buildings/campus/west-quad-building",
-    "term" : "WQ"
-  },
-  {
-    "title" : "Whitinger Business Building",
-    "lat" : 40.2034836,
-    "lng" : -85.40643,
-    "thumb" : "/-/media/www/images/map/media/41214/05whitinger_200.jpg",
-    "desc" : "The Whitinger Business Building houses offices and departments affiliated with our Miller College of Business (MCOB).",
-    "url" : "https://bsu.edu/map/buildings/campus/whitinger-business-building",
-    "term" : "WB"
-  },
-  {
-    "title" : "Woodworth Commons",
-    "lat" : 40.2011,
-    "lng" : -85.40519,
-    "thumb" : "",
-    "type" : "dinging",
-    "desc" : "Located inside Woodworth Complex on the ground level, just south of the Emens Parking Garage, Woodworth Commons has a wide variety of dining options, from pizza and burgers to panini, salads, and much more.",
-    "url" : "https://bsu.edu/map/dining/woodworth-commons",
-    "term" : "WO"
-  },
-  {
-    "title" : "Woodworth Complex",
-    "lat" : 40.20133,
-    "lng" : -85.40519,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/10_camp022_174.jpg",
-    "desc" : "Woodworth Complex provides on-campus housing for students. ",
-    "url" : "https://bsu.edu/map/buildings/campus/woodworth-complex",
-    "term" : "WO"
-  },
-  {
-    "title" : "Worthen Arena",
-    "lat" : 40.2070274,
-    "lng" : -85.4063339,
-    "thumb" : "/-/media/www/images/map/media/buildings/150/arena13_camp020_108.jpg",
-    "type" : "athletics",
-    "desc" : "Worthen Arena is the home of the Cardinal men's and women's basketball and volleyball teams.",
-    "url" : "https://bsu.edu/map/athletics/worthen-arena",
-    "term" : "WR"
+    "title": "Administration Building, Frank A. Bracken",
+    "lat": 40.1983223,
+    "lng": -85.40894,
+    "thumb": "/-/media/www/images/map/media/buildings/150/10_camp008_140.jpg",
+    "desc": "The Frank A. Bracken Administration Building, also known as the Ad Building, houses administrative offices that include the president, provost, and vice presidents.",
+    "url": "https://bsu.edu/map/buildings/campus/frank-a-bracken-administration-building",
+    "term": "AD",
+    "id": "f84af28c-4a1a-44b8-b7f8-7ee33644eb62"
+  },
+  {
+    "title": "Alumni Center",
+    "lat": 40.2147179,
+    "lng": -85.4184,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp012_053.jpg",
+    "desc": "The Alumni Center houses the offices of Alumni Programs and is fully equipped to hold conferences, receptions, and events.",
+    "url": "https://bsu.edu/map/buildings/campus/alumni-center",
+    "term": "AL",
+    "id": "3b87472f-d8ac-4f4b-90ca-61683a415fee"
+  },
+  {
+    "title": "Anthony Apartments",
+    "lat": 40.2108727,
+    "lng": -85.41243,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_390.jpg",
+    "desc": "A community of University Apartments, Anthony Apartments is one of two apartment complexes maintained by Ball State.",
+    "url": "https://bsu.edu/map/buildings/campus/anthony-apartments",
+    "term": "AN",
+    "id": "d8ad3e87-e423-4319-b5a2-98cee976d5e7"
+  },
+  {
+    "title": "Anthony Recreation Fields",
+    "lat": 40.21,
+    "lng": -85.414,
+    "thumb": "",
+    "type": "athletics",
+    "desc": "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located southwest of Bethel and McKinley avenues, along Bowman Street.",
+    "url": "https://bsu.edu/map/athletics/anthony-recreation-fields",
+    "term": "",
+    "id": "a14b02ee-981c-4dcb-8db1-7a37e6b8c511"
+  },
+  {
+    "title": "Applied Technology Building",
+    "lat": 40.200943,
+    "lng": -85.40922,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp011_28.jpg",
+    "desc": "The Applied Technology Building houses the Department of Applied Business Studies, the Department of Construction Management and Interior Design, and the student-run Allegre Restaurant.",
+    "url": "https://bsu.edu/map/buildings/campus/applied-technology-building",
+    "term": "AT",
+    "id": "b60f55d7-7eea-4f01-ade4-5a81cb48ee79"
+  },
+  {
+    "title": "Architecture Building",
+    "lat": 40.20442,
+    "lng": -85.40718,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp019_022.jpg",
+    "desc": "The Architecture Building houses the R. Wayne Estopinal College of Architecture and Planning (CAP) and its departments.",
+    "url": "https://bsu.edu/map/buildings/campus/architecture-building",
+    "term": "AB",
+    "id": "1d5fd7af-01c8-4dc4-902d-543e71bf953b"
+  },
+  {
+    "title": "Art and Journalism Building",
+    "lat": 40.2021942,
+    "lng": -85.40876,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp024_215.jpg",
+    "desc": "The Art and Journalism Building houses degree programs in our Department of Journalism and School of Art along with the popular Atrium Food Court.",
+    "url": "https://bsu.edu/map/buildings/campus/art-and-journalism-building",
+    "term": "AJ",
+    "id": "100af791-50b2-4c2a-97ca-0a2a6a091e41"
+  },
+  {
+    "title": "Arts and Communications Building",
+    "lat": 40.2010078,
+    "lng": -85.40659,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_011.jpg",
+    "desc": "The Arts and Communications Building houses the office of the College of Fine Arts, its Departments of Theatre and Dance, the Department of Speech Pathology and Audiology, the Department of Family and Consumer Sciences and advising offices as well as Strother and Cave theatres.",
+    "url": "https://bsu.edu/map/buildings/campus/arts-and-communications-building",
+    "term": "AC",
+    "id": "010fe1ba-c5d9-4b59-be4f-8f3cf4396669"
+  },
+  {
+    "title": "Arts Terrace",
+    "lat": 40.19965,
+    "lng": -85.41028,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp014_117.jpg",
+    "type": "landmark",
+    "desc": "The grand stone staircase and terrace that lead to the front doors of the David Owsley Museum of Art at Ball State University also serve as the setting for Ball State’s May Commencement.",
+    "url": "https://bsu.edu/map/landmarks/arts-terrace",
+    "term": "",
+    "id": "5f068487-e3b7-4123-84d0-073a80e84773"
+  },
+  {
+    "title": "Ball Communication Building",
+    "lat": 40.20327,
+    "lng": -85.40896,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_024.jpg",
+    "desc": "The Ball Communication Building houses offices and classrooms for our Department of Telecommunications and Center for Information and Communication Sciences (CICS}, along with our iLearn and Emerging Technologies initiatives. ",
+    "url": "https://bsu.edu/map/buildings/campus/ball-communication-building",
+    "term": "BC",
+    "id": "9ad87910-1668-4f9e-9d63-cfd7892c5675"
+  },
+  {
+    "title": "Ball Gymnasium",
+    "lat": 40.1993,
+    "lng": -85.41206,
+    "thumb": "/-/media/www/images/map/media/buildings/150/map13_camp014_128.jpg",
+    "desc": "Ball Gymnasium is a historic athletic and recreational complex.",
+    "url": "https://bsu.edu/map/buildings/campus/ball-gymnasium",
+    "term": "BG",
+    "id": "1b93c23b-342a-4aa8-8fc9-4a85fa073184"
+  },
+  {
+    "title": "Ball Honors House",
+    "lat": 40.2,
+    "lng": -85.40599,
+    "thumb": "/-/media/www/images/map/media/103428/ballhonors_300.gif",
+    "desc": "The Ball Honors House is the home of the Honors College.",
+    "url": "https://bsu.edu/map/buildings/campus/ball-honors-house",
+    "term": "BA",
+    "id": "2464fcda-802b-4e05-9667-b4a63c58b019"
+  },
+  {
+    "title": "Benadum Woods Picnic Shelter",
+    "lat": 40.21745,
+    "lng": -85.4179459,
+    "thumb": "",
+    "desc": "A picnic shelter and open field for Ball State student and employee events located near the Briner Sports Complex.",
+    "url": "https://bsu.edu/map/buildings/campus/benadum-woods-picnic-shelter",
+    "term": "A3",
+    "id": "d9871f72-d740-4d27-a30d-4d9f4165ac92"
+  },
+  {
+    "title": "Beneficence",
+    "lat": 40.1983,
+    "lng": -85.41027,
+    "thumb": "/-/media/www/images/map/media/buildings/150/206108_bsu_1698.jpg",
+    "desc": "Beneficence, affectionately called “Benny,” is Ball State's institutional icon.",
+    "url": "https://bsu.edu/map/landmarks/beneficence",
+    "term": "landmark",
+    "id": "2d64fb90-5eff-4b92-979c-2df2cd59bc98"
+  },
+  {
+    "title": "Bethel Recreation Fields",
+    "lat": 40.2164,
+    "lng": -85.4225,
+    "thumb": "",
+    "type": "athletics",
+    "desc": "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located along Bethel Avenue, west of Tillotson Avenue.",
+    "url": "https://bsu.edu/map/athletics/bethel-recreation-fields",
+    "term": "",
+    "id": "97529a86-115c-40db-9830-47db0c2f724b"
+  },
+  {
+    "title": "Bookmark Caf&#233;",
+    "lat": 40.2025,
+    "lng": -85.4069,
+    "thumb": "",
+    "type": "dining",
+    "desc": "Located on the first floor of Bracken Library, Bookmark Café offers a selection of coffees, snacks, and quick meal options.",
+    "url": "https://bsu.edu/map/dining/bookmark-cafe",
+    "term": "BL",
+    "id": "916d1ec4-e52f-4a77-8663-e64a2f5968c4"
+  },
+  {
+    "title": "Bracken House",
+    "lat": 40.2034035,
+    "lng": -85.41209,
+    "thumb": "/-/media/www/images/map/media/buildings/150/10_camp010_50.jpg",
+    "desc": "Bracken House is the home of the university's president and is the location for many receptions, dinners, and other Ball State events.",
+    "url": "https://bsu.edu/map/buildings/campus/bracken-house",
+    "term": "PR",
+    "id": "2941a477-0bf0-4c5f-b947-73fca77d92e0"
+  },
+  {
+    "title": "Bracken Library",
+    "lat": 40.20241,
+    "lng": -85.4072342,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_212.jpg",
+    "desc": "Bracken Library is the main library for the university.",
+    "url": "https://bsu.edu/map/buildings/campus/bracken-library",
+    "term": "BL",
+    "id": "feaf5579-c246-4cf9-a9b9-9ba404282303"
+  },
+  {
+    "title": "Briner Sports Complex",
+    "lat": 40.21805,
+    "lng": -85.41875,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp021_089.jpg",
+    "type": "athletics",
+    "desc": "The Briner Sports Complex includes a soccer turf field, a field hockey field, two operations booths, two scoreboards, an arched entrance, and throw and field events areas for track.",
+    "url": "https://bsu.edu/map/athletics/briner-sports-complex",
+    "term": "",
+    "id": "ef05b79c-914d-464e-b57b-bd6660f318ce"
+  },
+  {
+    "title": "Burkhardt Building",
+    "lat": 40.1989174,
+    "lng": -85.408165,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp014_002.jpg",
+    "desc": "The Burkhardt Building houses the Departments of History, Anthropology, and Women's and Gender Studies.",
+    "url": "https://bsu.edu/map/buildings/campus/burkhardt-building",
+    "term": "BB",
+    "id": "1c7b4343-65f4-411c-9de7-e33593e40524"
+  },
+  {
+    "title": "Burris Laboratory School",
+    "lat": 40.1968727,
+    "lng": -85.41233,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_430.jpg",
+    "desc": "Established by Teachers College, Burris Laboratory School is a K-12 school consistently ranked as one of Indiana's best.  ",
+    "url": "https://bsu.edu/map/buildings/campus/burris-laboratory-school",
+    "term": "BU",
+    "id": "cefb73ac-6523-4014-9098-61ba4cd1a150"
+  },
+  {
+    "title": "C1",
+    "lat": 40.209,
+    "lng": -85.4077,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Commuter",
+    "id": "5b230c9f-a158-451e-a72b-d939ac2210da"
+  },
+  {
+    "title": "C3",
+    "lat": 40.19842,
+    "lng": -85.41845,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Commuter",
+    "id": "39a40a45-590b-475a-a83b-7b77a38f00f7"
+  },
+  {
+    "title": "C4",
+    "lat": 40.19624,
+    "lng": -85.40807,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Commuter",
+    "id": "4870e4d6-fc92-4178-8233-d362f1afc88b"
+  },
+  {
+    "title": "C5",
+    "lat": 40.19536,
+    "lng": -85.40845,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Commuter",
+    "id": "8d3a51b1-87bb-43c4-828c-990198e9a33d"
+  },
+  {
+    "title": "C6",
+    "lat": 40.19532,
+    "lng": -85.40972,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Commuter",
+    "id": "2de3434e-2c52-4209-bceb-10c05f738dad"
+  },
+  {
+    "title": "C7-G",
+    "lat": 40.2155,
+    "lng": -85.41839,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Commuter",
+    "id": "9d8c6b5b-c693-487b-803a-a34d5f7ace75"
+  },
+  {
+    "title": "C9",
+    "lat": 40.19898,
+    "lng": -85.40526,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Green permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Commuter",
+    "id": "dc2b5cd9-b367-4196-85e6-fa502c92fddf"
+  },
+  {
+    "title": "CAP Design Build Lab",
+    "lat": 40.20515,
+    "lng": -85.40839,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_137.jpg",
+    "desc": "The CAP Design-Build Facility is a large workshop where students from the College of Architecture and Planning can build building and design models.",
+    "url": "https://bsu.edu/map/buildings/campus/cap-design-build-lab",
+    "term": "",
+    "id": "72ecd9fa-cfcb-4306-9cd2-40f00ed0a5b0"
+  },
+  {
+    "title": "Cardinal Creek Tennis Center",
+    "lat": 40.21023,
+    "lng": -85.411,
+    "thumb": "/-/media/www/images/map/media/buildings/150/cctennis13_camp020_094.jpg",
+    "type": "athletics",
+    "desc": "The Tennis Center features twelve tennis courts and is used by our men's and women's tennis teams. ",
+    "url": "https://bsu.edu/map/athletics/tennis-courts",
+    "term": "",
+    "id": "7de75fae-0211-4a1a-abe0-e8a67f82bcb5"
+  },
+  {
+    "title": "Center for Peace and Conflict Studies",
+    "lat": 40.19619,
+    "lng": -85.4075241,
+    "thumb": "/-/media/www/images/map/media/40776/peacestudies05_200.jpg",
+    "desc": "This property houses the Center for Peace and Conflict Studies.",
+    "url": "https://bsu.edu/map/buildings/campus/center-for-peace-and-conflict-studies",
+    "term": "PE",
+    "id": "58062c7d-5be3-46be-a1ff-e2ae3844f8ff"
+  },
+  {
+    "title": "Central Chilling Plant",
+    "lat": 40.1991,
+    "lng": -85.4135,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_198.jpg",
+    "desc": "The five cooling towers located at the Central Chill Plant provide air conditioning and dehumidification for a portion of the buildings on campus.",
+    "url": "https://bsu.edu/map/buildings/campus/central-chilling-plant",
+    "term": "CC",
+    "id": "433a7a30-f7dc-4c5b-937a-a918732a944a"
+  },
+  {
+    "title": "Charles W. Brown Planetarium",
+    "lat": 40.2,
+    "lng": -85.4126,
+    "thumb": "/-/media/www/images/map/media/buildings/150/brownplanetarium150.jpg",
+    "desc": "Part of the Cooper Science Complex the Charles W. Brown Planetarium is the largest in Indiana.",
+    "url": "https://bsu.edu/map/buildings/campus/charles-brown-planetarium",
+    "term": "",
+    "id": "15d2233e-df61-4034-870a-e8a1815a6105"
+  },
+  {
+    "title": "Child Study Center",
+    "lat": 40.20769,
+    "lng": -85.4032,
+    "thumb": "/-/media/www/images/map/media/43206/05childstudycenter_200.jpg",
+    "desc": "These properties house the Child Study Centers.",
+    "url": "https://bsu.edu/map/buildings/campus/child-study-center",
+    "term": "CS and CX",
+    "id": "4d0290e0-f044-4cae-b10e-e593d9d7f12b"
+  },
+  {
+    "title": "Christy Woods",
+    "lat": 40.1995,
+    "lng": -85.4143,
+    "thumb": "/-/media/www/images/map/media/buildings/300/christywoods13_camp020_008.jpg",
+    "desc": "Christy Woods is a 17-acre outdoor classroom and laboratory that provides opportunities for hands-on learning and observation of nature and natural processes for students.",
+    "url": "https://bsu.edu/map/landmarks/christy-woods",
+    "term": "",
+    "id": "7c0d3883-6b76-4770-be55-be7ad3b374ee"
+  },
+  {
+    "title": "Christy Woods Office",
+    "lat": 40.19875,
+    "lng": -85.4143143,
+    "thumb": "",
+    "desc": "Located on the southwest side of campus this building houses the Christy Woods offices and the South Service building.",
+    "url": "https://bsu.edu/map/buildings/campus/south-shopschristy-woods-office-west-campus",
+    "term": "SS",
+    "id": "9a9c072b-1375-499d-be8b-d3416c8c5cac"
+  },
+  {
+    "title": "Cooper Life Science Building",
+    "lat": 40.2,
+    "lng": -85.41213,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp009_013.jpg",
+    "desc": "Part of the Cooper Science Complex, the Cooper Life Science Building houses the Departments of Biology, Geography, and Health Science. ",
+    "url": "https://bsu.edu/map/buildings/campus/cooper-life-science-building",
+    "term": "CL",
+    "id": "b0575e97-8bdc-4736-8c26-02e5041630e1"
+  },
+  {
+    "title": "Cooper Nursing Building",
+    "lat": 40.2,
+    "lng": -85.41171,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp009_013.jpg",
+    "desc": "Part of the Cooper Science Complex, the Cooper Nursing Building houses the School of Nursing. ",
+    "url": "https://bsu.edu/map/buildings/campus/cooper-nursing-building",
+    "term": "CN",
+    "id": "b65f1c71-8f1f-4ffd-87bc-49ea37f37824"
+  },
+  {
+    "title": "Cooper Physical Science Building",
+    "lat": 40.1999626,
+    "lng": -85.41128,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp009_013.jpg",
+    "desc": "Part of the Cooper Science Complex, the Cooper Physical Science Building houses an observatory, weather station, and the Departments of Chemistry and Physics and Astronomy.",
+    "url": "https://bsu.edu/map/buildings/campus/cooper-physical-science-building",
+    "term": "CP",
+    "id": "8faffea9-4a93-402e-b883-a8bb786b213e"
+  },
+  {
+    "title": "Cow Path",
+    "lat": 40.20477,
+    "lng": -85.40962,
+    "thumb": "/-/media/www/images/map/media/buildings/150/cowpath13_camp020_124.jpg",
+    "type": "landmark",
+    "desc": "Once a dirt path, the Cow Path is a long sidewalk that extends from Riverside Avenue northward behind the Art and Journalism Building, Ball Communication Building, David Letterman Communication and Media Building, and Robert Bell Building to Petty Road.",
+    "url": "https://bsu.edu/map/landmarks/cow-path",
+    "term": "",
+    "id": "4cdf748a-f04f-42e6-9105-5ee78a2dc756"
+  },
+  {
+    "title": "CR8",
+    "lat": 40.19603,
+    "lng": -85.40857,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Orange permit required<br/>3:30 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Commuter Restricted",
+    "id": "070e8065-698e-42e8-af1c-13c1dba4582c"
+  },
+  {
+    "title": "David Letterman Communication and Media Building",
+    "lat": 40.20389,
+    "lng": -85.40888,
+    "thumb": "/-/media/www/images/map/media/buildings/150/11_camp005_164.jpg",
+    "desc": "The David Letterman Communication and Media Building houses the office of our College of Communication, Information, and Media and its Departments of Telecommunications and Communication Studies. In addition, it is home to Indiana Public Radio and WCRD-FM.",
+    "url": "https://bsu.edu/map/buildings/campus/david-letterman-communication-and-media-building",
+    "term": "LB",
+    "id": "58d263e5-b5ba-4535-872f-7ced2e115a95"
+  },
+  {
+    "title": "Dehority Complex",
+    "lat": 40.20114,
+    "lng": -85.40369,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_287.jpg",
+    "desc": "DeHority Complex is one of the university's residence halls and home to Honors College students. ",
+    "url": "https://bsu.edu/map/buildings/campus/dehority-complex",
+    "term": "DH",
+    "id": "32a9a06a-09b6-4861-a10f-d5c5276bc9b1"
+  },
+  {
+    "title": "District Energy Station North",
+    "lat": 40.2079,
+    "lng": -85.414,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp029_110.jpg",
+    "desc": "The energy station contains equipment that operates Ball State's geothermal system.",
+    "url": "https://bsu.edu/map/buildings/campus/district-energy-station-north",
+    "term": "EN",
+    "id": "6f9cc168-5bf8-49d5-8d0c-0eda535a6b45"
+  },
+  {
+    "title": "Duck Pond",
+    "lat": 40.2092,
+    "lng": -85.41115,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_028.jpg",
+    "type": "landmark",
+    "desc": "This popular hangout for sunbathers north of Johnson Halls is a serene home for fish, ducks, and geese.",
+    "url": "https://bsu.edu/map/landmarks/duck-pond",
+    "term": "",
+    "id": "d8c6b604-023a-47a8-b3bb-607284cf8515"
+  },
+  {
+    "title": "E. B. and Bertha C. Ball Center",
+    "lat": 40.2045021,
+    "lng": -85.39097,
+    "thumb": "/-/media/www/images/map/media/42014/05ebballcenter_200.jpg",
+    "desc": "This historic residential property once belonged to members of the Ball family and is now home to the university's E.B. and Bertha C. Ball Center.",
+    "url": "https://bsu.edu/map/buildings/campus/e-b-and-bertha-c-ball-center",
+    "term": "EB",
+    "id": "a72b2f75-1fe8-4ca1-b3dd-2fc52bd068b6"
+  },
+  {
+    "title": "E. F. Ball Medical Education Building",
+    "lat": 40.1952553,
+    "lng": -85.416,
+    "thumb": "/-/media/www/images/map/media/43220/05medicaleducation_200.jpg",
+    "desc": "This building is home to the Center for Medical Education.",
+    "url": "https://bsu.edu/map/buildings/campus/e-f-ball-medical-education-building",
+    "term": "MT",
+    "id": "3a8f41fb-3edb-4e9e-bc4c-d2d895a172fe"
+  },
+  {
+    "title": "Elliott Dining",
+    "lat": 40.1960373,
+    "lng": -85.41124,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_427.jpg",
+    "type": "dining",
+    "desc": "An all-you-can eat, buffet-style dining facility located behind Elliott Hall. Open to the public.",
+    "url": "https://bsu.edu/map/dining/elliottwagoner-dining",
+    "term": "EW",
+    "id": "930fb86e-cf15-47e7-92b7-ba2d209a046d"
+  },
+  {
+    "title": "Elliott Hall",
+    "lat": 40.19706,
+    "lng": -85.4108,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_139.jpg",
+    "desc": "Elliott Hall is one of the university's oldest residence halls.",
+    "url": "https://bsu.edu/map/buildings/campus/elliott-hall",
+    "term": "EL",
+    "id": "9991c7d5-d8ab-44ff-9a50-4f2805a44696"
+  },
+  {
+    "title": "Emens Auditorium",
+    "lat": 40.20092,
+    "lng": -85.40696,
+    "thumb": "/-/media/www/images/map/common/media/23115/emense_200.jpg",
+    "desc": "Emens Auditorium is Ball State's premier venue for arts and entertainment events. ",
+    "url": "https://bsu.edu/map/buildings/campus/emens-auditorium",
+    "term": "AU",
+    "id": "414d074a-6c4f-40ce-9844-f965108d6891"
+  },
+  {
+    "title": "Emens Parking Garage (R6)",
+    "lat": 40.20228,
+    "lng": -85.40494,
+    "thumb": "",
+    "type": "parking",
+    "desc": "This parking garage is located east of Emens Auditorium and the adjacent Arts and Communications Building. Metered parking for visitors is located on the top floor with a pay station located in each of the three stairwells and one at the bottom of the up and down ramp on the top floor. The remainder of the garage is restricted (red) parking and requires a permit.<br/><br/>Red permit required<br/>3:30 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "1598d3ad-d16f-457c-8dd4-6fa287f40a66"
+  },
+  {
+    "title": "Field Sports Building",
+    "lat": 40.2062531,
+    "lng": -85.4061356,
+    "thumb": "/-/media/www/images/map/media/buildings/150/fieldsports.jpg",
+    "type": "athletics",
+    "desc": "The Field Sports Building features facilities for indoor track and field events. ",
+    "url": "https://bsu.edu/map/athletics/field-sports",
+    "term": "RC",
+    "id": "4230abdd-27f1-4de5-bda1-50f57bc4cf8a"
+  },
+  {
+    "title": "Fine Arts Building and Museum of Art",
+    "lat": 40.19991,
+    "lng": -85.4102249,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp014_117.jpg",
+    "desc": "The Fine Arts Building is home to the David Owsley Museum of Art and Department of Geological Sciences. ",
+    "url": "https://bsu.edu/map/buildings/campus/fine-arts-building-and-museum-of-art",
+    "term": "AR",
+    "id": "aac36c92-cc5c-46eb-bd72-9a09d3fafbd4"
+  },
+  {
+    "title": "Fisher Football Training Complex",
+    "lat": 40.21518,
+    "lng": -85.4168,
+    "thumb": "/-/media/www/images/map/media/buildings/150/11_s155_003fishertraining.jpg",
+    "type": "athletics",
+    "desc": "This year-round football training facility features advanced strength-training equipment, meeting spaces and locker rooms for the football team, and a sports medicine facility.",
+    "url": "https://bsu.edu/map/athletics/fisher-football-training-complex",
+    "term": "FT",
+    "id": "c779e7d5-3faa-4e22-9981-7b1712660b94"
+  },
+  {
+    "title": "Frog Baby",
+    "lat": 40.20325,
+    "lng": -85.40729,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp025_303.jpg",
+    "type": "landmark",
+    "desc": "Frog Baby is a sculpture of a joyous little girl playfully holding a frog in each hand.",
+    "url": "https://bsu.edu/map/landmarks/frog-baby-pond",
+    "term": "",
+    "id": "40e99191-a145-4618-9f82-263a84f31d26"
+  },
+  {
+    "title": "G1",
+    "lat": 40.2079,
+    "lng": -85.41151,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "5799d0f7-7fbd-4be5-b83c-f1fa5e218083"
+  },
+  {
+    "title": "G10",
+    "lat": 40.19533,
+    "lng": -85.4107,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "d32fb9ff-3c6c-447c-8543-b85e78e4cdb0"
+  },
+  {
+    "title": "G13",
+    "lat": 40.1987,
+    "lng": -85.41562,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "a539bf07-ed1b-48cc-923b-212d43f3da74"
+  },
+  {
+    "title": "G14-Y",
+    "lat": 40.21604,
+    "lng": -85.41839,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "08f2efca-33ef-4e53-a4c9-5461d9cda26f"
+  },
+  {
+    "title": "G15",
+    "lat": 40.19787,
+    "lng": -85.4129,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "200132ff-0bf2-4d53-a896-6212b90c9f0a"
+  },
+  {
+    "title": "G2",
+    "lat": 40.2072,
+    "lng": -85.40491,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "9f7e256e-e89e-4394-a29e-c7bb8b3680c4"
+  },
+  {
+    "title": "G20",
+    "lat": 40.196,
+    "lng": -85.40972,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "142b09ce-ed38-41d7-bd09-12a30b7e042d"
+  },
+  {
+    "title": "G25",
+    "lat": 40.19532,
+    "lng": -85.40797,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "fa3c9f54-d2a5-4353-80cf-478327459205"
+  },
+  {
+    "title": "G2N",
+    "lat": 40.20872,
+    "lng": -85.40575,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "79874999-9470-4960-8d8f-9b5178823959"
+  },
+  {
+    "title": "G2W",
+    "lat": 40.2066,
+    "lng": -85.40591,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "29b80960-59f3-4626-bba4-91fde1b17b6b"
+  },
+  {
+    "title": "G7",
+    "lat": 40.19738,
+    "lng": -85.40746,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "f7871062-74dc-4f3b-8bd5-89761a08a83a"
+  },
+  {
+    "title": "G8",
+    "lat": 40.19696,
+    "lng": -85.40996,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "06d88977-e356-4204-a171-6bee04522130"
+  },
+  {
+    "title": "G9",
+    "lat": 40.19699,
+    "lng": -85.40796,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "General",
+    "id": "6806d271-000e-4bee-9184-5f907ab46574"
+  },
+  {
+    "title": "Greek Row",
+    "lat": 40.2002,
+    "lng": -85.39672,
+    "thumb": "/-/media/www/images/map/media/buildings/150/fratrow13_camp020_142.jpg",
+    "desc": "Greek Row refers to the area of Greek fraternity and sorority houses along Riverside Avenue. ",
+    "url": "https://bsu.edu/map/landmarks/greek-row",
+    "term": "",
+    "id": "d6b9daaf-6482-407e-a1a1-9c8eb991749b"
+  },
+  {
+    "title": "H1",
+    "lat": 40.209,
+    "lng": -85.409,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Residence",
+    "id": "f9b30342-abb5-4e12-9951-9a2ddfb8bffc"
+  },
+  {
+    "title": "H2",
+    "lat": 40.20816,
+    "lng": -85.41289,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Residence",
+    "id": "fa21b0b6-6791-4477-aa01-a44365e52e6c"
+  },
+  {
+    "title": "H4",
+    "lat": 40.2012,
+    "lng": -85.4031,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Residence",
+    "id": "276b58ea-1833-407e-88c5-77a44e714858"
+  },
+  {
+    "title": "H6",
+    "lat": 40.19528,
+    "lng": -85.41123,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Residence",
+    "id": "d00ed378-9e69-45b4-81c8-5333d478e9f0"
+  },
+  {
+    "title": "H7",
+    "lat": 40.20616,
+    "lng": -85.40474,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Residence",
+    "id": "96d38c9f-2558-4cca-bcbe-5368e191bf04"
+  },
+  {
+    "title": "H8",
+    "lat": 40.203,
+    "lng": -85.4025,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Residence",
+    "id": "0943188f-1343-4b90-af73-74f2f7063583"
+  },
+  {
+    "title": "H9",
+    "lat": 40.20527,
+    "lng": -85.40201,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Blue permit required 24 hours<br/>Sunday 7 p.m. to Friday 5 p.m.<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Residence",
+    "id": "0213e807-9437-4e35-809e-a54a92a80180"
+  },
+  {
+    "title": "Hahn Recital Hall",
+    "lat": 40.1998558,
+    "lng": -85.40721,
+    "thumb": "/-/media/www/images/map/media/buildings/150/musicinstruction05b_150.jpg",
+    "desc": "Located in the Music Instruction Building, Hahn Recital Hall is an intimate 150-seat rehearsal and recital hall with excellent acoustical tuning capabilities.",
+    "url": "https://bsu.edu/map/buildings/campus/hahn-recital-hall",
+    "term": "MI",
+    "id": "867453ed-6dff-4975-9a79-6278154c76a8"
+  },
+  {
+    "title": "Hargreaves Music Building",
+    "lat": 40.2009735,
+    "lng": -85.40737,
+    "thumb": "/-/media/www/images/map/media/buildings/150/harmusic2.jpg",
+    "desc": "The Hargreaves Music Building houses a portion of the School of Music.",
+    "url": "https://bsu.edu/map/buildings/campus/hargreaves-music-building",
+    "term": "MU",
+    "id": "3d80c907-01fa-42d1-b8f2-caf321cb7037"
+  },
+  {
+    "title": "Health and Physical Activity Building",
+    "lat": 40.2055054,
+    "lng": -85.40696,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_117.jpg",
+    "desc": "The Health and Physical Activity Building houses offices and classrooms for the School of Kinesiology, Fisher Institute of Health and Well-Being, Intercollegiate Athletics, and the Human Performance Laboratory. ",
+    "url": "https://bsu.edu/map/buildings/campus/health-and-physical-activity-building",
+    "term": "HP",
+    "id": "88c76c13-529b-4127-b61c-4ce0b51c22cf"
+  },
+  {
+    "title": "Health Center, Amelia T. Wood",
+    "lat": 40.2045822,
+    "lng": -85.40376,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camphealth028_091.jpg",
+    "desc": "This building houses the Health Center, which provides ambulatory health care for sick and injured students. ",
+    "url": "https://bsu.edu/map/buildings/campus/health-center-amelia-t-wood",
+    "term": "HC",
+    "id": "55f54fc8-c3ab-4ea0-9b83-e94c99ccb269"
+  },
+  {
+    "title": "Health Professions Building",
+    "lat": 40.2002258,
+    "lng": -85.40509,
+    "thumb": "/-/media/www/images/map/media/buildings/health professions building 2019.jpg",
+    "desc": "The Health Professions Building houses office for the College of Health and its departments.",
+    "url": "https://bsu.edu/map/buildings/campus/health-professions-building",
+    "term": "HB",
+    "id": "19b1718d-476d-4863-998c-03217ad4a442"
+  },
+  {
+    "title": "Heat Plant",
+    "lat": 40.19865,
+    "lng": -85.4135,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_091.jpg",
+    "desc": "The seven boilers located at the Heat Plant provide steam for heating, domestic hot water, cooking, laundry, and sterilization of surgical instruments for a portion of buildings at Ball State and nearby IU Health Ball Memorial Hospital. ",
+    "url": "https://bsu.edu/map/buildings/campus/heat-plant",
+    "term": "BH",
+    "id": "78c21f50-f1a9-453b-bde4-b7bb60505a78"
+  },
+  {
+    "title": "Heath Farm Recreational Fields",
+    "lat": 40.2275,
+    "lng": -85.4316,
+    "thumb": "",
+    "type": "athletics",
+    "desc": "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located on the north side of West Bethel Avenue, between County Roads 300 W and 400 W. (4313 N. Everett Road).",
+    "url": "https://bsu.edu/map/athletics/heath-farm-recreation-fields",
+    "term": "",
+    "id": "a107fd64-3f04-459c-bd26-2d6a105ed388"
+  },
+  {
+    "title": "Indiana Academy House",
+    "lat": 40.1973763,
+    "lng": -85.4115753,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_181.jpg",
+    "desc": "",
+    "url": "https://bsu.edu/map/buildings/campus/indiana-academy-house",
+    "term": "AY",
+    "id": "24f78906-69ab-4996-9a65-b82d0554263b"
+  },
+  {
+    "title": "Jo Ann Gora Student Recreation and Wellness Center",
+    "lat": 40.2051735,
+    "lng": -85.40605,
+    "thumb": "/-/media/www/images/map/media/buildings/150/10_camp022_226.jpg",
+    "desc": "The Jo Ann Gora Student Recreation and Wellness Center is a state-of-the-art athletic and recreational complex.",
+    "url": "https://bsu.edu/map/buildings/campus/student-recreation--wellness-center",
+    "term": "RC",
+    "id": "f95b4229-cddb-41da-bd87-4c538dcd39c7"
+  },
+  {
+    "title": "Johnson Halls East: Botsford, Swinford",
+    "lat": 40.208,
+    "lng": -85.4097748,
+    "thumb": "/-/media/www/images/map/media/buildings/150/botswinexterior.jpg",
+    "desc": "Johnson Complex provides on-campus housing to students.",
+    "url": "https://bsu.edu/map/buildings/campus/johnson-halls-a-botsford-swinford",
+    "term": "JE",
+    "id": "7e7599ce-33e9-445d-b257-e358f216b873"
+  },
+  {
+    "title": "Johnson Halls West: Schmidt/Wilson",
+    "lat": 40.2078667,
+    "lng": -85.41092,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_110.jpg",
+    "desc": "Johnson Complex provides on-campus housing to students.",
+    "url": "https://bsu.edu/map/buildings/campus/johnson-halls-b-schmidt-wilson",
+    "term": "JW",
+    "id": "1082074d-ef08-4a4a-a594-b4caaa58bd68"
+  },
+  {
+    "title": "Kitselman Center",
+    "lat": 40.1974869,
+    "lng": -85.42595,
+    "thumb": "/-/media/www/images/map/media/43219/05kitselman_200.jpg",
+    "desc": "This historic residential property is home to the university's Virginia B. Ball Center for Creative Inquiry. ",
+    "url": "https://bsu.edu/map/buildings/campus/kitselman-center",
+    "term": "KC",
+    "id": "efe50283-b56e-4790-bf85-e33aa0e108d7"
+  },
+  {
+    "title": "Kitselman Center",
+    "lat": 40.19724,
+    "lng": -85.42596,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Any color permit required<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Stadium",
+    "id": "1e5c9313-9c38-417b-b2ca-cf3e44e95f37"
+  },
+  {
+    "title": "L. A. Pittenger Student Center",
+    "lat": 40.1972351,
+    "lng": -85.40902,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp024_002.jpg",
+    "desc": "The L.A. Pittenger Student Center serves as a hub for many on-campus student organizations, programs, and services. The center also contains the Tally food court, barbershop, bowling alley, post office, and 24-room hotel.",
+    "url": "https://bsu.edu/map/buildings/campus/student-center-l-a-pittenger",
+    "term": "SC",
+    "id": "0176cdc8-4ced-4821-9ec8-49f8540611b0"
+  },
+  {
+    "title": "LaFollette Complex",
+    "lat": 40.2068024,
+    "lng": -85.40895,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_324.jpg",
+    "desc": "Housing approximately 1,900 students, LaFollette Complex is the largest residence hall complex on campus. ",
+    "url": "https://bsu.edu/map/buildings/campus/lafollette-complex",
+    "term": "LA",
+    "id": "cce1cc60-b222-4d0c-9bd5-4fec06e5f8d6"
+  },
+  {
+    "title": "LaFollette Field",
+    "lat": 40.20728,
+    "lng": -85.4076,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp019_001laffield.jpg",
+    "type": "athletics",
+    "desc": "Across McKinley Avenue from LaFollette Complex, this large grassy area in front of Worthen Arena is a popular place for students to play Frisbee and tag football.",
+    "url": "https://bsu.edu/map/athletics/lafollette-field",
+    "term": "",
+    "id": "f0ed9268-950a-46a1-956e-75a18d96da71"
+  },
+  {
+    "title": "LaFollette Square",
+    "lat": 40.2068024,
+    "lng": -85.4092,
+    "thumb": "",
+    "type": "dinging",
+    "desc": "Located in the center of the LaFollette Complex with dining options on the first floor and mezzanine.",
+    "url": "https://bsu.edu/map/dining/lafollette-square",
+    "term": "LA",
+    "id": "9ca42acc-3fe5-4858-a14b-d77085c23cea"
+  },
+  {
+    "title": "Lewellen Aquatic Center",
+    "lat": 40.2059479,
+    "lng": -85.40744,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_338.jpg",
+    "desc": "The Lewellen Pool Aquatic Center provides aquatic facilities for classes, athletics, and recreation. ",
+    "url": "https://bsu.edu/map/buildings/campus/lewellen-pool-aquatic-center",
+    "term": "LP",
+    "id": "7da60166-9a68-4e72-8bee-354279ca42bc"
+  },
+  {
+    "title": "Lucina Hall",
+    "lat": 40.198185,
+    "lng": -85.41129,
+    "thumb": "/-/media/www/images/map/media/40687/lucina05_200.jpg",
+    "desc": "Lucina Hall is a first-stop location for many new students seeking undergraduate degrees. It houses the Welcome Center, as well as the Offices of Admissions and Scholarships and Financial Aid.",
+    "url": "https://bsu.edu/map/buildings/campus/lucina-hall",
+    "term": "LU",
+    "id": "c0f36d51-567e-4bc6-b2d2-dcaeab8be779"
+  },
+  {
+    "title": "Lucina Tennis Courts",
+    "lat": 40.1983,
+    "lng": -85.41198,
+    "thumb": "",
+    "type": "athletics",
+    "desc": "Recreational tennis courts.  Located between Lucina Hall and West Quad Building.  It is accessible by vehicle off of University Avenue.",
+    "url": "https://bsu.edu/map/athletics/lucina-tennis-courts",
+    "term": "",
+    "id": "618b3fb9-95dd-4ddf-af32-5c78af908ba5"
+  },
+  {
+    "title": "Maria Bingham Hall",
+    "lat": 40.196,
+    "lng": -85.4135,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_001.jpg",
+    "desc": "This property houses research facilities for faculty and students affiliated with the Center for Medical Education, also known as the Indiana University School of Medicine-Muncie.",
+    "url": "https://bsu.edu/map/buildings/campus/maria-bingham-hall-medical-education-building",
+    "term": "MB",
+    "id": "c7cf3e45-12ae-4fb0-814f-e2c3f5bd1467"
+  },
+  {
+    "title": "Marilyn K. Glick Center for Glass",
+    "lat": 40.1987,
+    "lng": -85.4167,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_148.jpg",
+    "desc": "The Marilyn K. Glick Center for Glass is a glass arts studio that supports the practice of contemporary glass arts. ",
+    "url": "https://bsu.edu/map/buildings/campus/marilyn-k-glick-center-for-glass",
+    "term": "GL",
+    "id": "29e5cf1a-a797-48d2-8409-bd2b1665dbb3"
+  },
+  {
+    "title": "Micro Caf&#233; ",
+    "lat": 40.2034,
+    "lng": -85.4026947,
+    "thumb": "",
+    "type": "dinging",
+    "desc": "An eatery with quick meals in mind, offering a bountiful selection of carryout items, including sandwiches, salads, and drinks. Located on the first floor in the Studebaker West Complex.",
+    "url": "https://bsu.edu/map/dining/micro-cafe",
+    "term": "SW",
+    "id": "80b15fc3-d4cc-49c9-9f83-856832a50eff"
+  },
+  {
+    "title": "Multicultural Center",
+    "lat": 40.1965675,
+    "lng": -85.408,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_175.jpg",
+    "desc": "The Multicultural Center brings together students of different genders, races, and ethnicities to discuss social and racial issues. ",
+    "url": "https://bsu.edu/map/buildings/campus/multicultural-center",
+    "term": "MA",
+    "id": "cc235eb4-8c12-42d3-8247-730082a87f6c"
+  },
+  {
+    "title": "Music Instruction Building",
+    "lat": 40.19983,
+    "lng": -85.4069748,
+    "thumb": "/-/media/www/images/map/media/buildings/150/musicinstruction05b_150.jpg",
+    "desc": "The Music Instruction Building, also known as MIB, provides a state-of-the-art home for the School of Music's music performance and music technology programs.",
+    "url": "https://bsu.edu/map/buildings/campus/music-instruction-building",
+    "term": "MI",
+    "id": "9338b9d3-480e-45b3-a4a3-70f057f64d7f"
+  },
+  {
+    "title": "Naked Lady",
+    "lat": 40.2025,
+    "lng": -85.40703,
+    "thumb": "/-/media/www/images/map/media/buildings/150/nakedlady13_camp020_181.jpg",
+    "type": "landmark",
+    "desc": "Forest Idyll, referred to by students as “the naked lady,” is a bronze statue located in the central lobby of Bracken Library.",
+    "url": "https://bsu.edu/map/landmarks/naked-lady",
+    "term": "",
+    "id": "0dd27ca1-98af-4541-a6f0-a090683b6d53"
+  },
+  {
+    "title": "North Quadrangle Building",
+    "lat": 40.1999931,
+    "lng": -85.40855,
+    "thumb": "/-/media/www/images/map/media/buildings/150/10_camp008_206.jpg",
+    "desc": "The North Quandrangle Building—better known as North Quad—houses a tutoring center, offices for academic advising and academic systems, and departments affiliated with our College of Sciences and Humanities.",
+    "url": "https://bsu.edu/map/buildings/campus/north-quadrangle-building",
+    "term": "NQ",
+    "id": "a45c43a7-f53d-4873-bce3-d55da1204dc2"
+  },
+  {
+    "title": "Noyer Center",
+    "lat": 40.20343,
+    "lng": -85.40514,
+    "thumb": "",
+    "type": "dinging",
+    "desc": "Noyer Center offers an array of dining options, from carryout items to The Retreat, a restaurant catering to lunches crafted for faculty and staff.",
+    "url": "https://bsu.edu/map/dining/noyer-center",
+    "term": "NO",
+    "id": "365f24e0-67f4-4402-bd71-d1abf8fdc06c"
+  },
+  {
+    "title": "Noyer Complex",
+    "lat": 40.2033,
+    "lng": -85.40514,
+    "thumb": "/-/media/www/images/map/media/buildings/150/10_camp009_047.jpg",
+    "desc": "Noyer Complex provides on-campus housing to students. ",
+    "url": "https://bsu.edu/map/buildings/campus/noyer-complex",
+    "term": "NO",
+    "id": "5914df41-0538-46c5-ac6c-292b9ab31b10"
+  },
+  {
+    "title": "Oakwood Building",
+    "lat": 40.21431,
+    "lng": -85.41104,
+    "thumb": "",
+    "desc": "Oakwood Building houses the Office of Community Engagement and Institute for Entrepreneurship and Free Enterprise.",
+    "url": "https://bsu.edu/map/buildings/campus/oakwood-building",
+    "term": "",
+    "id": "c87d8626-f58a-4ec4-988c-09b56f835ddb"
+  },
+  {
+    "title": "P11",
+    "lat": 40.19865,
+    "lng": -85.41122,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Visitor",
+    "id": "62e2a40a-2566-4c51-9018-87626be4ce85"
+  },
+  {
+    "title": "P14",
+    "lat": 40.1977539,
+    "lng": -85.41198,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Visitors",
+    "id": "545e2ee4-5a1b-434d-aee1-c971a5b4ac29"
+  },
+  {
+    "title": "P2",
+    "lat": 40.2082,
+    "lng": -85.4119,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Visitor",
+    "id": "16aa2363-c702-40a6-bd0f-4edd60015d50"
+  },
+  {
+    "title": "P3",
+    "lat": 40.20763,
+    "lng": -85.40845,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Visitor",
+    "id": "cd5dbb17-ec6b-435f-aa76-f03ad5a54dcc"
+  },
+  {
+    "title": "P4",
+    "lat": 40.20594,
+    "lng": -85.40869,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Visitor",
+    "id": "92d3c587-c0e8-4251-abea-c9f35d75d42d"
+  },
+  {
+    "title": "P7",
+    "lat": 40.2015,
+    "lng": -85.40915,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Visitor",
+    "id": "6cb4f416-340c-42c5-81a8-0e5cd11b19ec"
+  },
+  {
+    "title": "P9",
+    "lat": 40.20159,
+    "lng": -85.4058,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Meters<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Visitor",
+    "id": "8dddb42d-86d7-40e9-9510-fafb0bff347e"
+  },
+  {
+    "title": "Park Hall",
+    "lat": 40.20212,
+    "lng": -85.4033051,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp024_141.jpg",
+    "desc": "Park Hall is one of the university's residence halls. ",
+    "url": "https://bsu.edu/map/buildings/campus/park-hall",
+    "term": "PK",
+    "id": "e44b33ca-e430-4c89-b584-d276575f95b8"
+  },
+  {
+    "title": "Parking Garage, McKinley Avenue (R7)",
+    "lat": 40.19897,
+    "lng": -85.40695,
+    "thumb": "",
+    "type": "parking",
+    "desc": "This parking garage is located immediately south of Sursa Hall and the Music Instruction Building. Metered parking for visitors is located on the bottom floor with a pay station located at each pedestrian exit. The remainder of the garage is restricted (red) parking and requires a permit.<br/><br/>Red permit required<br/>3:30 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "1c3c64ab-c493-4b14-83d4-a8a5ae16dcce"
+  },
+  {
+    "title": "Pruis Hall",
+    "lat": 40.2019653,
+    "lng": -85.40636,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp024_076.jpg",
+    "desc": "John J. Pruis Hall is a 690-seat venue used for a variety of Ball State functions, including classes, convocations, orientation, conferences, speakers, and the performing arts.",
+    "url": "https://bsu.edu/map/buildings/campus/pruis-hall",
+    "term": "PH",
+    "id": "90496e2c-c862-47fc-982c-5d2de776559d"
+  },
+  {
+    "title": "Public Safety Department",
+    "lat": 40.1950874,
+    "lng": -85.4075241,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_162.jpg",
+    "desc": "This property houses the offices of University Police.",
+    "url": "https://bsu.edu/map/buildings/campus/department-of-public-safety",
+    "term": "PD",
+    "id": "77dd3db9-d0dd-4e0e-825d-878873b048fc"
+  },
+  {
+    "title": "Quiznos",
+    "lat": 40.2055,
+    "lng": -85.406,
+    "thumb": "",
+    "type": "dinging",
+    "desc": "Located in the Student Recreation and Wellness Center, Quiznos (a national chain) serves toasted sub sandwiches.",
+    "url": "https://bsu.edu/map/dining/quiznos",
+    "term": "",
+    "id": "f10b2408-2b05-4fb0-a504-a5acc17ad009"
+  },
+  {
+    "title": "R1",
+    "lat": 40.20855,
+    "lng": -85.4123,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "4e4de065-28f6-4248-b657-4a5ea72b8ade"
+  },
+  {
+    "title": "R10",
+    "lat": 40.20112,
+    "lng": -85.40601,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "baadeb10-9a92-464a-ae75-5c244c1c5df5"
+  },
+  {
+    "title": "R11",
+    "lat": 40.1995,
+    "lng": -85.41302,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "bdd22238-17a2-451b-b09b-3b20cd044462"
+  },
+  {
+    "title": "R2",
+    "lat": 40.20573,
+    "lng": -85.40901,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "8ce4b647-a1f7-434d-aea8-19405c169ebd"
+  },
+  {
+    "title": "R20",
+    "lat": 40.1959763,
+    "lng": -85.41275,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "6e5ff755-b000-4a80-bb35-db581967d0bd"
+  },
+  {
+    "title": "R21",
+    "lat": 40.1965,
+    "lng": -85.411,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "a7d6a96a-a24d-4b3d-a02a-33741d2da7da"
+  },
+  {
+    "title": "R23",
+    "lat": 40.19831,
+    "lng": -85.40812,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.\t<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "de670a68-914e-47df-b8ff-c4b07ef5c867"
+  },
+  {
+    "title": "R25",
+    "lat": 40.20081,
+    "lng": -85.4107,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "38bbfadb-ba7d-49df-a52a-6e078d0c72a0"
+  },
+  {
+    "title": "R27",
+    "lat": 40.201,
+    "lng": -85.4099,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "89a9562f-693f-4272-86da-b9faee24d8fe"
+  },
+  {
+    "title": "R4",
+    "lat": 40.20558,
+    "lng": -85.40471,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "6d747e60-1d1d-4dc6-bb4d-c6b1dabdd35c"
+  },
+  {
+    "title": "R5",
+    "lat": 40.20437,
+    "lng": -85.406,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Red permit required<br/>7 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "4710d43b-e8a3-4780-8c13-9bfd121b5531"
+  },
+  {
+    "title": "Rinard Orchid Greenhouse",
+    "lat": 40.1987419,
+    "lng": -85.4158,
+    "thumb": "/-/media/www/images/map/media/buildings/150/rinardgreenhous150.jpg",
+    "desc": "The Orchid Greenhouse houses the Wheeler-Thanhauser Orchid Collection and Species Bank. ",
+    "url": "https://bsu.edu/map/buildings/campus/greenhouse",
+    "term": "GH",
+    "id": "460b4174-ddee-4647-925e-3267be4a9f4a"
+  },
+  {
+    "title": "Robert Bell Building",
+    "lat": 40.2043381,
+    "lng": -85.40882,
+    "thumb": "/-/media/www/images/map/media/buildings/150/11_camp005_194.jpg",
+    "desc": "The Robert Bell Building houses the Departments of English, Computer Science, and Mathematical Sciences. ",
+    "url": "https://bsu.edu/map/buildings/campus/robert-bell-building",
+    "term": "RB",
+    "id": "5ba78ca2-7f68-4937-afb7-ddc69cca2e81"
+  },
+  {
+    "title": "Scheidler Apartments",
+    "lat": 40.2205,
+    "lng": -85.419,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_373.jpg",
+    "desc": "A community of University Apartments, Scheidler Apartments is one of two apartment complexes maintained by Ball State.",
+    "url": "https://bsu.edu/map/buildings/campus/scheidler-apartments",
+    "term": "SR",
+    "id": "58858dc1-86b7-4481-a042-9189f1736f81"
+  },
+  {
+    "title": "Scheumann Stadium",
+    "lat": 40.2160149,
+    "lng": -85.4167938,
+    "thumb": "/-/media/www/images/map/media/buildings/150/stadium13_camp020_065.jpg",
+    "type": "athletics",
+    "desc": "Located North of campus, Scheumann Stadium is the home for the Cardinal football team, seating 22,500 fans. ",
+    "url": "https://bsu.edu/map/athletics/scheumann-stadium",
+    "term": "ST",
+    "id": "8fb36c75-a3aa-447a-b73e-13118e4f15fd"
+  },
+  {
+    "title": "Scramble Light",
+    "lat": 40.2003,
+    "lng": -85.4078,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp009_274.jpg",
+    "type": "landmark",
+    "desc": "Located at McKinley and Riverside avenues, the Scramble Light is a popular place for people to meet.",
+    "url": "https://bsu.edu/map/landmarks/scramble-light",
+    "term": "",
+    "id": "6d83f15a-25de-42ce-a494-3e4b3fa6a808"
+  },
+  {
+    "title": "Service and Stores",
+    "lat": 40.22027,
+    "lng": -85.42391,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_388.jpg",
+    "desc": "This property houses offices related to vital services and operations at Ball State, including central mailing and receiving, printing services, purchasing, trade shops, and transportation. ",
+    "url": "https://bsu.edu/map/buildings/campus/service-and-stores-building",
+    "term": "SV",
+    "id": "9125fd78-e692-4ce2-a9a7-1e4d476454b9"
+  },
+  {
+    "title": "Shafer Tower",
+    "lat": 40.2038078,
+    "lng": -85.4080048,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp009_095.jpg",
+    "desc": "Shafer Tower is a prominent landmark located in the center of campus and features a carillon tower housing 48 custom-made bells.",
+    "url": "https://bsu.edu/map/landmarks/shafer-tower",
+    "term": "SH",
+    "id": "8eeddd12-a0d5-4db0-bc0b-0be492d9803b"
+  },
+  {
+    "title": "Showalter Building",
+    "lat": 40.2198029,
+    "lng": -85.4232,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_384.jpg",
+    "desc": "This property houses offices related to Facilities Planning and Management.",
+    "url": "https://bsu.edu/map/buildings/campus/showalter-building",
+    "term": "SO",
+    "id": "6c7483e9-accd-47c3-942e-68a122623700"
+  },
+  {
+    "title": "South Campus Recreation Field 1",
+    "lat": 40.198,
+    "lng": -85.4179,
+    "thumb": "",
+    "type": "athletics",
+    "desc": "South Campus Recreation Field 1 is used for intramural recreational activities. Located at University and Tillotson avenues, near the heat plant.",
+    "url": "https://bsu.edu/map/athletics/south-campus-recreation-field-1",
+    "term": "",
+    "id": "f1a2e416-4cde-4012-8ce2-65e28ff91550"
+  },
+  {
+    "title": "South Campus Recreation Field 2",
+    "lat": 40.198,
+    "lng": -85.4152,
+    "thumb": "",
+    "type": "athletics",
+    "desc": "Ball State's recreational fields are used for baseball, softball, soccer, and other intramural recreational activities. Located at University and Tillotson Avenues, near The Marilyn K. Glick Center for Glass.",
+    "url": "https://bsu.edu/map/athletics/south-campus-recreation-field-2",
+    "term": "",
+    "id": "22488923-f767-4cb3-b2f3-d83165fb3e64"
+  },
+  {
+    "title": "Sponsored Projects Administration",
+    "lat": 40.20059,
+    "lng": -85.41077,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_062.jpg",
+    "desc": "This property houses the Sponsored Projects Administration which plays a key in the administration of the university's many grants and copyrights.",
+    "url": "https://bsu.edu/map/buildings/campus/sponsored-projects-administration",
+    "term": "RH",
+    "id": "c2673fef-8968-4b17-ab20-dc32559c0274"
+  },
+  {
+    "title": "Stadium",
+    "lat": 40.21666,
+    "lng": -85.41941,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Any color permit required<br/>24 hour parking<br/>Overflow for all lots<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Stadium",
+    "id": "00aec25b-c7f3-40ac-811c-f68172fbf604"
+  },
+  {
+    "title": "Stadium Overflow",
+    "lat": 40.21525,
+    "lng": -85.42086,
+    "thumb": "",
+    "type": "parking",
+    "desc": "Any color permit required<br/>24 hour parking<br/>Overflow for all lots<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Stadium",
+    "id": "f16caaea-5e2b-455e-a08c-182733c8c160"
+  },
+  {
+    "title": "Studebaker Hall East",
+    "lat": 40.20341,
+    "lng": -85.40157,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_102.jpg",
+    "desc": "Studebaker Hall East, better known as Stu East, is one of the university's residence halls.",
+    "url": "https://bsu.edu/map/buildings/campus/studebaker-east-complex",
+    "term": "SE",
+    "id": "368bcfd4-6173-4f72-9f45-d6bf1f5c49a0"
+  },
+  {
+    "title": "Studebaker Hall West",
+    "lat": 40.2032738,
+    "lng": -85.4026947,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_101.jpg",
+    "desc": "Studebaker Hall West, better known as Stu West, is one of the university's residence halls.",
+    "url": "https://bsu.edu/map/buildings/campus/studebaker-west-complex",
+    "term": "SW",
+    "id": "7e2368d1-3dc6-468c-a850-9e44e39ab253"
+  },
+  {
+    "title": "Student Center Parking Garage (R8)",
+    "lat": 40.19643,
+    "lng": -85.40857,
+    "thumb": "",
+    "type": "parking",
+    "desc": "This parking garage is located immediately south of the Student Center. Metered parking for visitors is located on the bottom floor with a pay station located at each pedestrian exit. The remainder of the garage is restricted (red) parking and requires a permit.<br/><br/>Red permit required<br/>3:30 a.m. to 7 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
+    "url": "null",
+    "term": "Restricted",
+    "id": "bb001588-0937-443a-8e50-a1b17c3466eb"
+  },
+  {
+    "title": "Sursa Performance Hall",
+    "lat": 40.19983,
+    "lng": -85.4073,
+    "thumb": "/-/media/www/images/map/media/buildings/150/musicinstruction05b_150.jpg",
+    "desc": "Located in the Music Instruction Building, Sursa Performance Hall is a rehearsal, performance, and recital hall that features the latest in acoustic advancements.",
+    "url": "https://bsu.edu/map/buildings/campus/sursa-performance-hall",
+    "term": "MI",
+    "id": "b97eb9b3-17b6-4282-abd9-27138030092e"
+  },
+  {
+    "title": "Tally Food Court",
+    "lat": 40.1972351,
+    "lng": -85.4088,
+    "thumb": "",
+    "type": "dinging",
+    "desc": "The Tally Food Court, located in the L.A. Pittenger Student Center, features a Taco Bell, Starbucks, salad bar, grill menu, soups, and comfort foods.",
+    "url": "https://bsu.edu/map/dining/student-center-tally-food-court",
+    "term": "",
+    "id": "020db148-f609-4a47-88ad-709931d9eed7"
+  },
+  {
+    "title": "Teachers College Building",
+    "lat": 40.2008171,
+    "lng": -85.4084854,
+    "thumb": "/-/media/www/images/map/media/buildings/150/10_camp008_030.jpg",
+    "desc": "This building, also known as TC, houses the office for our Teachers College and its departments.",
+    "url": "https://bsu.edu/map/buildings/campus/teachers-college-building",
+    "term": "TC",
+    "id": "0fedb4a8-861a-4490-aa9b-e4c712082592"
+  },
+  {
+    "title": "Teaching and Research Greenhouse",
+    "lat": 40.1987572,
+    "lng": -85.41461,
+    "thumb": "/-/media/www/images/map/media/buildings/150/trainnigandresearchgreenhouse150.jpg",
+    "desc": "The Teaching and Research Greenhouse provides a place for students to work on research projects and contains plants from around the world for them to examine.",
+    "url": "https://bsu.edu/map/buildings/campus/teaching-and-research-greenhouse",
+    "term": "",
+    "id": "68ae4dd1-8293-4292-96a0-8a9a710a8e4a"
+  },
+  {
+    "title": "The Atrium and Jamba Juice",
+    "lat": 40.2023,
+    "lng": -85.4087,
+    "thumb": "",
+    "type": "dinging",
+    "desc": "The Atrium in the Art and Journalism Building (AJ) is a food court that includes an outdoor courtyard and food establishments ranging from Italian, Asian, and Mexican to burgers, chicken, subs, and salads. Also in AJ is Jamba Juice.",
+    "url": "https://bsu.edu/map/dining/atrium-food-court",
+    "term": "AJ",
+    "id": "d489e659-b7b2-4c1f-9604-7290e1688afe"
+  },
+  {
+    "title": "The Quad",
+    "lat": 40.1991,
+    "lng": -85.4102,
+    "thumb": "/-/media/www/images/map/media/buildings/150/11_camp023_26.jpg",
+    "desc": "This large grass area and historic part of campus is bordered by North Quad, the Fine Arts Building, Cooper Science Complex, Ball Gym, West Quad, Lucina Hall, the Administration Building, and the Burkhart Building.",
+    "url": "https://bsu.edu/map/landmarks/the-quad",
+    "term": "landmark",
+    "id": "7643ad3f-0fec-4098-a332-9de4c31833c6"
+  },
+  {
+    "title": "The Village",
+    "lat": 40.19766,
+    "lng": -85.40571,
+    "thumb": "",
+    "type": "landmark",
+    "desc": "Students enjoy hanging out in the Village, a business district along University Avenue.",
+    "url": "https://bsu.edu/map/landmarks/the-village",
+    "term": "",
+    "id": "3230b792-4d98-45b9-b5cc-b2585f7ed8c0"
+  },
+  {
+    "title": "Thomas J. Kinghorn Hall",
+    "lat": 40.2046,
+    "lng": -85.4024,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp024_112.jpg",
+    "desc": "Kinghorn Hall is one of the university's residence halls. ",
+    "url": "https://bsu.edu/map/buildings/campus/thomas-j-kinghorn-hall",
+    "term": "KI",
+    "id": "8aca1041-09a4-48b3-8246-0364ef36e824"
+  },
+  {
+    "title": "Tom John Food Shop",
+    "lat": 40.20448,
+    "lng": -85.40225,
+    "thumb": "",
+    "type": "dinging",
+    "desc": "Located in Kinghorn Hall, the Tom John Food Shop serves custom-made sandwich options with breakfast, lunch, and dinner in mind. An adjacent grocery area offers grab-and-go items from snacks and frozen entrees to fruit cups and salads.",
+    "url": "https://bsu.edu/map/dining/tom-john-food-shop",
+    "term": "",
+    "id": "9c464a30-8afe-49bf-9ecb-d0718af07a61"
+  },
+  {
+    "title": "Transfer Indiana Group",
+    "lat": 40.19682,
+    "lng": -85.4076,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_179.jpg",
+    "desc": "This property houses the Transfer Indiana Central Office whose staff is responsible for working with incoming transfer students to determine how courses taken at other colleges and universities would transfer to Ball State.",
+    "url": "https://bsu.edu/map/buildings/campus/400-north-mckinley",
+    "term": "AS",
+    "id": "7ad9e2ca-1f1a-4696-a8c7-155f9937007b"
+  },
+  {
+    "title": "University Green",
+    "lat": 40.20388,
+    "lng": -85.40741,
+    "thumb": "/-/media/www/images/map/media/buildings/150/12_camp019_022.jpg",
+    "type": "landmark",
+    "desc": "Located between Bracken Library and the Architecture Building, University Green is a popular spot for outdoor concerts and other special events.",
+    "url": "https://bsu.edu/map/landmarks/university-green",
+    "term": "",
+    "id": "e4be49ae-ee2a-487d-a731-c81416801fc3"
+  },
+  {
+    "title": "University Theatre",
+    "lat": 40.2017174,
+    "lng": -85.40702,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp016_218.jpg",
+    "desc": "University Theatre is a 400-seat arts venue used primarily for the Department of Theatre and Dance's Mainstage Subscription Series. ",
+    "url": "https://bsu.edu/map/buildings/campus/university-theatre",
+    "term": "TH",
+    "id": "dd5b2339-34ed-4128-a906-0330b64c8bd0"
+  },
+  {
+    "title": "Varsity Baseball Complex",
+    "lat": 40.2174,
+    "lng": -85.4219,
+    "thumb": "/-/media/www/images/map/media/buildings/300/baseball13_camp020_036.jpg",
+    "type": "athletics",
+    "desc": "The baseball diamond is used by our baseball team and is across Tillotson Avenue from Scheumann Stadium. ",
+    "url": "https://bsu.edu/map/athletics/baseball-diamond",
+    "term": "",
+    "id": "09f15ec8-5e06-4e9f-b380-d77a925beb49"
+  },
+  {
+    "title": "Varsity Softball Complex",
+    "lat": 40.21755,
+    "lng": -85.4239,
+    "thumb": "/-/media/www/images/map/media/buildings/150/softball13_camp020_054.jpg",
+    "type": "athletics",
+    "desc": "The softball diamond is used by our softball team. ",
+    "url": "https://bsu.edu/map/athletics/softball-diamond",
+    "term": "",
+    "id": "10b2139e-9472-4120-8cbc-fab852c65296"
+  },
+  {
+    "title": "Wagoner Complex",
+    "lat": 40.19627,
+    "lng": -85.4106445,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp013_409.jpg",
+    "desc": "Wagoner Complex is a residence hall used by high school students attending the Indiana Academy for Science, Mathematics, and Humanities. ",
+    "url": "https://bsu.edu/map/buildings/campus/wagoner-complex",
+    "term": "WA",
+    "id": "43935247-dc86-44d2-9483-d062a2550d72"
+  },
+  {
+    "title": "West Campus Field and Shelter",
+    "lat": 40.1984749,
+    "lng": -85.41771,
+    "thumb": "",
+    "desc": "The West Campus Field and Shelter is located on the corner of Tillotson and University avenues. The fields are used for Sports Club activities. The shelter is available to be reserved through a Sports Facilities Space Request.",
+    "url": "https://bsu.edu/map/buildings/campus/west-campus-field-and-shelter",
+    "term": "WC",
+    "id": "bd6549bf-8fb7-4de7-bf3c-6105b1c08823"
+  },
+  {
+    "title": "West Quad Building",
+    "lat": 40.19887,
+    "lng": -85.4128,
+    "thumb": "/-/media/www/images/map/media/buildings/150/13_camp009_020.jpg",
+    "desc": "The West Quadrangle Building, better known as West Quad, houses offices of the Graduate School, Department of Natural Resources and Environmental Management, the Office of Institutional Effectiveness, and Marketing and Communications.",
+    "url": "https://bsu.edu/map/buildings/campus/west-quad-building",
+    "term": "WQ",
+    "id": "ad88106a-e029-4076-84c6-a52b6858dadf"
+  },
+  {
+    "title": "Whitinger Business Building",
+    "lat": 40.2034836,
+    "lng": -85.40643,
+    "thumb": "/-/media/www/images/map/media/41214/05whitinger_200.jpg",
+    "desc": "The Whitinger Business Building houses offices and departments affiliated with our Miller College of Business (MCOB).",
+    "url": "https://bsu.edu/map/buildings/campus/whitinger-business-building",
+    "term": "WB",
+    "id": "d85bbc47-2ab3-4c7e-97e8-c6020c52548a"
+  },
+  {
+    "title": "Woodworth Commons",
+    "lat": 40.2011,
+    "lng": -85.40519,
+    "thumb": "",
+    "type": "dinging",
+    "desc": "Located inside Woodworth Complex on the ground level, just south of the Emens Parking Garage, Woodworth Commons has a wide variety of dining options, from pizza and burgers to panini, salads, and much more.",
+    "url": "https://bsu.edu/map/dining/woodworth-commons",
+    "term": "WO",
+    "id": "5b11663c-998f-4cfc-9417-8e791386d965"
+  },
+  {
+    "title": "Woodworth Complex",
+    "lat": 40.20133,
+    "lng": -85.40519,
+    "thumb": "/-/media/www/images/map/media/buildings/150/10_camp022_174.jpg",
+    "desc": "Woodworth Complex provides on-campus housing for students. ",
+    "url": "https://bsu.edu/map/buildings/campus/woodworth-complex",
+    "term": "WO",
+    "id": "95a53dc9-3b74-4471-93d2-faefed83d718"
+  },
+  {
+    "title": "Worthen Arena",
+    "lat": 40.2070274,
+    "lng": -85.4063339,
+    "thumb": "/-/media/www/images/map/media/buildings/150/arena13_camp020_108.jpg",
+    "type": "athletics",
+    "desc": "Worthen Arena is the home of the Cardinal men's and women's basketball and volleyball teams.",
+    "url": "https://bsu.edu/map/athletics/worthen-arena",
+    "term": "WR",
+    "id": "14162993-003a-4147-9ba4-bcf6bde6a2fb"
   },
   {
     "title" : "North Dining",
@@ -1586,6 +1752,7 @@
     "type" : "dining",
     "desc" : "From down-home, authentic barbeque to hip, artisanal treats and pastries, this state-of-the-art dining hall offers a bevy of culinary experiences aimed to exceed the nutritional needs and culinary expectations of our diverse community.",
     "url" : "https://www.bsu.edu/campuslife/dining/locations/northdining",
-    "term" : ""
+    "term" : "",
+    "id": "4c71f5c9-14d1-4144-88a3-880c759e311c"
   }
 ]
