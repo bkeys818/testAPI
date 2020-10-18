@@ -64,7 +64,7 @@
                 "roomNumber": 201,
                 "hours": [
                     {
-                        "day": "mon-fri",
+                        "day": ["mon-fri"],
                         "open": "8:00am",
                         "close": "5:00pm",
                         "notes": "7:30 a.m. – 4 p.m. Summer Hours"
@@ -99,7 +99,7 @@
                 ],
                 "hours": [
                     {
-                        "day": "all",
+                        "day": ["all"],
                         "open": "7:00am",
                         "close": "8:30pm"
                     }
@@ -112,12 +112,12 @@
                 ],
                 "hours": [
                     {
-                        "day": "sun-thu",
+                        "day": ["sun", "thu"],
                         "open": "7:00am",
                         "close": "9:30pm"
                     },
                     {
-                        "day": "fri-sat",
+                        "day": ["fri", "sat"],
                         "open": "7:00am",
                         "close": "8:30pm"
                     }
@@ -131,12 +131,12 @@
                 ],
                 "hours": [
                     {
-                        "day": "sun-thu",
+                        "day": ["sun" "thu"],
                         "open": "11:00am",
                         "close": "9:30pm"
                     },
                     {
-                        "day": "fri-sat",
+                        "day": ["fri" "sat"],
                         "open": "11:00am",
                         "close": "8:30pm"
                     }
@@ -148,7 +148,7 @@
                 ],
                 "hours": [
                     {
-                        "day": "all",
+                        "day": ["all"],
                         "open": "7:00am",
                         "close": "2:00am"
                     }
@@ -160,22 +160,22 @@
                 ],
                 "hours": [
                     {
-                        "day": "sun",
+                        "day": ["sun"],
                         "open": "7:00am",
                         "close": "12:00am"
                     },
                     {
-                        "day": "mon-thu",
+                        "day": ["mon" "thu"],
                         "open": "7:00am",
                         "close": "12:00am"
                     },
                     {
-                        "day": "fri",
+                        "day": ["fri"],
                         "open": "7:00am",
                         "close": "12:00am"
                     },
                     {
-                        "day": "sat",
+                        "day": ["sat"],
                         "open": "7:00am",
                         "close": "12:00am"
                     }
