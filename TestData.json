@@ -1,182 +1,210 @@
 [
-    {
-        "title": "Naked Lady",
-        "desc": "Forest Idyll, referred to by students as “the naked lady,” is a bronze statue located in the central lobby of Bracken Library.",
-        "id": "0dd27ca1-98af-4541-a6f0-a090683b6d53",
-        "lat": 40.2025,
-        "lng": -85.40703,
-        "type": "landmark",
-        "url": "https://bsu.edu/map/landmarks/naked-lady"
+  {
+    "title": "Naked Lady",
+    "desc": "Forest Idyll, referred to by students as “the naked lady,” is a bronze statue located in the central lobby of Bracken Library.",
+    "id": "0dd27ca1-98af-4541-a6f0-a090683b6d53",
+    "lat": 40.2025,
+    "lng": -85.40703,
+    "type": "landmark",
+    "url": "https://bsu.edu/map/landmarks/naked-lady"
+  },
+  {
+    "title": "Pruis Hall",
+    "desc": "John J. Pruis Hall is a 690-seat venue used for a variety of Ball State functions, including classes, convocations, orientation, conferences, speakers, and the performing arts.",
+    "id": "90496e2c-c862-47fc-982c-5d2de776559d",
+    "lat": 40.2019653,
+    "lng": -85.40636,
+    "term": "PH",
+    "url": "https://bsu.edu/map/buildings/campus/pruis-hall"
+  },
+  {
+    "title": "G2W",
+    "id": "29b80960-59f3-4626-bba4-91fde1b17b6b",
+    "lat": 40.2066,
+    "lng": -85.40591,
+    "type": "parking"
+  },
+  {
+    "title": "Music Instruction Building",
+    "desc": "The Music Instruction Building, also known as MIB, provides a state-of-the-art home for the School of Music's music performance and music technology programs.",
+    "id": "9338b9d3-480e-45b3-a4a3-70f057f64d7f",
+    "lat": 40.19983,
+    "lng": -85.4069748,
+    "term": "MI",
+    "url": "https://bsu.edu/map/buildings/campus/music-instruction-building"
+  },
+  {
+    "title": "West Quad Building",
+    "desc": "The West Quadrangle Building, better known as West Quad, houses offices of the Graduate School, Department of Natural Resources and Environmental Management, the Office of Institutional Effectiveness, and Marketing and Communications.",
+    "id": "ad88106a-e029-4076-84c6-a52b6858dadf",
+    "lat": 40.19887,
+    "lng": -85.4128,
+    "term": "WQ",
+    "url": "https://bsu.edu/map/buildings/campus/west-quad-building"
+  },
+  {
+    "title": "North Dining Hall",
+    "desc": "From down-home, authentic barbeque to hip, artisanal treats and pastries, this state-of-the-art dining hall offers a bevy of culinary experiences aimed to exceed the nutritional needs and culinary expectations of our diverse community.",
+    "id": "4c71f5c9-14d1-4144-88a3-880c759e311c",
+    "lat": 40.207339,
+    "lng": -85.410988,
+    "type": "dining",
+    "url": "https://www.bsu.edu/campuslife/dining/locations/northdining",
+    "address ": {
+      "street": "1525 N McKinley Ave",
+      "city": "Muncie",
+      "state": "IN",
+      "zip": 47306,
+      "country": "United States"
     },
-    {
-        "title": "Pruis Hall",
-        "desc": "John J. Pruis Hall is a 690-seat venue used for a variety of Ball State functions, including classes, convocations, orientation, conferences, speakers, and the performing arts.",
-        "id": "90496e2c-c862-47fc-982c-5d2de776559d",
-        "lat": 40.2019653,
-        "lng": -85.40636,
-        "term": "PH",
-        "url": "https://bsu.edu/map/buildings/campus/pruis-hall"
-    },
-    {
-        "title": "G2W",
-        "id": "29b80960-59f3-4626-bba4-91fde1b17b6b",
-        "lat": 40.2066,
-        "lng": -85.40591,
-        "type": "parking"
-    },
-    {
-        "title": "Music Instruction Building",
-        "desc": "The Music Instruction Building, also known as MIB, provides a state-of-the-art home for the School of Music's music performance and music technology programs.",
-        "id": "9338b9d3-480e-45b3-a4a3-70f057f64d7f",
-        "lat": 40.19983,
-        "lng": -85.4069748,
-        "term": "MI",
-        "url": "https://bsu.edu/map/buildings/campus/music-instruction-building"
-    },
-    {
-        "title": "West Quad Building",
-        "desc": "The West Quadrangle Building, better known as West Quad, houses offices of the Graduate School, Department of Natural Resources and Environmental Management, the Office of Institutional Effectiveness, and Marketing and Communications.",
-        "id": "ad88106a-e029-4076-84c6-a52b6858dadf",
-        "lat": 40.19887,
-        "lng": -85.4128,
-        "term": "WQ",
-        "url": "https://bsu.edu/map/buildings/campus/west-quad-building"
-    },
-    {
-        "title": "North Dining Hall",
-        "desc": "From down-home, authentic barbeque to hip, artisanal treats and pastries, this state-of-the-art dining hall offers a bevy of culinary experiences aimed to exceed the nutritional needs and culinary expectations of our diverse community.",
-        "id": "4c71f5c9-14d1-4144-88a3-880c759e311c",
-        "lat": 40.207339,
-        "lng": -85.410988,
-        "type": "dining",
-        "url": "https://www.bsu.edu/campuslife/dining/locations/northdining",
-        "address ": {
-            "street": "1525 N McKinley Ave",
-            "city": "Muncie",
-            "state": "IN",
-            "zip": 47306,
-            "country": "United States"
-        },
-        "offices": [
-            {
-                "name": "University Dining Services",
-                "roomNumber": 201,
-                "hours": [
-                    {
-                        "day": ["mon", "fri"],
-                        "open": "8:00am",
-                        "close": "5:00pm",
-                        "notes": "7:30 a.m. – 4 p.m. Summer Hours"
-                    }
-                ],
-                "phone": 7652851967,
-                "email": "dining@bsu.edu",
-                "url": "https://www.bsu.edu/campuslife/dining"
-            }
+    "offices": [
+      {
+        "name": "University Dining Services",
+        "roomNumber": 201,
+        "hours": [
+          {
+            "day": [
+              "mon",
+              "fri"
+            ],
+            "open": "8:00am",
+            "close": "5:00pm",
+            "notes": "7:30 a.m. – 4 p.m. Summer Hours"
+          }
         ],
-        "restrooms": [
-            {
-                "roomNumber": 119,
-                "sex": "male"
-            },
-            {
-                "roomNumber": 118,
-                "sex": "gender inclusive"
-            },
-            {
-                "roomNumber": 117,
-                "sex": "women"
-            }
+        "phone": 7652851967,
+        "email": "dining@bsu.edu",
+        "url": "https://www.bsu.edu/campuslife/dining"
+      }
+    ],
+    "restrooms": [
+      {
+        "roomNumber": 119,
+        "sex": "male"
+      },
+      {
+        "roomNumber": 118,
+        "sex": "gender inclusive"
+      },
+      {
+        "roomNumber": 117,
+        "sex": "women"
+      }
+    ],
+    "restaurants": [
+      {
+        "name": [
+          "Allergen-Free"
         ],
-        "restaurants": [
-            {
-                "name": [
-                    "Allergen-Free"
-                ],
-                "hours": [
-                    {
-                        "day": ["all"],
-                        "open": "7:00am",
-                        "close": "8:30pm"
-                    }
-                ]
-            },
-            {
-                "name": [
-                    "Bakery",
-                    "Boar's Head Deli"
-                ],
-                "hours": [
-                    {
-                        "day": ["sun", "thu"],
-                        "open": "7:00am",
-                        "close": "9:30pm"
-                    },
-                    {
-                        "day": ["fri", "sat"],
-                        "open": "7:00am",
-                        "close": "8:30pm"
-                    }
-                ]
-            },
-            {
-                "name": [
-                    "Barbeque",
-                    "Grill",
-                    "Italian"
-                ],
-                "hours": [
-                    {
-                        "day": ["sun", "thu"],
-                        "open": "11:00am",
-                        "close": "9:30pm"
-                    },
-                    {
-                        "day": ["fri", "sat"],
-                        "open": "11:00am",
-                        "close": "8:30pm"
-                    }
-                ]
-            },
-            {
-                "name": [
-                    "Breakfast"
-                ],
-                "hours": [
-                    {
-                        "day": ["all"],
-                        "open": "7:00am",
-                        "close": "2:00am"
-                    }
-                ]
-            },
-            {
-                "name": [
-                    "Starbucks"
-                ],
-                "hours": [
-                    {
-                        "day": ["sun"],
-                        "open": "7:00am",
-                        "close": "12:00am"
-                    },
-                    {
-                        "day": ["mon", "thu"],
-                        "open": "7:00am",
-                        "close": "12:00am"
-                    },
-                    {
-                        "day": ["fri"],
-                        "open": "7:00am",
-                        "close": "12:00am"
-                    },
-                    {
-                        "day": ["sat"],
-                        "open": "7:00am",
-                        "close": "12:00am"
-                    }
-                ]
-            }
+        "hours": [
+          {
+            "day": [
+              "all"
+            ],
+            "open": "7:00am",
+            "close": "8:30pm"
+          }
         ]
-    }
+      },
+      {
+        "name": [
+          "Bakery",
+          "Boar's Head Deli"
+        ],
+        "hours": [
+          {
+            "day": [
+              "sun",
+              "thu"
+            ],
+            "open": "7:00am",
+            "close": "9:30pm"
+          },
+          {
+            "day": [
+              "fri",
+              "sat"
+            ],
+            "open": "7:00am",
+            "close": "8:30pm"
+          }
+        ]
+      },
+      {
+        "name": [
+          "Barbeque",
+          "Grill",
+          "Italian"
+        ],
+        "hours": [
+          {
+            "day": [
+              "sun",
+              "thu"
+            ],
+            "open": "11:00am",
+            "close": "9:30pm"
+          },
+          {
+            "day": [
+              "fri",
+              "sat"
+            ],
+            "open": "11:00am",
+            "close": "8:30pm"
+          }
+        ]
+      },
+      {
+        "name": [
+          "Breakfast"
+        ],
+        "hours": [
+          {
+            "day": [
+              "all"
+            ],
+            "open": "7:00am",
+            "close": "2:00am"
+          }
+        ]
+      },
+      {
+        "name": [
+          "Starbucks"
+        ],
+        "hours": [
+          {
+            "day": [
+              "sun"
+            ],
+            "open": "7:00am",
+            "close": "12:00am"
+          },
+          {
+            "day": [
+              "mon",
+              "thu"
+            ],
+            "open": "7:00am",
+            "close": "12:00am"
+          },
+          {
+            "day": [
+              "fri"
+            ],
+            "open": "7:00am",
+            "close": "12:00am"
+          },
+          {
+            "day": [
+              "sat"
+            ],
+            "open": "7:00am",
+            "close": "12:00am"
+          }
+        ]
+      }
+    ]
+  }
 ]
