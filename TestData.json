@@ -61,7 +61,7 @@
       {
         "name": "University Dining Services",
         "roomNumber": 201,
-        "hours": [
+        "schedule": [
           {
             "day": ["mon", "fri"],
             "open": [8, 0],
@@ -91,7 +91,7 @@
     "restaurants": [
       {
         "name": ["Allergen-Free"],
-        "hours": [
+        "schedule": [
           {
             "day": ["all"],
             "open": [7, 0],
@@ -101,7 +101,7 @@
       },
       {
         "name": ["Bakery", "Boar's Head Deli"],
-        "hours": [
+        "schedule": [
           {
             "day": ["sun", "thu"],
             "open": [7, 0],
@@ -116,7 +116,7 @@
       },
       {
         "name": ["Barbeque", "Grill", "Italian"],
-        "hours": [
+        "schedule": [
           {
             "day": ["sun", "thu"],
             "open": [11, 0],
@@ -131,7 +131,7 @@
       },
       {
         "name": ["Breakfast"],
-        "hours": [
+        "schedule": [
           {
             "day": ["all"],
             "open": [7, 0],
@@ -141,7 +141,7 @@
       },
       {
         "name": ["Starbucks"],
-        "hours": [
+        "schedule": [
           {
             "day": ["sun", "sat"],
             "open": [7, 0],
