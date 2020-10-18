@@ -19,7 +19,6 @@
     },
     {
         "title": "G2W",
-        "desc": "Yellow permit required<br/>7 a.m. to 5 p.m.<br/>Monday-Friday<br/><br/>Visit the <a href=\"http://www.bsu.edu/parking\" target=\"_blank\">Office of Parking Services url</a> or call 765-285-1208 for more information about parking on campus.",
         "id": "29b80960-59f3-4626-bba4-91fde1b17b6b",
         "lat": 40.2066,
         "lng": -85.40591,
@@ -64,7 +63,7 @@
                 "roomNumber": 201,
                 "hours": [
                     {
-                        "day": ["mon-fri"],
+                        "day": ["mon", "fri"],
                         "open": "8:00am",
                         "close": "5:00pm",
                         "notes": "7:30 a.m. – 4 p.m. Summer Hours"
@@ -78,17 +77,14 @@
         "restrooms": [
             {
                 "roomNumber": 119,
-                "location": "",
                 "sex": "male"
             },
             {
                 "roomNumber": 118,
-                "location": "",
                 "sex": "gender inclusive"
             },
             {
                 "roomNumber": 117,
-                "location": "",
                 "sex": "women"
             }
         ],
@@ -131,12 +127,12 @@
                 ],
                 "hours": [
                     {
-                        "day": ["sun" "thu"],
+                        "day": ["sun", "thu"],
                         "open": "11:00am",
                         "close": "9:30pm"
                     },
                     {
-                        "day": ["fri" "sat"],
+                        "day": ["fri", "sat"],
                         "open": "11:00am",
                         "close": "8:30pm"
                     }
@@ -165,7 +161,7 @@
                         "close": "12:00am"
                     },
                     {
-                        "day": ["mon" "thu"],
+                        "day": ["mon", "thu"],
                         "open": "7:00am",
                         "close": "12:00am"
                     },
