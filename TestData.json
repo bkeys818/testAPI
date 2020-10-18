@@ -63,12 +63,9 @@
         "roomNumber": 201,
         "hours": [
           {
-            "day": [
-              "mon",
-              "fri"
-            ],
-            "open": "8:00am",
-            "close": "5:00pm",
+            "day": ["mon", "fri"],
+            "open": [8, 0],
+            "close": [17, 0],
             "notes": "7:30 a.m. – 4 p.m. Summer Hours"
           }
         ],
@@ -93,115 +90,67 @@
     ],
     "restaurants": [
       {
-        "name": [
-          "Allergen-Free"
-        ],
+        "name": ["Allergen-Free"],
         "hours": [
           {
-            "day": [
-              "all"
-            ],
-            "open": "7:00am",
-            "close": "8:30pm"
+            "day": ["all"],
+            "open": [7, 0],
+            "close": [20, 30]
           }
         ]
       },
       {
-        "name": [
-          "Bakery",
-          "Boar's Head Deli"
-        ],
+        "name": ["Bakery", "Boar's Head Deli"],
         "hours": [
           {
-            "day": [
-              "sun",
-              "thu"
-            ],
-            "open": "7:00am",
-            "close": "9:30pm"
+            "day": ["sun", "thu"],
+            "open": [7, 0],
+            "close": [21, 30]
           },
           {
-            "day": [
-              "fri",
-              "sat"
-            ],
-            "open": "7:00am",
-            "close": "8:30pm"
+            "day": ["fri", "sat"],
+            "open": [7, 0],
+            "close": [20, 30]
           }
         ]
       },
       {
-        "name": [
-          "Barbeque",
-          "Grill",
-          "Italian"
-        ],
+        "name": ["Barbeque", "Grill", "Italian"],
         "hours": [
           {
-            "day": [
-              "sun",
-              "thu"
-            ],
-            "open": "11:00am",
-            "close": "9:30pm"
+            "day": ["sun", "thu"],
+            "open": [11, 0],
+            "close": [21, 30]
           },
           {
-            "day": [
-              "fri",
-              "sat"
-            ],
-            "open": "11:00am",
-            "close": "8:30pm"
+            "day": ["fri", "sat"],
+            "open": [11, 0],
+            "close": [20, 30]
           }
         ]
       },
       {
-        "name": [
-          "Breakfast"
-        ],
+        "name": ["Breakfast"],
         "hours": [
           {
-            "day": [
-              "all"
-            ],
-            "open": "7:00am",
-            "close": "2:00am"
+            "day": ["all"],
+            "open": [7, 0],
+            "close": [14, 0]
           }
         ]
       },
       {
-        "name": [
-          "Starbucks"
-        ],
+        "name": ["Starbucks"],
         "hours": [
           {
-            "day": [
-              "sun"
-            ],
-            "open": "7:00am",
-            "close": "12:00am"
+            "day": ["sun", "sat"],
+            "open": [7, 0],
+            "close": [22, 0]
           },
           {
-            "day": [
-              "mon",
-              "thu"
-            ],
-            "open": "7:00am",
-            "close": "12:00am"
-          },
-          {
-            "day": [
-              "fri"
-            ],
-            "open": "7:00am",
-            "close": "12:00am"
-          },
-          {
-            "day": [
-              "sat"
-            ],
-            "open": "7:00am",
-            "close": "12:00am"
+            "day": ["mon", "fri"],
+            "open": [7, 0],
+            "close": [24, 0]
           }
         ]
       }

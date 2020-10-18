@@ -41,9 +41,9 @@
 ## Hours
 ```json
 {
-  "day": "",
-  "open": "",
-  "close": "",
+  "day": [""], // all, sun, mon, tue, wed, thu, fri, sat
+  "open": [0, 0], // [hour, minute] (24-hour format)
+  "close": [0, 0], // [hour, minute] (24-hour format)
   "notes": ""
 }
 ```
