@@ -61,14 +61,16 @@
       {
         "name": "University Dining Services",
         "roomNumber": 201,
-        "schedule": [
-          {
-            "day": ["mon", "fri"],
-            "open": [8, 0],
-            "close": [17, 0],
-            "notes": "7:30 a.m. – 4 p.m. Summer Hours"
-          }
-        ],
+        "schedule": {
+          "days": [
+            {
+              "day": ["mon", "fri"],
+              "open": [8, 0],
+              "close": [17, 0],
+              "notes": "7:30 a.m. – 4 p.m. Summer Hours"
+            }
+          ]
+        },
         "phone": 7652851967,
         "email": "dining@bsu.edu",
         "url": "https://www.bsu.edu/campuslife/dining"
@@ -91,68 +93,78 @@
     "restaurants": [
       {
         "name": ["Allergen-Free"],
-        "schedule": [
-          {
-            "day": ["all"],
-            "open": [7, 0],
-            "close": [20, 30]
-          }
-        ]
+        "schedule": {
+          "days": [
+            {
+              "day": ["all"],
+              "open": [7, 0],
+              "close": [20, 30]
+            }
+          ]
+        }
       },
       {
         "name": ["Bakery", "Boar's Head Deli"],
-        "schedule": [
-          {
-            "day": ["sun", "thu"],
-            "open": [7, 0],
-            "close": [21, 30]
-          },
-          {
-            "day": ["fri", "sat"],
-            "open": [7, 0],
-            "close": [20, 30]
-          }
-        ]
+        "schedule": {
+          "days": [
+            {
+              "day": ["sun", "thu"],
+              "open": [7, 0],
+              "close": [21, 30]
+            },
+            {
+              "day": ["fri", "sat"],
+              "open": [7, 0],
+              "close": [20, 30]
+            }
+          ]
+        }
       },
       {
         "name": ["Barbeque", "Grill", "Italian"],
-        "schedule": [
-          {
-            "day": ["sun", "thu"],
-            "open": [11, 0],
-            "close": [21, 30]
-          },
-          {
-            "day": ["fri", "sat"],
-            "open": [11, 0],
-            "close": [20, 30]
-          }
-        ]
+        "schedule": {
+          "days": [
+            {
+              "day": ["sun", "thu"],
+              "open": [11, 0],
+              "close": [21, 30]
+            },
+            {
+              "day": ["fri", "sat"],
+              "open": [11, 0],
+              "close": [20, 30]
+            }
+          ]
+        }
       },
       {
         "name": ["Breakfast"],
-        "schedule": [
-          {
-            "day": ["all"],
-            "open": [7, 0],
-            "close": [14, 0]
-          }
-        ]
+        "schedule": {
+          "days": [
+            {
+              "day": ["all"],
+              "open": [7, 0],
+              "close": [14, 0]
+            }
+          ]
+        }
       },
       {
         "name": ["Starbucks"],
-        "schedule": [
-          {
-            "day": ["sun", "sat"],
-            "open": [7, 0],
-            "close": [22, 0]
-          },
-          {
-            "day": ["mon", "fri"],
-            "open": [7, 0],
-            "close": [24, 0]
-          }
-        ]
+        "schedule": {
+          "days": [
+            {
+              "day": ["sun", "sat"],
+              "open": [7, 0],
+              "close": [22, 0]
+            },
+            {
+              "day": ["mon", "fri"],
+              "open": [7, 0],
+              "close": [24, 0]
+            }
+          ]
+        }
       }
     ]
   }

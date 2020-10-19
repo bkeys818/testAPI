@@ -3,48 +3,51 @@
 ## Place format
 ```json
 {
-  "title": "",  *required
-  "desc": "",
-  "id": "",  *required
-  "lat": 0,  *required
-  "lng": 0,  *required
-  "type": "",
-  "term": "",
-  "url": "",
-  "address ": {
-    "street": "",
-    "city": "",
-    "state": "",
-    "zip": 0,
-    "country": ""
-  },
-  "offices": [
-    {
-      "name": "",
-      "roomNumber": 0,
-      "hours": [/*hours*/],
-      "phone": 0,
-      "email": "",
-      "url": ""
-    }
-  ],
-  "restrooms": [
-    {
-	  "roomNumber": 0,
-      "location": "",
-      "sex": ""
-    }
-  ]
+    "title": "",  *required
+    "desc": "",
+    "id": "",  *required
+    "lat": 0,  *required
+    "lng": 0,  *required
+    "type": "",
+    "term": "",
+    "url": "",
+    "address ": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "zip": 0,
+        "country": ""
+    },
+    "offices": [
+        {
+        "name": "",
+        "roomNumber": 0,
+        "schedule": {/*schedule*/},
+        "phone": 0,
+        "email": "",
+        "url": ""
+        }
+    ],
+    "restrooms": [
+        {
+        "roomNumber": 0,
+        "location": "",
+        "sex": "" // male, female, both, unisex, family
+        }
+    ]
 }
 ```
 
-## Hours
+## Schedule
 ```json
 {
-  "day": [""], // all, sun, mon, tue, wed, thu, fri, sat
-  "open": [0, 0], // [hour, minute] (24-hour format)
-  "close": [0, 0], // [hour, minute] (24-hour format)
-  "notes": ""
+    "days": [
+        {
+            "day": ["all"],
+            "open": [7, 0],
+            "close": [20, 30]
+        }
+    ]
 }
 ```
 
@@ -53,9 +56,9 @@
 ### Dining Hall
 ```json
 "restaurants": [
-  {
+    {
     "names": [""],
-    "hours": [/*hours*/]
-  }
+    "schedule": {/*schedule*/}
+    }
 ]
 ```
