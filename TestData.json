@@ -63,7 +63,7 @@
         "roomNumber": 201,
         "schedule": [
           {
-            "day": ["mon", "fri"],
+            "days": ["mon", "fri"],
             "open": [8],
             "close": [17],
             "notes": "7:30 a.m. – 4 p.m. Summer Hours"
@@ -108,7 +108,7 @@
             "close": [21, 30]
           },
           {
-            "day": ["fri", "sat"],
+            "days": ["fri", "sat"],
             "open": [7],
             "close": [20, 30]
           }
@@ -123,7 +123,7 @@
             "close": [21, 30]
           },
           {
-            "day": ["fri", "sat"],
+            "days": ["fri", "sat"],
             "open": [11],
             "close": [20, 30]
           }
@@ -148,7 +148,7 @@
             "close": [22]
           },
           {
-            "day": ["mon", "fri"],
+            "days": ["mon", "fri"],
             "open": [7],
             "close": [24]
           }
