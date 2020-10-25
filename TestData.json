@@ -63,7 +63,7 @@
         "roomNumber": 201,
         "schedule": [
           {
-            "day": ["mon", "fri"],
+            "days": ["mon", "fri"],
             "open": [8],
             "close": [17],
             "notes": "7:30 a.m. – 4 p.m. Summer Hours"
