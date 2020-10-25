@@ -61,16 +61,14 @@
       {
         "name": "University Dining Services",
         "roomNumber": 201,
-        "schedule": {
-          "days": [
-            {
-              "day": ["mon", "fri"],
-              "open": [8],
-              "close": [17],
-              "notes": "7:30 a.m. – 4 p.m. Summer Hours"
-            }
-          ]
-        },
+        "schedule": [
+          {
+            "day": ["mon", "fri"],
+            "open": [8],
+            "close": [17],
+            "notes": "7:30 a.m. – 4 p.m. Summer Hours"
+          }
+        ],
         "phone": 7652851967,
         "email": "dining@bsu.edu",
         "url": "https://www.bsu.edu/campuslife/dining"
