@@ -1745,14 +1745,162 @@
     "id": "14162993-003a-4147-9ba4-bcf6bde6a2fb"
   },
   {
-    "title" : "North Dining",
-    "lat" : 40.207339,
-    "lng" : -85.410988,
-    "thumb" : "NorthDining",
-    "type" : "dining",
-    "desc" : "From down-home, authentic barbeque to hip, artisanal treats and pastries, this state-of-the-art dining hall offers a bevy of culinary experiences aimed to exceed the nutritional needs and culinary expectations of our diverse community.",
-    "url" : "https://www.bsu.edu/campuslife/dining/locations/northdining",
-    "term" : "",
-    "id": "4c71f5c9-14d1-4144-88a3-880c759e311c"
+    "title": "North Dining Hall",
+    "desc": "From down-home, authentic barbeque to hip, artisanal treats and pastries, this state-of-the-art dining hall offers a bevy of culinary experiences aimed to exceed the nutritional needs and culinary expectations of our diverse community.",
+    "id": "4c71f5c9-14d1-4144-88a3-880c759e311c",
+    "lat": 40.207339,
+    "lng": -85.410988,
+    "type": "dining",
+    "url": "https://www.bsu.edu/campuslife/dining/locations/northdining",
+    "address ": {
+      "street": "1525 N McKinley Ave",
+      "city": "Muncie",
+      "state": "IN",
+      "zip": 47306,
+      "country": "United States"
+    },
+    "offices": [
+      {
+        "name": "University Dining Services",
+        "roomNumber": 201,
+        "schedule": [
+          {
+            "days": ["mon", "fri"],
+            "open": [8],
+            "close": [17],
+            "notes": "7:30 a.m. – 4 p.m. Summer Hours"
+          }
+        ],
+        "phone": 7652851967,
+        "email": "dining@bsu.edu",
+        "url": "https://www.bsu.edu/campuslife/dining"
+      }
+    ],
+    "restrooms": [
+      {
+        "roomNumber": 119,
+        "sex": "male"
+      },
+      {
+        "roomNumber": 118,
+        "sex": "unisex"
+      },
+      {
+        "roomNumber": 117,
+        "sex": "female"
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "Allergen-Free",
+        "schedule": [
+          {
+            "days": ["all"],
+            "open": [7],
+            "close": [20, 30]
+          }
+        ]
+      },
+      {
+        "name": "Bakery",
+        "schedule": [
+          {
+            "days": ["sun", "thu"],
+            "open": [7],
+            "close": [21, 30]
+          },
+          {
+            "days": ["fri", "sat"],
+            "open": [7],
+            "close": [20, 30]
+          }
+        ]
+      },
+      {
+        "name": "Boar's Head Deli",
+        "schedule": [
+          {
+            "days": ["sun", "thu"],
+            "open": [7],
+            "close": [21, 30]
+          },
+          {
+            "days": ["fri", "sat"],
+            "open": [7],
+            "close": [20, 30]
+          }
+        ]
+      },
+      {
+        "name": "Barbeque",
+        "schedule": [
+          {
+            "days": ["sun", "thu"],
+            "open": [11],
+            "close": [21, 30]
+          },
+          {
+            "days": ["fri", "sat"],
+            "open": [11],
+            "close": [20, 30]
+          }
+        ]
+      },
+      {
+        "name": "Grill",
+        "schedule": [
+          {
+            "days": ["sun", "thu"],
+            "open": [11],
+            "close": [21, 30]
+          },
+          {
+            "days": ["fri", "sat"],
+            "open": [11],
+            "close": [20, 30]
+          }
+        ]
+      },
+      {
+        "name": "Italian",
+        "schedule": [
+          {
+            "days": ["sun", "thu"],
+            "open": [11],
+            "close": [21, 30]
+          },
+          {
+            "days": ["fri", "sat"],
+            "open": [11],
+            "close": [20, 30]
+          }
+        ]
+      },
+      {
+        "name": "Breakfast",
+        "schedule": [
+          {
+            "days": ["all"],
+            "open": [7],
+            "close": [14]
+          }
+        ]
+      },
+      {
+        "name": "Starbucks",
+        "schedule": [
+          {
+            "days": ["sun", "sat"],
+            "open": [7],
+            "close": [22]
+          },
+          {
+            "days": ["mon", "fri"],
+            "open": [7],
+            "close": [24]
+          }
+        ]
+      }
+    ]
   }
 ]

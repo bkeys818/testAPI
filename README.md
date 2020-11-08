@@ -57,7 +57,7 @@
 ```json
 "restaurants": [
     {
-    "names": [""],
+    "names": "",
     "schedule": {/*schedule*/}
     }
 ]

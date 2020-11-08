@@ -90,7 +90,7 @@
     ],
     "restaurants": [
       {
-        "name": ["Allergen-Free"],
+        "name": "Allergen-Free",
         "schedule": [
           {
             "days": ["all"],
@@ -100,7 +100,7 @@
         ]
       },
       {
-        "name": ["Bakery", "Boar's Head Deli"],
+        "name": "Bakery",
         "schedule": [
           {
             "days": ["sun", "thu"],
@@ -115,7 +115,22 @@
         ]
       },
       {
-        "name": ["Barbeque", "Grill", "Italian"],
+        "name": "Boar's Head Deli",
+        "schedule": [
+          {
+            "days": ["sun", "thu"],
+            "open": [7],
+            "close": [21, 30]
+          },
+          {
+            "days": ["fri", "sat"],
+            "open": [7],
+            "close": [20, 30]
+          }
+        ]
+      },
+      {
+        "name": "Barbeque",
         "schedule": [
           {
             "days": ["sun", "thu"],
@@ -130,7 +145,37 @@
         ]
       },
       {
-        "name": ["Breakfast"],
+        "name": "Grill",
+        "schedule": [
+          {
+            "days": ["sun", "thu"],
+            "open": [11],
+            "close": [21, 30]
+          },
+          {
+            "days": ["fri", "sat"],
+            "open": [11],
+            "close": [20, 30]
+          }
+        ]
+      },
+      {
+        "name": "Italian",
+        "schedule": [
+          {
+            "days": ["sun", "thu"],
+            "open": [11],
+            "close": [21, 30]
+          },
+          {
+            "days": ["fri", "sat"],
+            "open": [11],
+            "close": [20, 30]
+          }
+        ]
+      },
+      {
+        "name": "Breakfast",
         "schedule": [
           {
             "days": ["all"],
@@ -140,7 +185,7 @@
         ]
       },
       {
-        "name": ["Starbucks"],
+        "name": "Starbucks",
         "schedule": [
           {
             "days": ["sun", "sat"],
