@@ -1,5 +1,13 @@
 # Used as a Fake API for Testing
 
+## Top Obj Format
+```json
+{
+    "version": "0.0.0", // major.minor.patch
+    "data": [/*place*/]
+}
+```
+
 ## Place format
 ```json
 {
