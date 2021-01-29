@@ -1,7 +1,7 @@
 # Used as a Fake API for Testing
 
 ## Top Obj Format
-```json
+```jsonc
 {
     "version": "0.0.0", // major.minor.patch
     "data": [/*place*/]
@@ -9,7 +9,7 @@
 ```
 
 ## Place format
-```json
+```jsonc
 {
     "title": "",  *required
     "desc": "",
@@ -47,7 +47,7 @@
 ```
 
 ## Schedule
-```json
+```jsonc
 {
     "days": [
         {
@@ -62,7 +62,7 @@
 ## Additional objects for specific building types
 
 ### Dining Hall
-```json
+```jsonc
 "restaurants": [
     {
     "names": "",
